@@ -32,3 +32,10 @@ a {
 a:hover, .btn:hover {
   opacity: 0.9;
 }
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

@@ -43,7 +43,7 @@ export default function Sections() {
               transition={{ duration: 0.4, delay: index * 0.2 }}
               viewport={{ once: true }}
             >
-              <Card className="bg-[#17232e] text-left hover:shadow-xl transition duration-300 h-full rounded-xl">
+              <Card className="bg-[#17232e] text-left hover:shadow-xl transition duration-300 h-full rounded-xl hover:border-[#FEE715]">
                 <CardHeader className="flex flex-col items-center space-y-4 pt-6">
                   {card.icon}
                   <CardTitle className="text-xl font-semibold text-white text-center">{card.title}</CardTitle>
