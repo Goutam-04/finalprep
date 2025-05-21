@@ -3,7 +3,6 @@
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
 import { SearchModal } from "./SearchModal";
-import Image from "next/image";
 import { LineShadowText } from "@/components/magicui/line-shadow-text";
 
 export default function Hero() {
