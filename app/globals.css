@@ -1,6 +1,8 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@custom-variant dark (&:is(.dark *));
+
 /* globals.css */
 
 body {
@@ -13,12 +15,10 @@ h1, h2 {
   color: #FFFFFF;
 }
 
-
 a {
   color: #FEE715;
   text-decoration: none;
 }
-
 
 .btn {
   color: #101820;
@@ -27,7 +27,6 @@ a {
   border-radius: 4px;
   display: inline-block;
 }
-
 
 a:hover, .btn:hover {
   opacity: 0.9;
@@ -38,4 +37,25 @@ a:hover, .btn:hover {
 .scrollbar-hide {
   -ms-overflow-style: none;
   scrollbar-width: none;
+}
+
+@theme inline {
+  --animate-line-shadow: line-shadow 15s linear infinite;
+  @keyframes line-shadow {
+  0% {
+    background-position: 0 0;
+    }
+  100% {
+    background-position: 100% -100%;
+    }
+  }
+}
+
+@layer base {
+  * {
+    @apply border-[#FEE715] outline-[#FEE715]/50;
+  }
+  body {
+    @apply bg-[#101820] text-[#E0E0E0];
+  }
 }
