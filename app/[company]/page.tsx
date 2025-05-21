@@ -3,10 +3,6 @@ import path from "path";
 import { notFound } from "next/navigation";
 import CompanyTable from "@/components/CompanyTable";
 
-interface Props {
-  params: { company: string };
-}
-
 interface Question {
   Title: string;
   Difficulty: string;
@@ -16,7 +12,11 @@ interface Question {
   Link: string;
 }
 
-export default function CompanyPage({ params }: Props) {
+export default function CompanyPage({
+  params,
+}: {
+  params: { company: string };
+}) {
   const { company } = params;
 
   const filePath = path.join(process.cwd(), "public", "data", `${company}.json`);
