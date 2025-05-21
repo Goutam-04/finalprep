@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Apply Operations to Make String Empty",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5604231057188381",
+    "Link": "https://leetcode.com/problems/apply-operations-to-make-string-empty",
+    "Topics": "Array, Hash Table, Sorting, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Pascal's Triangle",
+    "Frequency": "74.8",
+    "Acceptance Rate": "0.768005206757785",
+    "Link": "https://leetcode.com/problems/pascals-triangle",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Sorted Array",
+    "Frequency": "66.3",
+    "Acceptance Rate": "0.5268033418796026",
+    "Link": "https://leetcode.com/problems/merge-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "66.3",
+    "Acceptance Rate": "0.3671743845924108",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  }
+]

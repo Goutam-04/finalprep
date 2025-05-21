@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Difficulty of a Job Schedule",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.596529284164859",
+    "Link": "https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Count Good Triplets",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8546919363068991",
+    "Link": "https://leetcode.com/problems/count-good-triplets",
+    "Topics": "Array, Enumeration"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "67.0",
+    "Acceptance Rate": "0.6481469706233441",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  }
+]

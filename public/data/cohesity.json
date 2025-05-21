@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4493745750455983",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Path With Minimum Effort",
+    "Frequency": "88.3",
+    "Acceptance Rate": "0.6114138824864112",
+    "Link": "https://leetcode.com/problems/path-with-minimum-effort",
+    "Topics": "Array, Binary Search, Depth-First Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Find Median from Data Stream",
+    "Frequency": "88.3",
+    "Acceptance Rate": "0.5311655016270243",
+    "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+  }
+]

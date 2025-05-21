@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Intersection of Two Arrays",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.763034932085411",
+    "Link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "Topics": "Array, Hash Table, Two Pointers, Binary Search, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Majority Element",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6565346230448067",
+    "Link": "https://leetcode.com/problems/majority-element",
+    "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Counting"
+  }
+]

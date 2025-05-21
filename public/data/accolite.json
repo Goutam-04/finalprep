@@ -1,0 +1,138 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Replace the Substring for Balanced String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.39412348852152573",
+    "Link": "https://leetcode.com/problems/replace-the-substring-for-balanced-string",
+    "Topics": "String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Operations to Turn Array Into a Palindrome",
+    "Frequency": "89.8",
+    "Acceptance Rate": "0.689548000920881",
+    "Link": "https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome",
+    "Topics": "Array, Two Pointers, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Climbing Stairs",
+    "Frequency": "78.7",
+    "Acceptance Rate": "0.5347728680633532",
+    "Link": "https://leetcode.com/problems/climbing-stairs",
+    "Topics": "Math, Dynamic Programming, Memoization"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "74.7",
+    "Acceptance Rate": "0.5554788513767261",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.3671708207451539",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Binary Tree Right Side View",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.6657405661007837",
+    "Link": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.42160750132857194",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.35649450633630697",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "54.9",
+    "Acceptance Rate": "0.6481356470727451",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "54.9",
+    "Acceptance Rate": "0.4527009103891195",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Vowels of a String",
+    "Frequency": "54.9",
+    "Acceptance Rate": "0.5779048051301707",
+    "Link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search in Rotated Sorted Array",
+    "Frequency": "54.9",
+    "Acceptance Rate": "0.42649629648852916",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Common Subsequence",
+    "Frequency": "54.9",
+    "Acceptance Rate": "0.5815534203445897",
+    "Link": "https://leetcode.com/problems/longest-common-subsequence",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove Duplicates from Sorted Array II",
+    "Frequency": "54.9",
+    "Acceptance Rate": "0.626971083483035",
+    "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Container With Most Water",
+    "Frequency": "54.9",
+    "Acceptance Rate": "0.5757882832782482",
+    "Link": "https://leetcode.com/problems/container-with-most-water",
+    "Topics": "Array, Two Pointers, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Asteroid Collision",
+    "Frequency": "54.9",
+    "Acceptance Rate": "0.4532890294608906",
+    "Link": "https://leetcode.com/problems/asteroid-collision",
+    "Topics": "Array, Stack, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "54.9",
+    "Acceptance Rate": "0.550667109660852",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

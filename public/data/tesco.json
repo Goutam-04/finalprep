@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.49194666703374523",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "58.4",
+    "Acceptance Rate": "0.6097614709272533",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Interval",
+    "Frequency": "58.4",
+    "Acceptance Rate": "0.4327393480277518",
+    "Link": "https://leetcode.com/problems/insert-interval",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Meeting Rooms II",
+    "Frequency": "58.4",
+    "Acceptance Rate": "0.5207984174932236",
+    "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+  }
+]

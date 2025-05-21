@@ -1,0 +1,74 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subsequence of Size K With the Largest Even Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.35582135788658464",
+    "Link": "https://leetcode.com/problems/subsequence-of-size-k-with-the-largest-even-sum",
+    "Topics": "Array, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Counting Elements",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6041879510257034",
+    "Link": "https://leetcode.com/problems/counting-elements",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximize Score After Pair Deletions",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.609984399375975",
+    "Link": "https://leetcode.com/problems/maximize-score-after-pair-deletions",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "79.5",
+    "Acceptance Rate": "0.5506640853071197",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove Duplicate Letters",
+    "Frequency": "73.1",
+    "Acceptance Rate": "0.5118352849799621",
+    "Link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "Topics": "String, Stack, Greedy, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximal Network Rank",
+    "Frequency": "73.1",
+    "Acceptance Rate": "0.6541187113635222",
+    "Link": "https://leetcode.com/problems/maximal-network-rank",
+    "Topics": "Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Fuel Cost to Report to the Capital",
+    "Frequency": "64.0",
+    "Acceptance Rate": "0.6433157206976875",
+    "Link": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reorder Routes to Make All Paths Lead to the City Zero",
+    "Frequency": "64.0",
+    "Acceptance Rate": "0.6492906247601788",
+    "Link": "https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Robot Room Cleaner",
+    "Frequency": "64.0",
+    "Acceptance Rate": "0.774160491558985",
+    "Link": "https://leetcode.com/problems/robot-room-cleaner",
+    "Topics": "Backtracking, Interactive"
+  }
+]

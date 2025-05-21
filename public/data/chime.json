@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Detonate the Maximum Bombs",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.49107308999383004",
+    "Link": "https://leetcode.com/problems/detonate-the-maximum-bombs",
+    "Topics": "Array, Math, Depth-First Search, Breadth-First Search, Graph, Geometry"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Letter Combinations of a Phone Number",
+    "Frequency": "66.5",
+    "Acceptance Rate": "0.636012392257287",
+    "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "Topics": "Hash Table, String, Backtracking"
+  }
+]

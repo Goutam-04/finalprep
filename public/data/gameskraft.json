@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximize Sum of Weights after Edge Removals",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.28697590671353856",
+    "Link": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals",
+    "Topics": "Dynamic Programming, Tree, Depth-First Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "IPO",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.5300567055497201",
+    "Link": "https://leetcode.com/problems/ipo",
+    "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "LFU Cache",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.4628004876814428",
+    "Link": "https://leetcode.com/problems/lfu-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Sliding Window Maximum",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.4746574341360032",
+    "Link": "https://leetcode.com/problems/sliding-window-maximum",
+    "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+  }
+]

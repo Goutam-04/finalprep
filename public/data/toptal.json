@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "String Compression II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5198220886307323",
+    "Link": "https://leetcode.com/problems/string-compression-ii",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Airplane Seat Assignment Probability",
+    "Frequency": "68.5",
+    "Acceptance Rate": "0.666237889320707",
+    "Link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+    "Topics": "Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Image Smoother",
+    "Frequency": "68.5",
+    "Acceptance Rate": "0.6825027936279296",
+    "Link": "https://leetcode.com/problems/image-smoother",
+    "Topics": "Array, Matrix"
+  }
+]

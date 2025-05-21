@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Pow(x, n)",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3685541956170651",
+    "Link": "https://leetcode.com/problems/powx-n",
+    "Topics": "Math, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Smallest Divisor Given a Threshold",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6317219628099612",
+    "Link": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Broken Calculator",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5504507965652644",
+    "Link": "https://leetcode.com/problems/broken-calculator",
+    "Topics": "Math, Greedy"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.21550860332065555",
+    "Link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "Topics": "Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4216028389414116",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Palindromic Substrings",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7152193264231066",
+    "Link": "https://leetcode.com/problems/palindromic-substrings",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5506631636562671",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

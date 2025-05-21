@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Valid Parenthesis String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.38782195954230514",
+    "Link": "https://leetcode.com/problems/valid-parenthesis-string",
+    "Topics": "String, Dynamic Programming, Stack, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5506669283291006",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Roman to Integer",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6462228565879918",
+    "Link": "https://leetcode.com/problems/roman-to-integer",
+    "Topics": "Hash Table, Math, String"
+  }
+]

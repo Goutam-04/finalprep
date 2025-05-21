@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subarray Sum Equals K",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4528338547687147",
+    "Link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotate Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4280880553121055",
+    "Link": "https://leetcode.com/problems/rotate-array",
+    "Topics": "Array, Math, Two Pointers"
+  }
+]

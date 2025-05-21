@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Watering Plants",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7993660018491613",
+    "Link": "https://leetcode.com/problems/watering-plants",
+    "Topics": "Array, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "87.0",
+    "Acceptance Rate": "0.5554859016254544",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Water Bottles",
+    "Frequency": "71.0",
+    "Acceptance Rate": "0.706773363045336",
+    "Link": "https://leetcode.com/problems/water-bottles",
+    "Topics": "Math, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Time to Complete Trips",
+    "Frequency": "71.0",
+    "Acceptance Rate": "0.38994842022209925",
+    "Link": "https://leetcode.com/problems/minimum-time-to-complete-trips",
+    "Topics": "Array, Binary Search"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Remove 9",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5735309358482744",
+    "Link": "https://leetcode.com/problems/remove-9",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Basic Calculator III",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5231414876773928",
+    "Link": "https://leetcode.com/problems/basic-calculator-iii",
+    "Topics": "Math, String, Stack, Recursion"
+  }
+]

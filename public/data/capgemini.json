@@ -1,0 +1,170 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5554739993874785",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Degree of a String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8678121102951366",
+    "Link": "https://leetcode.com/problems/reverse-degree-of-a-string",
+    "Topics": "String, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Number of Unique Subjects Taught by Each Teacher",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8934727720848366",
+    "Link": "https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Remove Duplicates from Sorted Array",
+    "Frequency": "87.4",
+    "Acceptance Rate": "0.6004987278393384",
+    "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Count Elements With Maximum Frequency",
+    "Frequency": "82.9",
+    "Acceptance Rate": "0.7790957018739633",
+    "Link": "https://leetcode.com/problems/count-elements-with-maximum-frequency",
+    "Topics": "Array, Hash Table, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "77.4",
+    "Acceptance Rate": "0.5506629325687885",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reverse Words in a String",
+    "Frequency": "70.3",
+    "Acceptance Rate": "0.5128582819347058",
+    "Link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Add Two Numbers",
+    "Frequency": "70.3",
+    "Acceptance Rate": "0.4594212067071458",
+    "Link": "https://leetcode.com/problems/add-two-numbers",
+    "Topics": "Linked List, Math, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "70.3",
+    "Acceptance Rate": "0.4526963981461149",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Median of Two Sorted Arrays",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.4348886190560878",
+    "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "Topics": "Array, Binary Search, Divide and Conquer"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Move Zeroes",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.6272157453031583",
+    "Link": "https://leetcode.com/problems/move-zeroes",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Anagram",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.6647158532993624",
+    "Link": "https://leetcode.com/problems/valid-anagram",
+    "Topics": "Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Exchange Seats",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.724900293475807",
+    "Link": "https://leetcode.com/problems/exchange-seats",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.7072453287209011",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Nth Highest Salary",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.3790996344586274",
+    "Link": "https://leetcode.com/problems/nth-highest-salary",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Happy String",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.6545293305321579",
+    "Link": "https://leetcode.com/problems/longest-happy-string",
+    "Topics": "String, Greedy, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Fibonacci Number",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.7278212284335039",
+    "Link": "https://leetcode.com/problems/fibonacci-number",
+    "Topics": "Math, Dynamic Programming, Recursion, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotate Array",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.4280655810751723",
+    "Link": "https://leetcode.com/problems/rotate-array",
+    "Topics": "Array, Math, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Palindrome",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.5066563892557219",
+    "Link": "https://leetcode.com/problems/valid-palindrome",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Palindrome Number",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.5903955126110086",
+    "Link": "https://leetcode.com/problems/palindrome-number",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.6481321954885327",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  }
+]

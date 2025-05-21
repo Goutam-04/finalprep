@@ -1,0 +1,194 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Change Null Values in a Table to the Previous Value",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.514088973452931",
+    "Link": "https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "97.4",
+    "Acceptance Rate": "0.5554663027961418",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Merge k Sorted Lists",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.564431969722915",
+    "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "82.7",
+    "Acceptance Rate": "0.4216003751863354",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Palindrome Number",
+    "Frequency": "77.1",
+    "Acceptance Rate": "0.5903912432039777",
+    "Link": "https://leetcode.com/problems/palindrome-number",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "77.1",
+    "Acceptance Rate": "0.3564854305719919",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Managers with at Least 5 Direct Reports",
+    "Frequency": "69.9",
+    "Acceptance Rate": "0.48960022895113214",
+    "Link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Second Highest Salary",
+    "Frequency": "69.9",
+    "Acceptance Rate": "0.43524261739296155",
+    "Link": "https://leetcode.com/problems/second-highest-salary",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reverse Integer",
+    "Frequency": "69.9",
+    "Acceptance Rate": "0.30138660809960166",
+    "Link": "https://leetcode.com/problems/reverse-integer",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Container With Most Water",
+    "Frequency": "69.9",
+    "Acceptance Rate": "0.5757717370134228",
+    "Link": "https://leetcode.com/problems/container-with-most-water",
+    "Topics": "Array, Two Pointers, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Climbing Stairs",
+    "Frequency": "69.9",
+    "Acceptance Rate": "0.5347680137509864",
+    "Link": "https://leetcode.com/problems/climbing-stairs",
+    "Topics": "Math, Dynamic Programming, Memoization"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Majority Element",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.6565324700626286",
+    "Link": "https://leetcode.com/problems/majority-element",
+    "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find Customer Referee",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.717295760380334",
+    "Link": "https://leetcode.com/problems/find-customer-referee",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.550657770513006",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.4526924720833879",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.5197314021580003",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Pascal's Triangle",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.7679884205805333",
+    "Link": "https://leetcode.com/problems/pascals-triangle",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Linked List",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.7900460176733023",
+    "Link": "https://leetcode.com/problems/reverse-linked-list",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Edit Distance",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.5857230172374698",
+    "Link": "https://leetcode.com/problems/edit-distance",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Time to Repair Cars",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.5995617097525889",
+    "Link": "https://leetcode.com/problems/minimum-time-to-repair-cars",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Coin Change",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.4623363651844775",
+    "Link": "https://leetcode.com/problems/coin-change",
+    "Topics": "Array, Dynamic Programming, Breadth-First Search"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Rising Temperature",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.5006149469813481",
+    "Link": "https://leetcode.com/problems/rising-temperature",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reverse Words in a String",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.5128466820604444",
+    "Link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Article Views I",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.7718781785082633",
+    "Link": "https://leetcode.com/problems/article-views-i",
+    "Topics": "Database"
+  }
+]

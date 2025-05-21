@@ -1,0 +1,10 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Height Trees",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4194564897748832",
+    "Link": "https://leetcode.com/problems/minimum-height-trees",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  }
+]

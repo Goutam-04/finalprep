@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Array Hopping Score I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7761982128350934",
+    "Link": "https://leetcode.com/problems/maximum-array-hopping-score-i",
+    "Topics": "Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Array Hopping Score II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5688010899182562",
+    "Link": "https://leetcode.com/problems/maximum-array-hopping-score-ii",
+    "Topics": "Array, Stack, Greedy, Monotonic Stack"
+  }
+]

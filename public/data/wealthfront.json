@@ -1,0 +1,10 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Steps to Make Two Strings Anagram II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7270251365469618",
+    "Link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii",
+    "Topics": "Hash Table, String, Counting"
+  }
+]

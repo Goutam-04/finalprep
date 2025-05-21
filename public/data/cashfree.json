@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber IV",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.651803457613855",
+    "Link": "https://leetcode.com/problems/house-robber-iv",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Erasure Value",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5926074047142944",
+    "Link": "https://leetcode.com/problems/maximum-erasure-value",
+    "Topics": "Array, Hash Table, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Non-decreasing Array",
+    "Frequency": "66.2",
+    "Acceptance Rate": "0.25042614715596495",
+    "Link": "https://leetcode.com/problems/non-decreasing-array",
+    "Topics": "Array"
+  }
+]

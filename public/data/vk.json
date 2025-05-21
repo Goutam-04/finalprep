@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximize Distance to Closest Person",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4885457162458467",
+    "Link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Move Zeroes",
+    "Frequency": "94.5",
+    "Acceptance Rate": "0.6272202059374816",
+    "Link": "https://leetcode.com/problems/move-zeroes",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "94.5",
+    "Acceptance Rate": "0.42160973140421004",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Sorted Array",
+    "Frequency": "87.3",
+    "Acceptance Rate": "0.5268048124224004",
+    "Link": "https://leetcode.com/problems/merge-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Two Sorted Lists",
+    "Frequency": "77.2",
+    "Acceptance Rate": "0.6665466521998727",
+    "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Palindrome",
+    "Frequency": "77.2",
+    "Acceptance Rate": "0.5066651000742102",
+    "Link": "https://leetcode.com/problems/valid-palindrome",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Summary Ranges",
+    "Frequency": "77.2",
+    "Acceptance Rate": "0.5289370799329934",
+    "Link": "https://leetcode.com/problems/summary-ranges",
+    "Topics": "Array"
+  }
+]

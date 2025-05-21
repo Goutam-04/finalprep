@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.492950599802474",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Integer to English Words",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.34307658550073183",
+    "Link": "https://leetcode.com/problems/integer-to-english-words",
+    "Topics": "Math, String, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Add Bold Tag in String",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.509185244660362",
+    "Link": "https://leetcode.com/problems/add-bold-tag-in-string",
+    "Topics": "Array, Hash Table, String, Trie, String Matching"
+  }
+]

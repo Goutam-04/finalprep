@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Unguarded Cells in the Grid",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6580300176216808",
+    "Link": "https://leetcode.com/problems/count-unguarded-cells-in-the-grid",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Market Analysis I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.571962674440623",
+    "Link": "https://leetcode.com/problems/market-analysis-i",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Market Analysis II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5787603950803348",
+    "Link": "https://leetcode.com/problems/market-analysis-ii",
+    "Topics": "Database"
+  }
+]

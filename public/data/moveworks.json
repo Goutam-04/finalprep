@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Text Justification",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.47813388719103",
+    "Link": "https://leetcode.com/problems/text-justification",
+    "Topics": "Array, String, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Shortest Uncommon Substring in an Array",
+    "Frequency": "92.0",
+    "Acceptance Rate": "0.47856465538753307",
+    "Link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "Topics": "Array, Hash Table, String, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Synonymous Sentences",
+    "Frequency": "88.3",
+    "Acceptance Rate": "0.5654441382234471",
+    "Link": "https://leetcode.com/problems/synonymous-sentences",
+    "Topics": "Array, Hash Table, String, Backtracking, Union Find"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Word Break II",
+    "Frequency": "85.4",
+    "Acceptance Rate": "0.5339203474531821",
+    "Link": "https://leetcode.com/problems/word-break-ii",
+    "Topics": "Array, Hash Table, String, Dynamic Programming, Backtracking, Trie, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Number of Removable Characters",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.45575843555468587",
+    "Link": "https://leetcode.com/problems/maximum-number-of-removable-characters",
+    "Topics": "Array, Two Pointers, String, Binary Search"
+  }
+]

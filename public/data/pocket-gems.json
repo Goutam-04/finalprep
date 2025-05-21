@@ -1,0 +1,122 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Find the Index of the First Occurrence in a String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4479455304787464",
+    "Link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "Topics": "Two Pointers, String, String Matching"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Sort Colors",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6683469618469152",
+    "Link": "https://leetcode.com/problems/sort-colors",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Non-negative Integers without Consecutive Ones",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.40186711996291213",
+    "Link": "https://leetcode.com/problems/non-negative-integers-without-consecutive-ones",
+    "Topics": "Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Clone Graph",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6195533752944161",
+    "Link": "https://leetcode.com/problems/clone-graph",
+    "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Word Break",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4813244103033334",
+    "Link": "https://leetcode.com/problems/word-break",
+    "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Top K Frequent Words",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5915585981140212",
+    "Link": "https://leetcode.com/problems/top-k-frequent-words",
+    "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Shortest Palindrome",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.405430810782185",
+    "Link": "https://leetcode.com/problems/shortest-palindrome",
+    "Topics": "String, Rolling Hash, String Matching, Hash Function"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Kth Largest Element in an Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6783442097042347",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Alien Dictionary",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3659558089404637",
+    "Link": "https://leetcode.com/problems/alien-dictionary",
+    "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Basic Calculator III",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5231397639574183",
+    "Link": "https://leetcode.com/problems/basic-calculator-iii",
+    "Topics": "Math, String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Inorder Successor in BST",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5061073976889539",
+    "Link": "https://leetcode.com/problems/inorder-successor-in-bst",
+    "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Top K Frequent Elements",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6438942278504272",
+    "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5492656228414837",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Repeating Character Replacement",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5689890049549609",
+    "Link": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find All Duplicates in an Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7633703544043421",
+    "Link": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
+    "Topics": "Array, Hash Table"
+  }
+]

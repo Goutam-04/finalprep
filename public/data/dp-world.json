@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotting Oranges",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5635928080439571",
+    "Link": "https://leetcode.com/problems/rotting-oranges",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Zero Request Servers",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3298521429908291",
+    "Link": "https://leetcode.com/problems/count-zero-request-servers",
+    "Topics": "Array, Hash Table, Sliding Window, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Set Intersection Size At Least Two",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.45118805159538355",
+    "Link": "https://leetcode.com/problems/set-intersection-size-at-least-two",
+    "Topics": "Array, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "All Nodes Distance K in Binary Tree",
+    "Frequency": "87.7",
+    "Acceptance Rate": "0.6620566836235048",
+    "Link": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree",
+    "Topics": "Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search in Rotated Sorted Array",
+    "Frequency": "87.7",
+    "Acceptance Rate": "0.42650428080600383",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Capacity To Ship Packages Within D Days",
+    "Frequency": "87.7",
+    "Acceptance Rate": "0.7179055160613262",
+    "Link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Binary Tree Cameras",
+    "Frequency": "87.7",
+    "Acceptance Rate": "0.47092308952412154",
+    "Link": "https://leetcode.com/problems/binary-tree-cameras",
+    "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+  }
+]

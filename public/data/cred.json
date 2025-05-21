@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42160379606093523",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Accounts Merge",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5928353063613894",
+    "Link": "https://leetcode.com/problems/accounts-merge",
+    "Topics": "Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
+  }
+]

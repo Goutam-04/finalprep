@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Find Pivot Index",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6035740354649918",
+    "Link": "https://leetcode.com/problems/find-pivot-index",
+    "Topics": "Array, Prefix Sum"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Visible People in a Queue",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7106834830130573",
+    "Link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "Topics": "Array, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5506646886559803",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

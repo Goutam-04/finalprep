@@ -1,0 +1,162 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Mark Elements on Array by Performing Queries",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.47518165518542976",
+    "Link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+    "Topics": "Array, Hash Table, Sorting, Heap (Priority Queue), Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Furthest Point From Origin",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6431717024232861",
+    "Link": "https://leetcode.com/problems/furthest-point-from-origin",
+    "Topics": "String, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Submatrices with Top-Left Element and Sum Less Than k",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5705247936374044",
+    "Link": "https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k",
+    "Topics": "Array, Matrix, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Double Modular Exponentiation",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.46970093646158495",
+    "Link": "https://leetcode.com/problems/double-modular-exponentiation",
+    "Topics": "Array, Math, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "77.9",
+    "Acceptance Rate": "0.5554739885730268",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Employees to Be Invited to a Meeting",
+    "Frequency": "71.0",
+    "Acceptance Rate": "0.6214790161539085",
+    "Link": "https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting",
+    "Topics": "Depth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Lexicographically Smallest Generated String",
+    "Frequency": "71.0",
+    "Acceptance Rate": "0.2936718107935348",
+    "Link": "https://leetcode.com/problems/lexicographically-smallest-generated-string",
+    "Topics": "String, Greedy, String Matching"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "71.0",
+    "Acceptance Rate": "0.6206997281000329",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "71.0",
+    "Acceptance Rate": "0.4216027396489174",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Isomorphic Strings",
+    "Frequency": "71.0",
+    "Acceptance Rate": "0.4668438394957894",
+    "Link": "https://leetcode.com/problems/isomorphic-strings",
+    "Topics": "Hash Table, String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Number of Refueling Stops",
+    "Frequency": "71.0",
+    "Acceptance Rate": "0.40496218583345645",
+    "Link": "https://leetcode.com/problems/minimum-number-of-refueling-stops",
+    "Topics": "Array, Dynamic Programming, Greedy, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "71.0",
+    "Acceptance Rate": "0.36840853785256356",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find K Pairs with Smallest Sums",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.4061628836936278",
+    "Link": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "Topics": "Array, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Sorted Array",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.5267941209261144",
+    "Link": "https://leetcode.com/problems/merge-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Palindrome Linked List",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.5559056911183705",
+    "Link": "https://leetcode.com/problems/palindrome-linked-list",
+    "Topics": "Linked List, Two Pointers, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Lexicographical Numbers",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.7309008700417894",
+    "Link": "https://leetcode.com/problems/lexicographical-numbers",
+    "Topics": "Depth-First Search, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.5197360792287563",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Climbing Stairs",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.5347699005374446",
+    "Link": "https://leetcode.com/problems/climbing-stairs",
+    "Topics": "Math, Dynamic Programming, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Permutations",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.8048506242931378",
+    "Link": "https://leetcode.com/problems/permutations",
+    "Topics": "Array, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Second Highest Salary",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.43525235917658167",
+    "Link": "https://leetcode.com/problems/second-highest-salary",
+    "Topics": "Database"
+  }
+]

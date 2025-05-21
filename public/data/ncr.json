@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of People Aware of a Secret",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.46290074314371304",
+    "Link": "https://leetcode.com/problems/number-of-people-aware-of-a-secret",
+    "Topics": "Dynamic Programming, Queue, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "89.7",
+    "Acceptance Rate": "0.3671707200551593",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  }
+]

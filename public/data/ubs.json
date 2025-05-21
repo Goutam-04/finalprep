@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search Suggestions System",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.650464987624579",
+    "Link": "https://leetcode.com/problems/search-suggestions-system",
+    "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Pairs of Connectable Servers in a Weighted Tree Network",
+    "Frequency": "94.6",
+    "Acceptance Rate": "0.5392345037823191",
+    "Link": "https://leetcode.com/problems/count-pairs-of-connectable-servers-in-a-weighted-tree-network",
+    "Topics": "Array, Tree, Depth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Beautiful Arrangement",
+    "Frequency": "61.6",
+    "Acceptance Rate": "0.6449009876502498",
+    "Link": "https://leetcode.com/problems/beautiful-arrangement",
+    "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "61.6",
+    "Acceptance Rate": "0.550667109660852",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "61.6",
+    "Acceptance Rate": "0.4216075420242419",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  }
+]

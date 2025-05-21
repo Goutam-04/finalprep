@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Number of 1 Bits",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7423212610785829",
+    "Link": "https://leetcode.com/problems/number-of-1-bits",
+    "Topics": "Divide and Conquer, Bit Manipulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Top K Frequent Words",
+    "Frequency": "91.2",
+    "Acceptance Rate": "0.5915504795345666",
+    "Link": "https://leetcode.com/problems/top-k-frequent-words",
+    "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Word Ladder",
+    "Frequency": "74.9",
+    "Acceptance Rate": "0.424570437004745",
+    "Link": "https://leetcode.com/problems/word-ladder",
+    "Topics": "Hash Table, String, Breadth-First Search"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Kth Largest Element in a Stream",
+    "Frequency": "69.2",
+    "Acceptance Rate": "0.5971757164515662",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "Topics": "Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Event Emitter",
+    "Frequency": "61.1",
+    "Acceptance Rate": "0.74488771041742",
+    "Link": "https://leetcode.com/problems/event-emitter",
+    "Topics": ""
+  }
+]

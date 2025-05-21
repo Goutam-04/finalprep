@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Sudoku Solver",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.63757719050963",
+    "Link": "https://leetcode.com/problems/sudoku-solver",
+    "Topics": "Array, Hash Table, Backtracking, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Island Perimeter",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.734501805950883",
+    "Link": "https://leetcode.com/problems/island-perimeter",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4919432032866994",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5554757983066865",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Palindrome",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5066577499701972",
+    "Link": "https://leetcode.com/problems/valid-palindrome",
+    "Topics": "Two Pointers, String"
+  }
+]

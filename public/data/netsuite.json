@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Employee Bonus",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7711807750992411",
+    "Link": "https://leetcode.com/problems/employee-bonus",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Average Salary Excluding the Minimum and Maximum Salary",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6344126017490895",
+    "Link": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary",
+    "Topics": "Array, Sorting"
+  }
+]

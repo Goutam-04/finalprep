@@ -1,0 +1,50 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Maximum Number of Pairs in Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7546589906680904",
+    "Link": "https://leetcode.com/problems/maximum-number-of-pairs-in-array",
+    "Topics": "Array, Hash Table, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "80.3",
+    "Acceptance Rate": "0.5554799203465081",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "74.1",
+    "Acceptance Rate": "0.3684135691069089",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "65.4",
+    "Acceptance Rate": "0.3564941026128231",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Monthly Transactions I",
+    "Frequency": "65.4",
+    "Acceptance Rate": "0.5828712670691681",
+    "Link": "https://leetcode.com/problems/monthly-transactions-i",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design a Food Rating System",
+    "Frequency": "65.4",
+    "Acceptance Rate": "0.44855486695958435",
+    "Link": "https://leetcode.com/problems/design-a-food-rating-system",
+    "Topics": "Array, Hash Table, String, Design, Heap (Priority Queue), Ordered Set"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Unequal Adjacent Groups Subsequence II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.2771657544054135",
+    "Link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii",
+    "Topics": "Array, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Subarray With Maximum Bitwise AND",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6179490651860466",
+    "Link": "https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and",
+    "Topics": "Array, Bit Manipulation, Brainteaser"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Unequal Adjacent Groups Subsequence I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5973219364459544",
+    "Link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+    "Topics": "Array, String, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "73.9",
+    "Acceptance Rate": "0.648143010775981",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  }
+]

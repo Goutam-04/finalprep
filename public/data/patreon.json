@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Simplify Path",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.47444332334476735",
+    "Link": "https://leetcode.com/problems/simplify-path",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Logger Rate Limiter",
+    "Frequency": "76.2",
+    "Acceptance Rate": "0.7656257939935972",
+    "Link": "https://leetcode.com/problems/logger-rate-limiter",
+    "Topics": "Hash Table, Design, Data Stream"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Binary Tree Maximum Path Sum",
+    "Frequency": "68.2",
+    "Acceptance Rate": "0.41118640938048195",
+    "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "4Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.37980172400299095",
+    "Link": "https://leetcode.com/problems/4sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Furthest Building You Can Reach",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5031591016605329",
+    "Link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "Topics": "Array, Greedy, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Container With Most Water",
+    "Frequency": "87.5",
+    "Acceptance Rate": "0.5757928952874088",
+    "Link": "https://leetcode.com/problems/container-with-most-water",
+    "Topics": "Array, Two Pointers, Greedy"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Largest Rectangle in Histogram",
+    "Frequency": "87.5",
+    "Acceptance Rate": "0.47069779211233437",
+    "Link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "Topics": "Array, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Profit in Job Scheduling",
+    "Frequency": "87.5",
+    "Acceptance Rate": "0.5438710241648749",
+    "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Sliding Window Maximum",
+    "Frequency": "87.5",
+    "Acceptance Rate": "0.47465639678384103",
+    "Link": "https://leetcode.com/problems/sliding-window-maximum",
+    "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Koko Eating Bananas",
+    "Frequency": "87.5",
+    "Acceptance Rate": "0.49043114134018745",
+    "Link": "https://leetcode.com/problems/koko-eating-bananas",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Copy List with Random Pointer",
+    "Frequency": "87.5",
+    "Acceptance Rate": "0.601665660787159",
+    "Link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "Topics": "Hash Table, Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber III",
+    "Frequency": "87.5",
+    "Acceptance Rate": "0.5485689554740016",
+    "Link": "https://leetcode.com/problems/house-robber-iii",
+    "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+  }
+]

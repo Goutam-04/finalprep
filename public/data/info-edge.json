@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6941583164853976",
+    "Link": "https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "Topics": "Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Maximum Factor Score of Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4025641025641026",
+    "Link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array",
+    "Topics": "Array, Math, Number Theory"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Almost Equal Pairs I",
+    "Frequency": "95.0",
+    "Acceptance Rate": "0.3744713677627319",
+    "Link": "https://leetcode.com/problems/count-almost-equal-pairs-i",
+    "Topics": "Array, Hash Table, Sorting, Counting, Enumeration"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Out of Three",
+    "Frequency": "84.6",
+    "Acceptance Rate": "0.7642281345142541",
+    "Link": "https://leetcode.com/problems/two-out-of-three",
+    "Topics": "Array, Hash Table, Bit Manipulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Bus Routes",
+    "Frequency": "73.2",
+    "Acceptance Rate": "0.46973237374209426",
+    "Link": "https://leetcode.com/problems/bus-routes",
+    "Topics": "Array, Hash Table, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subrectangle Queries",
+    "Frequency": "73.2",
+    "Acceptance Rate": "0.8592360952815136",
+    "Link": "https://leetcode.com/problems/subrectangle-queries",
+    "Topics": "Array, Design, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "64.2",
+    "Acceptance Rate": "0.35649130864187356",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  }
+]

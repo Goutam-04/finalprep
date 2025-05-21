@@ -1,0 +1,82 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Circular Queue",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5247969755792885",
+    "Link": "https://leetcode.com/problems/design-circular-queue",
+    "Topics": "Array, Linked List, Design, Queue"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "94.5",
+    "Acceptance Rate": "0.36840933884855614",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "4Sum",
+    "Frequency": "94.5",
+    "Acceptance Rate": "0.3797963900277656",
+    "Link": "https://leetcode.com/problems/4sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design a Stack With Increment Operation",
+    "Frequency": "81.7",
+    "Acceptance Rate": "0.8012215676785207",
+    "Link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "Topics": "Array, Stack, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Hit Counter",
+    "Frequency": "70.2",
+    "Acceptance Rate": "0.6913398050572394",
+    "Link": "https://leetcode.com/problems/design-hit-counter",
+    "Topics": "Array, Binary Search, Design, Queue, Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "70.2",
+    "Acceptance Rate": "0.6207005883978056",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Reaching Points",
+    "Frequency": "70.2",
+    "Acceptance Rate": "0.33578200653079615",
+    "Link": "https://leetcode.com/problems/reaching-points",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "64.2",
+    "Acceptance Rate": "0.4493746870197372",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Game of Life",
+    "Frequency": "55.9",
+    "Acceptance Rate": "0.7124068496425784",
+    "Link": "https://leetcode.com/problems/game-of-life",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Fizz Buzz",
+    "Frequency": "55.9",
+    "Acceptance Rate": "0.7421995957443849",
+    "Link": "https://leetcode.com/problems/fizz-buzz",
+    "Topics": "Math, String, Simulation"
+  }
+]

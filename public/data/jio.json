@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.2988974113135187",
+    "Link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "Topics": "Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Grid of Region Average",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42072020026959367",
+    "Link": "https://leetcode.com/problems/find-the-grid-of-region-average",
+    "Topics": "Array, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximize the Number of Target Nodes After Connecting Trees I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4799820287539936",
+    "Link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximize the Number of Target Nodes After Connecting Trees II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5383006535947712",
+    "Link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "62.6",
+    "Acceptance Rate": "0.5554799058600981",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Making A Large Island",
+    "Frequency": "62.6",
+    "Acceptance Rate": "0.545556974750737",
+    "Link": "https://leetcode.com/problems/making-a-large-island",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "62.6",
+    "Acceptance Rate": "0.6481367384869682",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  }
+]

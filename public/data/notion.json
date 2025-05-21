@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4929524683568506",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Text Justification",
+    "Frequency": "90.4",
+    "Acceptance Rate": "0.47815192219032765",
+    "Link": "https://leetcode.com/problems/text-justification",
+    "Topics": "Array, String, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design a Todo List",
+    "Frequency": "90.4",
+    "Acceptance Rate": "0.5883214351089145",
+    "Link": "https://leetcode.com/problems/design-a-todo-list",
+    "Topics": "Array, Hash Table, String, Design, Sorting"
+  }
+]

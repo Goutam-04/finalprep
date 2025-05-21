@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5554849554600502",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Make The String Great",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6825859663007935",
+    "Link": "https://leetcode.com/problems/make-the-string-great",
+    "Topics": "String, Stack"
+  }
+]

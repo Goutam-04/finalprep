@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Word Search",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.45027793116623793",
+    "Link": "https://leetcode.com/problems/word-search",
+    "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Mountain in Array",
+    "Frequency": "93.5",
+    "Acceptance Rate": "0.41008277875284854",
+    "Link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Enumeration"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "84.3",
+    "Acceptance Rate": "0.7072451478893376",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  }
+]

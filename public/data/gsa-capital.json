@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Total Cost to Hire K Workers",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4303905885909337",
+    "Link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "Topics": "Array, Two Pointers, Heap (Priority Queue), Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximal Square",
+    "Frequency": "93.3",
+    "Acceptance Rate": "0.4855626277154477",
+    "Link": "https://leetcode.com/problems/maximal-square",
+    "Topics": "Array, Dynamic Programming, Matrix"
+  }
+]

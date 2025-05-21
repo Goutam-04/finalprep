@@ -1,0 +1,90 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Area Rectangle With Point Constraints I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.49401129943502825",
+    "Link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i",
+    "Topics": "Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting, Enumeration"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Area Rectangle With Point Constraints II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.20390104662226452",
+    "Link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii",
+    "Topics": "Array, Math, Binary Indexed Tree, Segment Tree, Geometry, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count the Number of Good Subsequences",
+    "Frequency": "79.3",
+    "Acceptance Rate": "0.5099093562759256",
+    "Link": "https://leetcode.com/problems/count-the-number-of-good-subsequences",
+    "Topics": "Hash Table, Math, String, Combinatorics, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Consecutive Sequence",
+    "Frequency": "72.8",
+    "Acceptance Rate": "0.470709292175248",
+    "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "Topics": "Array, Hash Table, Union Find"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "72.8",
+    "Acceptance Rate": "0.550670132075437",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Special Binary String",
+    "Frequency": "72.8",
+    "Acceptance Rate": "0.6328239019688834",
+    "Link": "https://leetcode.com/problems/special-binary-string",
+    "Topics": "String, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "72.8",
+    "Acceptance Rate": "0.5554856957806169",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Word",
+    "Frequency": "72.8",
+    "Acceptance Rate": "0.3858192939557769",
+    "Link": "https://leetcode.com/problems/valid-word",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Angle Between Hands of a Clock",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.6414595983520663",
+    "Link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Length of Anagram Concatenation",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.39659957462260725",
+    "Link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Make a Positive Array",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.37471264367816093",
+    "Link": "https://leetcode.com/problems/make-a-positive-array",
+    "Topics": "Array, Greedy, Prefix Sum"
+  }
+]

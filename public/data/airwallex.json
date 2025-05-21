@@ -1,0 +1,10 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Daily Temperatures",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.672157960004585",
+    "Link": "https://leetcode.com/problems/daily-temperatures",
+    "Topics": "Array, Stack, Monotonic Stack"
+  }
+]

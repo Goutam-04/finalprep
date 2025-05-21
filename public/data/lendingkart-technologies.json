@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Smallest String With A Given Numeric Value",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6700233056270293",
+    "Link": "https://leetcode.com/problems/smallest-string-with-a-given-numeric-value",
+    "Topics": "String, Greedy"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+    "Frequency": "72.6",
+    "Acceptance Rate": "0.3872495303694427",
+    "Link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter",
+    "Topics": "String, Stack, Greedy, Monotonic Stack"
+  }
+]

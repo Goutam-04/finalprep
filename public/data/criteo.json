@@ -1,0 +1,66 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Intersection of Two Arrays",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7630386745957395",
+    "Link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "Topics": "Array, Hash Table, Two Pointers, Binary Search, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "75.3",
+    "Acceptance Rate": "0.4216084983686723",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Sorted Array",
+    "Frequency": "75.3",
+    "Acceptance Rate": "0.5268037995467652",
+    "Link": "https://leetcode.com/problems/merge-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Flood Fill",
+    "Frequency": "75.3",
+    "Acceptance Rate": "0.6619773838969474",
+    "Link": "https://leetcode.com/problems/flood-fill",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Ransom Note",
+    "Frequency": "75.3",
+    "Acceptance Rate": "0.643213112602579",
+    "Link": "https://leetcode.com/problems/ransom-note",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "75.3",
+    "Acceptance Rate": "0.5554849698395509",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search in Rotated Sorted Array",
+    "Frequency": "75.3",
+    "Acceptance Rate": "0.4265045771734559",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Random Pick with Weight",
+    "Frequency": "75.3",
+    "Acceptance Rate": "0.4815883743757998",
+    "Link": "https://leetcode.com/problems/random-pick-with-weight",
+    "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+  }
+]

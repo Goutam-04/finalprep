@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Jump Game VI",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.45941645187653235",
+    "Link": "https://leetcode.com/problems/jump-game-vi",
+    "Topics": "Array, Dynamic Programming, Queue, Heap (Priority Queue), Monotonic Queue"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Missing Number",
+    "Frequency": "63.1",
+    "Acceptance Rate": "0.6979169812723467",
+    "Link": "https://leetcode.com/problems/missing-number",
+    "Topics": "Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "63.1",
+    "Acceptance Rate": "0.550664526236226",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

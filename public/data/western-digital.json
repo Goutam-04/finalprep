@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Odd Even Linked List",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6194561466375205",
+    "Link": "https://leetcode.com/problems/odd-even-linked-list",
+    "Topics": "Linked List"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5554847024761408",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  }
+]

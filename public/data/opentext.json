@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Largest 3-Same-Digit Number in String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6906820405369658",
+    "Link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "74.1",
+    "Acceptance Rate": "0.3671715823089914",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "74.1",
+    "Acceptance Rate": "0.42160766531503485",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "65.4",
+    "Acceptance Rate": "0.5554797903004879",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "65.4",
+    "Acceptance Rate": "0.5506673599943395",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

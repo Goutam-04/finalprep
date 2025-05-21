@@ -1,0 +1,74 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Airplane Seat Assignment Probability",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6662333219295244",
+    "Link": "https://leetcode.com/problems/airplane-seat-assignment-probability",
+    "Topics": "Math, Dynamic Programming, Brainteaser, Probability and Statistics"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Zigzag Conversion",
+    "Frequency": "85.2",
+    "Acceptance Rate": "0.513233510016565",
+    "Link": "https://leetcode.com/problems/zigzag-conversion",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Backspace String Compare",
+    "Frequency": "80.5",
+    "Acceptance Rate": "0.4945673736895818",
+    "Link": "https://leetcode.com/problems/backspace-string-compare",
+    "Topics": "Two Pointers, String, Stack, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Top K Frequent Elements",
+    "Frequency": "65.7",
+    "Acceptance Rate": "0.6438906509311764",
+    "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "65.7",
+    "Acceptance Rate": "0.5506671019552608",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Battleships in a Board",
+    "Frequency": "65.7",
+    "Acceptance Rate": "0.7643289561821469",
+    "Link": "https://leetcode.com/problems/battleships-in-a-board",
+    "Topics": "Array, Depth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Ways to Build Sturdy Brick Wall",
+    "Frequency": "65.7",
+    "Acceptance Rate": "0.49390467221263007",
+    "Link": "https://leetcode.com/problems/number-of-ways-to-build-sturdy-brick-wall",
+    "Topics": "Array, Dynamic Programming, Bit Manipulation, Bitmask"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Permutations",
+    "Frequency": "65.7",
+    "Acceptance Rate": "0.804856108631854",
+    "Link": "https://leetcode.com/problems/permutations",
+    "Topics": "Array, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Swaps to Make the String Balanced",
+    "Frequency": "65.7",
+    "Acceptance Rate": "0.7794977723216134",
+    "Link": "https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced",
+    "Topics": "Two Pointers, String, Stack, Greedy"
+  }
+]

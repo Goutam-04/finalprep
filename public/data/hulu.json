@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Valid Subarrays",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7918375223117373",
+    "Link": "https://leetcode.com/problems/number-of-valid-subarrays",
+    "Topics": "Array, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Basic Calculator III",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5231368182853342",
+    "Link": "https://leetcode.com/problems/basic-calculator-iii",
+    "Topics": "Math, String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Binary Tree Pruning",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7234174038352557",
+    "Link": "https://leetcode.com/problems/binary-tree-pruning",
+    "Topics": "Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Sum of Two Integers",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5348736460768467",
+    "Link": "https://leetcode.com/problems/sum-of-two-integers",
+    "Topics": "Math, Bit Manipulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "K-th Smallest in Lexicographical Order",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.41988769023637884",
+    "Link": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+    "Topics": "Trie"
+  }
+]

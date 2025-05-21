@@ -1,0 +1,90 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42160248859768",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5554736128839093",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Anagram",
+    "Frequency": "92.0",
+    "Acceptance Rate": "0.6647149496856971",
+    "Link": "https://leetcode.com/problems/valid-anagram",
+    "Topics": "Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "92.0",
+    "Acceptance Rate": "0.5506629564946897",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subsets",
+    "Frequency": "80.6",
+    "Acceptance Rate": "0.8063831265079425",
+    "Link": "https://leetcode.com/problems/subsets",
+    "Topics": "Array, Backtracking, Bit Manipulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Fizz Buzz",
+    "Frequency": "80.6",
+    "Acceptance Rate": "0.7422000461100599",
+    "Link": "https://leetcode.com/problems/fizz-buzz",
+    "Topics": "Math, String, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Container With Most Water",
+    "Frequency": "80.6",
+    "Acceptance Rate": "0.5757788473627377",
+    "Link": "https://leetcode.com/problems/container-with-most-water",
+    "Topics": "Array, Two Pointers, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotate Image",
+    "Frequency": "80.6",
+    "Acceptance Rate": "0.7762159714801387",
+    "Link": "https://leetcode.com/problems/rotate-image",
+    "Topics": "Array, Math, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "80.6",
+    "Acceptance Rate": "0.3564886345480744",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Candy",
+    "Frequency": "80.6",
+    "Acceptance Rate": "0.44660798996518963",
+    "Link": "https://leetcode.com/problems/candy",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Gas Station",
+    "Frequency": "80.6",
+    "Acceptance Rate": "0.46224595352140085",
+    "Link": "https://leetcode.com/problems/gas-station",
+    "Topics": "Array, Greedy"
+  }
+]

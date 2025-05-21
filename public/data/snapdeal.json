@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Arithmetic Subsequence",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.49421873450425047",
+    "Link": "https://leetcode.com/problems/longest-arithmetic-subsequence",
+    "Topics": "Array, Hash Table, Binary Search, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "67.5",
+    "Acceptance Rate": "0.5506701181776484",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Lowest Common Ancestor of a Binary Tree",
+    "Frequency": "67.5",
+    "Acceptance Rate": "0.6636809659149637",
+    "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "Topics": "Tree, Depth-First Search, Binary Tree"
+  }
+]

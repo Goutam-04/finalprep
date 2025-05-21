@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Largest 3-Same-Digit Number in String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6907099602731327",
+    "Link": "https://leetcode.com/problems/largest-3-same-digit-number-in-string",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Zigzag Conversion",
+    "Frequency": "65.4",
+    "Acceptance Rate": "0.5132273881265313",
+    "Link": "https://leetcode.com/problems/zigzag-conversion",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Block Placement Queries",
+    "Frequency": "65.4",
+    "Acceptance Rate": "0.165072909797025",
+    "Link": "https://leetcode.com/problems/block-placement-queries",
+    "Topics": "Array, Binary Search, Binary Indexed Tree, Segment Tree"
+  }
+]

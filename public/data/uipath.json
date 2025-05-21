@@ -1,0 +1,82 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Escape a Large Maze",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3520278789080761",
+    "Link": "https://leetcode.com/problems/escape-a-large-maze",
+    "Topics": "Array, Hash Table, Depth-First Search, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Sorting Three Groups",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4172391233235198",
+    "Link": "https://leetcode.com/problems/sorting-three-groups",
+    "Topics": "Array, Binary Search, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "As Far from Land as Possible",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5179333784021559",
+    "Link": "https://leetcode.com/problems/as-far-from-land-as-possible",
+    "Topics": "Array, Dynamic Programming, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "72.1",
+    "Acceptance Rate": "0.6207004942078951",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Window Substring",
+    "Frequency": "62.8",
+    "Acceptance Rate": "0.4509921525236994",
+    "Link": "https://leetcode.com/problems/minimum-window-substring",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "62.8",
+    "Acceptance Rate": "0.3564901454685113",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Integer to Roman",
+    "Frequency": "62.8",
+    "Acceptance Rate": "0.6833044012172702",
+    "Link": "https://leetcode.com/problems/integer-to-roman",
+    "Topics": "Hash Table, Math, String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Making A Large Island",
+    "Frequency": "62.8",
+    "Acceptance Rate": "0.5455547712790758",
+    "Link": "https://leetcode.com/problems/making-a-large-island",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Boats to Save People",
+    "Frequency": "62.8",
+    "Acceptance Rate": "0.6013725697527617",
+    "Link": "https://leetcode.com/problems/boats-to-save-people",
+    "Topics": "Array, Two Pointers, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Satisfiability of Equality Equations",
+    "Frequency": "62.8",
+    "Acceptance Rate": "0.5096435219819412",
+    "Link": "https://leetcode.com/problems/satisfiability-of-equality-equations",
+    "Topics": "Array, String, Union Find, Graph"
+  }
+]

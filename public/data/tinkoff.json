@@ -1,0 +1,266 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.36716653130521526",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Min Stack",
+    "Frequency": "97.9",
+    "Acceptance Rate": "0.5623468246185023",
+    "Link": "https://leetcode.com/problems/min-stack",
+    "Topics": "Stack, Design"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "95.6",
+    "Acceptance Rate": "0.5554737320579914",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotate Image",
+    "Frequency": "83.2",
+    "Acceptance Rate": "0.7762160484716373",
+    "Link": "https://leetcode.com/problems/rotate-image",
+    "Topics": "Array, Math, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Keys and Rooms",
+    "Frequency": "83.2",
+    "Acceptance Rate": "0.7452633057191415",
+    "Link": "https://leetcode.com/problems/keys-and-rooms",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "78.7",
+    "Acceptance Rate": "0.35648869481387097",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find First and Last Position of Element in Sorted Array",
+    "Frequency": "78.7",
+    "Acceptance Rate": "0.4656781543679404",
+    "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Simplify Path",
+    "Frequency": "78.7",
+    "Acceptance Rate": "0.4744301785097173",
+    "Link": "https://leetcode.com/problems/simplify-path",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Backspace String Compare",
+    "Frequency": "78.7",
+    "Acceptance Rate": "0.49457093692844994",
+    "Link": "https://leetcode.com/problems/backspace-string-compare",
+    "Topics": "Two Pointers, String, Stack, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Form Smallest Number From Two Digit Arrays",
+    "Frequency": "73.3",
+    "Acceptance Rate": "0.5421831851194024",
+    "Link": "https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays",
+    "Topics": "Array, Hash Table, Enumeration"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "73.3",
+    "Acceptance Rate": "0.6206993827154873",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Battleships in a Board",
+    "Frequency": "73.3",
+    "Acceptance Rate": "0.7643224352958649",
+    "Link": "https://leetcode.com/problems/battleships-in-a-board",
+    "Topics": "Array, Depth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find All Numbers Disappeared in an Array",
+    "Frequency": "73.3",
+    "Acceptance Rate": "0.6228769317045251",
+    "Link": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search a 2D Matrix",
+    "Frequency": "73.3",
+    "Acceptance Rate": "0.5208752835823716",
+    "Link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "Topics": "Array, Binary Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Subarray of 1's After Deleting One Element",
+    "Frequency": "73.3",
+    "Acceptance Rate": "0.6909718145179294",
+    "Link": "https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element",
+    "Topics": "Array, Dynamic Programming, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search in Rotated Sorted Array",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.4264923018388",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.5836433663853151",
+    "Link": "https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores",
+    "Topics": "Array, Sliding Window, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Square Submatrices with All Ones",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.786088751955866",
+    "Link": "https://leetcode.com/problems/count-square-submatrices-with-all-ones",
+    "Topics": "Array, Dynamic Programming, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.6097549248731656",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Is Subsequence",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.48317410834640173",
+    "Link": "https://leetcode.com/problems/is-subsequence",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subarray Sums Divisible by K",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.5557539414243492",
+    "Link": "https://leetcode.com/problems/subarray-sums-divisible-by-k",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Event Emitter",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.74488771041742",
+    "Link": "https://leetcode.com/problems/event-emitter",
+    "Topics": ""
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximize Distance to Closest Person",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.48855828863439377",
+    "Link": "https://leetcode.com/problems/maximize-distance-to-closest-person",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Meeting Rooms II",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.5207966868584991",
+    "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Squares of a Sorted Array",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.7317574508398027",
+    "Link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove Nth Node From End of List",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.4863695946586194",
+    "Link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "Topics": "Linked List, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Department Highest Salary",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.544372256563118",
+    "Link": "https://leetcode.com/problems/department-highest-salary",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Line Reflection",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.35946784412855787",
+    "Link": "https://leetcode.com/problems/line-reflection",
+    "Topics": "Array, Hash Table, Math"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Isomorphic Strings",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.46684405270585133",
+    "Link": "https://leetcode.com/problems/isomorphic-strings",
+    "Topics": "Hash Table, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subarray Sum Equals K",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.4528301003193078",
+    "Link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Paint House",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.6364493840000442",
+    "Link": "https://leetcode.com/problems/paint-house",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Palindrome",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.5066558566887226",
+    "Link": "https://leetcode.com/problems/valid-palindrome",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find the Longest Balanced Substring of a Binary String",
+    "Frequency": "56.6",
+    "Acceptance Rate": "0.45323101881059374",
+    "Link": "https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string",
+    "Topics": "String"
+  }
+]

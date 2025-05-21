@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Find the Sum of Encrypted Integers",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7346314970729909",
+    "Link": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers",
+    "Topics": "Array, Math"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6508474251863761",
+    "Link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray",
+    "Topics": "Array"
+  }
+]

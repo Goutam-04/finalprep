@@ -1,0 +1,66 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Top Travellers",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5710431245028611",
+    "Link": "https://leetcode.com/problems/top-travellers",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Weather Type in Each Country",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6703996760225537",
+    "Link": "https://leetcode.com/problems/weather-type-in-each-country",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Evaluate Boolean Expression",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7218311308715161",
+    "Link": "https://leetcode.com/problems/evaluate-boolean-expression",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Restaurant Growth",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5629872728728088",
+    "Link": "https://leetcode.com/problems/restaurant-growth",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Replace Employee ID With The Unique Identifier",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8362485347896902",
+    "Link": "https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Advantage Shuffle",
+    "Frequency": "63.8",
+    "Acceptance Rate": "0.5326684982081179",
+    "Link": "https://leetcode.com/problems/advantage-shuffle",
+    "Topics": "Array, Two Pointers, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Generate Parentheses",
+    "Frequency": "63.8",
+    "Acceptance Rate": "0.7691606821698873",
+    "Link": "https://leetcode.com/problems/generate-parentheses",
+    "Topics": "String, Dynamic Programming, Backtracking"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Sliding Window Median",
+    "Frequency": "63.8",
+    "Acceptance Rate": "0.38636822582873664",
+    "Link": "https://leetcode.com/problems/sliding-window-median",
+    "Topics": "Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+  }
+]

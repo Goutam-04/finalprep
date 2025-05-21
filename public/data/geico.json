@@ -1,0 +1,146 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Number of Potholes That Can Be Fixed",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.536180904522613",
+    "Link": "https://leetcode.com/problems/maximum-number-of-potholes-that-can-be-fixed",
+    "Topics": "String, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Largest Palindromic Number",
+    "Frequency": "95.3",
+    "Acceptance Rate": "0.3635841514404301",
+    "Link": "https://leetcode.com/problems/largest-palindromic-number",
+    "Topics": "Hash Table, String, Greedy, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.6138793974298604",
+    "Link": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "Topics": "String, Bit Manipulation, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Integer to Roman",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.6833160236052662",
+    "Link": "https://leetcode.com/problems/integer-to-roman",
+    "Topics": "Hash Table, Math, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Valid Sudoku",
+    "Frequency": "81.6",
+    "Acceptance Rate": "0.6206607235503588",
+    "Link": "https://leetcode.com/problems/valid-sudoku",
+    "Topics": "Array, Hash Table, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Coin Change",
+    "Frequency": "81.6",
+    "Acceptance Rate": "0.462356982375676",
+    "Link": "https://leetcode.com/problems/coin-change",
+    "Topics": "Array, Dynamic Programming, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Best Time to Buy and Sell Stock with Cooldown",
+    "Frequency": "81.6",
+    "Acceptance Rate": "0.6012361656975914",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "First Missing Positive",
+    "Frequency": "76.4",
+    "Acceptance Rate": "0.4093565506103151",
+    "Link": "https://leetcode.com/problems/first-missing-positive",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Spaces Cleaning Robot Cleaned",
+    "Frequency": "76.4",
+    "Acceptance Rate": "0.6198306540679838",
+    "Link": "https://leetcode.com/problems/number-of-spaces-cleaning-robot-cleaned",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Path with Maximum Gold",
+    "Frequency": "69.6",
+    "Acceptance Rate": "0.6810529599694962",
+    "Link": "https://leetcode.com/problems/path-with-maximum-gold",
+    "Topics": "Array, Backtracking, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Boundary of Binary Tree",
+    "Frequency": "69.6",
+    "Acceptance Rate": "0.47033283795865766",
+    "Link": "https://leetcode.com/problems/boundary-of-binary-tree",
+    "Topics": "Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Count of Smaller Numbers After Self",
+    "Frequency": "60.2",
+    "Acceptance Rate": "0.4282138224241459",
+    "Link": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+    "Topics": "Array, Binary Search, Divide and Conquer, Binary Indexed Tree, Segment Tree, Merge Sort, Ordered Set"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "60.2",
+    "Acceptance Rate": "0.6097699313232372",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Happy String",
+    "Frequency": "60.2",
+    "Acceptance Rate": "0.6545383744445245",
+    "Link": "https://leetcode.com/problems/longest-happy-string",
+    "Topics": "String, Greedy, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Roman to Integer",
+    "Frequency": "60.2",
+    "Acceptance Rate": "0.6462319707139659",
+    "Link": "https://leetcode.com/problems/roman-to-integer",
+    "Topics": "Hash Table, Math, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Moves to Spread Stones Over Grid",
+    "Frequency": "60.2",
+    "Acceptance Rate": "0.4414550150667241",
+    "Link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+    "Topics": "Array, Dynamic Programming, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Food Buckets to Feed the Hamsters",
+    "Frequency": "60.2",
+    "Acceptance Rate": "0.4690301700085563",
+    "Link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+    "Topics": "String, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Best Time to Buy and Sell Stock II",
+    "Frequency": "60.2",
+    "Acceptance Rate": "0.6926717553852388",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  }
+]

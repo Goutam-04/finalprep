@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Find Words Containing Character",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.884336848009481",
+    "Link": "https://leetcode.com/problems/find-words-containing-character",
+    "Topics": "Array, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search Suggestions System",
+    "Frequency": "85.4",
+    "Acceptance Rate": "0.650464987624579",
+    "Link": "https://leetcode.com/problems/search-suggestions-system",
+    "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Vertical Order Traversal of a Binary Tree",
+    "Frequency": "66.2",
+    "Acceptance Rate": "0.5092112754379229",
+    "Link": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree",
+    "Topics": "Hash Table, Tree, Depth-First Search, Breadth-First Search, Sorting, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Number of Nice Subarrays",
+    "Frequency": "66.2",
+    "Acceptance Rate": "0.728365480948715",
+    "Link": "https://leetcode.com/problems/count-number-of-nice-subarrays",
+    "Topics": "Array, Hash Table, Math, Sliding Window, Prefix Sum"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Remove Invalid Parentheses",
+    "Frequency": "66.2",
+    "Acceptance Rate": "0.4910798170858449",
+    "Link": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "Topics": "String, Backtracking, Breadth-First Search"
+  }
+]

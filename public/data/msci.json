@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7072445801231092",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Word Ladder",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.42458358983658556",
+    "Link": "https://leetcode.com/problems/word-ladder",
+    "Topics": "Hash Table, String, Breadth-First Search"
+  }
+]

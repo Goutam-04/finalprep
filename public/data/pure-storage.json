@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Valid Square",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4421963166435898",
+    "Link": "https://leetcode.com/problems/valid-square",
+    "Topics": "Math, Geometry"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Palindromic Substrings",
+    "Frequency": "86.0",
+    "Acceptance Rate": "0.7152193264231066",
+    "Link": "https://leetcode.com/problems/palindromic-substrings",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Design Skiplist",
+    "Frequency": "84.2",
+    "Acceptance Rate": "0.57986668312554",
+    "Link": "https://leetcode.com/problems/design-skiplist",
+    "Topics": "Linked List, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "66.8",
+    "Acceptance Rate": "0.35648924542520966",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Increasing Subsequence",
+    "Frequency": "61.4",
+    "Acceptance Rate": "0.5755304893051483",
+    "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "Topics": "Array, Binary Search, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Maximum Repeating Substring",
+    "Frequency": "61.4",
+    "Acceptance Rate": "0.394765693364581",
+    "Link": "https://leetcode.com/problems/maximum-repeating-substring",
+    "Topics": "String, Dynamic Programming, String Matching"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "61.4",
+    "Acceptance Rate": "0.549272615599772",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  }
+]

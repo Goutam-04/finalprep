@@ -1,0 +1,90 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Zigzag Conversion",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5132419281673013",
+    "Link": "https://leetcode.com/problems/zigzag-conversion",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotate Image",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7762302258259272",
+    "Link": "https://leetcode.com/problems/rotate-image",
+    "Topics": "Array, Math, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Coin Change",
+    "Frequency": "92.1",
+    "Acceptance Rate": "0.462356982375676",
+    "Link": "https://leetcode.com/problems/coin-change",
+    "Topics": "Array, Dynamic Programming, Breadth-First Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Candy",
+    "Frequency": "92.1",
+    "Acceptance Rate": "0.4466225186268332",
+    "Link": "https://leetcode.com/problems/candy",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Transpose Matrix",
+    "Frequency": "80.9",
+    "Acceptance Rate": "0.7409539787824753",
+    "Link": "https://leetcode.com/problems/transpose-matrix",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count and Say",
+    "Frequency": "80.9",
+    "Acceptance Rate": "0.6023716986570977",
+    "Link": "https://leetcode.com/problems/count-and-say",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Deletions to Make Character Frequencies Unique",
+    "Frequency": "80.9",
+    "Acceptance Rate": "0.612786600841731",
+    "Link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+    "Topics": "Hash Table, String, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Jump Game II",
+    "Frequency": "80.9",
+    "Acceptance Rate": "0.4135725126457082",
+    "Link": "https://leetcode.com/problems/jump-game-ii",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "80.9",
+    "Acceptance Rate": "0.707244677141567",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "80.9",
+    "Acceptance Rate": "0.491953495843754",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Anagram",
+    "Frequency": "80.9",
+    "Acceptance Rate": "0.6647252044583399",
+    "Link": "https://leetcode.com/problems/valid-anagram",
+    "Topics": "Hash Table, String, Sorting"
+  }
+]

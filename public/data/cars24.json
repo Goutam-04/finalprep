@@ -1,0 +1,66 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4929484346850675",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Online Election",
+    "Frequency": "94.5",
+    "Acceptance Rate": "0.5177421668012772",
+    "Link": "https://leetcode.com/problems/online-election",
+    "Topics": "Array, Hash Table, Binary Search, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rabbits in Forest",
+    "Frequency": "87.4",
+    "Acceptance Rate": "0.5830612491165164",
+    "Link": "https://leetcode.com/problems/rabbits-in-forest",
+    "Topics": "Array, Hash Table, Math, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Open the Lock",
+    "Frequency": "87.4",
+    "Acceptance Rate": "0.6067238820197178",
+    "Link": "https://leetcode.com/problems/open-the-lock",
+    "Topics": "Array, Hash Table, String, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Bulls and Cows",
+    "Frequency": "77.4",
+    "Acceptance Rate": "0.5126393113299639",
+    "Link": "https://leetcode.com/problems/bulls-and-cows",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Counter",
+    "Frequency": "77.4",
+    "Acceptance Rate": "0.8222353864820497",
+    "Link": "https://leetcode.com/problems/counter",
+    "Topics": ""
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber",
+    "Frequency": "77.4",
+    "Acceptance Rate": "0.5219011263655362",
+    "Link": "https://leetcode.com/problems/house-robber",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "77.4",
+    "Acceptance Rate": "0.49195358286267377",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  }
+]

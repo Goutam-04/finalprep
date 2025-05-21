@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Game of Life",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7124165314261789",
+    "Link": "https://leetcode.com/problems/game-of-life",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Design Excel Sum Formula",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4316556799553556",
+    "Link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "Topics": "Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+  }
+]

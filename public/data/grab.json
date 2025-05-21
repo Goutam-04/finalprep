@@ -1,0 +1,106 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Cost For Tickets",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6740894475759219",
+    "Link": "https://leetcode.com/problems/minimum-cost-for-tickets",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Adding Two Negabinary Numbers",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3683556281192601",
+    "Link": "https://leetcode.com/problems/adding-two-negabinary-numbers",
+    "Topics": "Array, Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Food Buckets to Feed the Hamsters",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.46900926373749025",
+    "Link": "https://leetcode.com/problems/minimum-number-of-food-buckets-to-feed-the-hamsters",
+    "Topics": "String, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reconstruct a 2-Row Binary Matrix",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.47582791134080876",
+    "Link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+    "Topics": "Array, Greedy, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "83.5",
+    "Acceptance Rate": "0.5554659777158913",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "71.3",
+    "Acceptance Rate": "0.3671608211003847",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "71.3",
+    "Acceptance Rate": "0.3564852025098632",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "71.3",
+    "Acceptance Rate": "0.44936873213904494",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Next Permutation",
+    "Frequency": "61.7",
+    "Acceptance Rate": "0.4279305275609994",
+    "Link": "https://leetcode.com/problems/next-permutation",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search a 2D Matrix",
+    "Frequency": "61.7",
+    "Acceptance Rate": "0.5208715789265338",
+    "Link": "https://leetcode.com/problems/search-a-2d-matrix",
+    "Topics": "Array, Binary Search, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "61.7",
+    "Acceptance Rate": "0.42160008342490185",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Simplify Path",
+    "Frequency": "61.7",
+    "Acceptance Rate": "0.474420815112837",
+    "Link": "https://leetcode.com/problems/simplify-path",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Daily Temperatures",
+    "Frequency": "61.7",
+    "Acceptance Rate": "0.6721549404626347",
+    "Link": "https://leetcode.com/problems/daily-temperatures",
+    "Topics": "Array, Stack, Monotonic Stack"
+  }
+]

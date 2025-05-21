@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Connected Components in an Undirected Graph",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6410070612690997",
+    "Link": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph",
+    "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Path Sum",
+    "Frequency": "67.8",
+    "Acceptance Rate": "0.6624732535318242",
+    "Link": "https://leetcode.com/problems/minimum-path-sum",
+    "Topics": "Array, Dynamic Programming, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "60.0",
+    "Acceptance Rate": "0.44937645988765096",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "The Number of Full Rounds You Have Played",
+    "Frequency": "60.0",
+    "Acceptance Rate": "0.43395068414022164",
+    "Link": "https://leetcode.com/problems/the-number-of-full-rounds-you-have-played",
+    "Topics": "Math, String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "First Missing Positive",
+    "Frequency": "60.0",
+    "Acceptance Rate": "0.40935563673551445",
+    "Link": "https://leetcode.com/problems/first-missing-positive",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Last Visited Integers",
+    "Frequency": "60.0",
+    "Acceptance Rate": "0.608526660998421",
+    "Link": "https://leetcode.com/problems/last-visited-integers",
+    "Topics": "Array, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Widest Vertical Area Between Two Points Containing No Points",
+    "Frequency": "60.0",
+    "Acceptance Rate": "0.8708099681224841",
+    "Link": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points",
+    "Topics": "Array, Sorting"
+  }
+]

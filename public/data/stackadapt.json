@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Find Median from Data Stream",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.531176162143652",
+    "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Snapshot Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.36677402836651646",
+    "Link": "https://leetcode.com/problems/snapshot-array",
+    "Topics": "Array, Hash Table, Binary Search, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Contiguous Array",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.49175242385523676",
+    "Link": "https://leetcode.com/problems/contiguous-array",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Restore IP Addresses",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.5287548174286286",
+    "Link": "https://leetcode.com/problems/restore-ip-addresses",
+    "Topics": "String, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Dice Rolls With Target Sum",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.6153517105728008",
+    "Link": "https://leetcode.com/problems/number-of-dice-rolls-with-target-sum",
+    "Topics": "Dynamic Programming"
+  }
+]

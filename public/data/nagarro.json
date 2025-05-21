@@ -1,0 +1,66 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Number of Ways to Place Houses",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42669655594049316",
+    "Link": "https://leetcode.com/problems/count-number-of-ways-to-place-houses",
+    "Topics": "Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.3671675759996592",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Window Substring",
+    "Frequency": "73.0",
+    "Acceptance Rate": "0.4509927489425268",
+    "Link": "https://leetcode.com/problems/minimum-window-substring",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "63.9",
+    "Acceptance Rate": "0.5554752384041788",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "63.9",
+    "Acceptance Rate": "0.4216035126537055",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Remove Duplicates from Sorted Array",
+    "Frequency": "63.9",
+    "Acceptance Rate": "0.6005004516656823",
+    "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Contains Duplicate",
+    "Frequency": "63.9",
+    "Acceptance Rate": "0.6307937711502165",
+    "Link": "https://leetcode.com/problems/contains-duplicate",
+    "Topics": "Array, Hash Table, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subarray Sum Equals K",
+    "Frequency": "63.9",
+    "Acceptance Rate": "0.45283056174677205",
+    "Link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Subarray With Elements Greater Than Varying Threshold",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.44410774410774406",
+    "Link": "https://leetcode.com/problems/subarray-with-elements-greater-than-varying-threshold",
+    "Topics": "Array, Stack, Union Find, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Implement Trie (Prefix Tree)",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.677013252790403",
+    "Link": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "Topics": "Hash Table, String, Design, Trie"
+  }
+]

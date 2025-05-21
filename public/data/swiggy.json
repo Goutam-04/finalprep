@@ -1,0 +1,242 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximize Area of Square Hole in Grid",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3674087662247423",
+    "Link": "https://leetcode.com/problems/maximize-area-of-square-hole-in-grid",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Value to Get Positive Step by Step Sum",
+    "Frequency": "97.7",
+    "Acceptance Rate": "0.6476333793141886",
+    "Link": "https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum",
+    "Topics": "Array, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Sort Colors",
+    "Frequency": "80.7",
+    "Acceptance Rate": "0.668327815110245",
+    "Link": "https://leetcode.com/problems/sort-colors",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "75.2",
+    "Acceptance Rate": "0.4216001179885209",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Sorted Array",
+    "Frequency": "75.2",
+    "Acceptance Rate": "0.5267885045006167",
+    "Link": "https://leetcode.com/problems/merge-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Next Greater Element I",
+    "Frequency": "75.2",
+    "Acceptance Rate": "0.742726095968887",
+    "Link": "https://leetcode.com/problems/next-greater-element-i",
+    "Topics": "Array, Hash Table, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Integer to Roman",
+    "Frequency": "68.2",
+    "Acceptance Rate": "0.6832938458342389",
+    "Link": "https://leetcode.com/problems/integer-to-roman",
+    "Topics": "Hash Table, Math, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Fair Candy Swap",
+    "Frequency": "68.2",
+    "Acceptance Rate": "0.6313947928891207",
+    "Link": "https://leetcode.com/problems/fair-candy-swap",
+    "Topics": "Array, Hash Table, Binary Search, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Happy Number",
+    "Frequency": "68.2",
+    "Acceptance Rate": "0.5788711712270688",
+    "Link": "https://leetcode.com/problems/happy-number",
+    "Topics": "Hash Table, Math, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Daily Temperatures",
+    "Frequency": "68.2",
+    "Acceptance Rate": "0.6721551198956474",
+    "Link": "https://leetcode.com/problems/daily-temperatures",
+    "Topics": "Array, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Good Meals",
+    "Frequency": "68.2",
+    "Acceptance Rate": "0.3145253061666847",
+    "Link": "https://leetcode.com/problems/count-good-meals",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Profit in Job Scheduling",
+    "Frequency": "68.2",
+    "Acceptance Rate": "0.5438733270499528",
+    "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Course Schedule",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.48945588785460686",
+    "Link": "https://leetcode.com/problems/course-schedule",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Score From Removing Substrings",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.6284029017807196",
+    "Link": "https://leetcode.com/problems/maximum-score-from-removing-substrings",
+    "Topics": "String, Stack, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.5506580887942565",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "K Closest Points to Origin",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.6780095756897189",
+    "Link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "Topics": "Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Letter Combinations of a Phone Number",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.6359904482565948",
+    "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "Topics": "Hash Table, String, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Immediate Food Delivery II",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.5412008512133967",
+    "Link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subarray Sum Equals K",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.45282698788359427",
+    "Link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Median of Two Sorted Arrays",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.4348818897740088",
+    "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "Topics": "Array, Binary Search, Divide and Conquer"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Two Sorted Lists",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.6665311858271888",
+    "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "First Missing Positive",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.4093486102389809",
+    "Link": "https://leetcode.com/problems/first-missing-positive",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.44936920484949744",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Consecutive Sequence",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.47071142383370707",
+    "Link": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "Topics": "Array, Hash Table, Union Find"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Majority Element",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.656532495184021",
+    "Link": "https://leetcode.com/problems/majority-element",
+    "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Length of Pair Chain",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.6075542530302896",
+    "Link": "https://leetcode.com/problems/maximum-length-of-pair-chain",
+    "Topics": "Array, Dynamic Programming, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subsets II",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.5926583555220681",
+    "Link": "https://leetcode.com/problems/subsets-ii",
+    "Topics": "Array, Backtracking, Bit Manipulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Climbing Stairs",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.5347683029258482",
+    "Link": "https://leetcode.com/problems/climbing-stairs",
+    "Topics": "Math, Dynamic Programming, Memoization"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.6481227641693077",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Work Sessions to Finish the Tasks",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.336128006404768",
+    "Link": "https://leetcode.com/problems/minimum-number-of-work-sessions-to-finish-the-tasks",
+    "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+  }
+]

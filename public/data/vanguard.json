@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Check if the Sentence Is Pangram",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8379521617892532",
+    "Link": "https://leetcode.com/problems/check-if-the-sentence-is-pangram",
+    "Topics": "Hash Table, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Check Whether Two Strings are Almost Equivalent",
+    "Frequency": "84.4",
+    "Acceptance Rate": "0.6358515812885377",
+    "Link": "https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent",
+    "Topics": "Hash Table, String, Counting"
+  }
+]

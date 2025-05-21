@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Harmonious Subsequence",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5694406050778433",
+    "Link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+    "Topics": "Array, Hash Table, Sliding Window, Sorting, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Distribute Candies Among Children II",
+    "Frequency": "88.6",
+    "Acceptance Rate": "0.3497109121514479",
+    "Link": "https://leetcode.com/problems/distribute-candies-among-children-ii",
+    "Topics": "Math, Combinatorics, Enumeration"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Unequal Adjacent Groups Subsequence I",
+    "Frequency": "88.6",
+    "Acceptance Rate": "0.5973001645116157",
+    "Link": "https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i",
+    "Topics": "Array, String, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Largest 1-Bordered Square",
+    "Frequency": "88.6",
+    "Acceptance Rate": "0.5062667051939609",
+    "Link": "https://leetcode.com/problems/largest-1-bordered-square",
+    "Topics": "Array, Dynamic Programming, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Crawler Log Folder",
+    "Frequency": "88.6",
+    "Acceptance Rate": "0.7158861233087191",
+    "Link": "https://leetcode.com/problems/crawler-log-folder",
+    "Topics": "Array, String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Managers with at Least 5 Direct Reports",
+    "Frequency": "88.6",
+    "Acceptance Rate": "0.48958678286129265",
+    "Link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "The Number of Employees Which Report to Each Employee",
+    "Frequency": "88.6",
+    "Acceptance Rate": "0.5198351720968216",
+    "Link": "https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee",
+    "Topics": "Database"
+  }
+]

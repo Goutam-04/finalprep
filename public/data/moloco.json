@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest String Chain",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6185732992722667",
+    "Link": "https://leetcode.com/problems/longest-string-chain",
+    "Topics": "Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design a Stack With Increment Operation",
+    "Frequency": "92.6",
+    "Acceptance Rate": "0.801216862523905",
+    "Link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "Topics": "Array, Stack, Design"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "92.6",
+    "Acceptance Rate": "0.6481434335072452",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Sliding Puzzle",
+    "Frequency": "82.2",
+    "Acceptance Rate": "0.7309230181266771",
+    "Link": "https://leetcode.com/problems/sliding-puzzle",
+    "Topics": "Array, Dynamic Programming, Backtracking, Breadth-First Search, Memoization, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Meeting Rooms II",
+    "Frequency": "82.2",
+    "Acceptance Rate": "0.5208001272711446",
+    "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Single Element in a Sorted Array",
+    "Frequency": "82.2",
+    "Acceptance Rate": "0.5919241758805809",
+    "Link": "https://leetcode.com/problems/single-element-in-a-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "Frequency": "82.2",
+    "Acceptance Rate": "0.5668328239589329",
+    "Link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Maximum Count of Positive Integer and Negative Integer",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7449017249064218",
+    "Link": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer",
+    "Topics": "Array, Binary Search, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Amount of Time for Binary Tree to Be Infected",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6345316177806293",
+    "Link": "https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected",
+    "Topics": "Hash Table, Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+  }
+]

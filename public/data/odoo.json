@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42161222926372927",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Min Stack",
+    "Frequency": "94.7",
+    "Acceptance Rate": "0.562351158541286",
+    "Link": "https://leetcode.com/problems/min-stack",
+    "Topics": "Stack, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Evaluate Reverse Polish Notation",
+    "Frequency": "78.2",
+    "Acceptance Rate": "0.5463242704921796",
+    "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "Topics": "Array, Math, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse String",
+    "Frequency": "78.2",
+    "Acceptance Rate": "0.7965325687277915",
+    "Link": "https://leetcode.com/problems/reverse-string",
+    "Topics": "Two Pointers, String"
+  }
+]

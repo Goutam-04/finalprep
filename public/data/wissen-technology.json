@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5554911678372757",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Sorted Array",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.526809428970159",
+    "Link": "https://leetcode.com/problems/merge-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Words in a String III",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.8361726597276232",
+    "Link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+    "Topics": "Two Pointers, String"
+  }
+]

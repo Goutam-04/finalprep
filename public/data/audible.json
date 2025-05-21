@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Missing Number In Arithmetic Progression",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5206189151599444",
+    "Link": "https://leetcode.com/problems/missing-number-in-arithmetic-progression",
+    "Topics": "Array, Math"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Absolute Difference",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.705307601660439",
+    "Link": "https://leetcode.com/problems/minimum-absolute-difference",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Leetflex Banned Accounts",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.623559275521405",
+    "Link": "https://leetcode.com/problems/leetflex-banned-accounts",
+    "Topics": "Database"
+  }
+]

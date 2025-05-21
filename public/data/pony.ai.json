@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "K-th Smallest Prime Fraction",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6846400953855523",
+    "Link": "https://leetcode.com/problems/k-th-smallest-prime-fraction",
+    "Topics": "Array, Two Pointers, Binary Search, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Profit in Job Scheduling",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.543870997899524",
+    "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Sideway Jumps",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5067528764084995",
+    "Link": "https://leetcode.com/problems/minimum-sideway-jumps",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Frequency of the Most Frequent Element",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4406290745287174",
+    "Link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "Topics": "Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+  }
+]

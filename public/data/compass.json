@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Total Distance Traveled",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4009063214013709",
+    "Link": "https://leetcode.com/problems/total-distance-traveled",
+    "Topics": "Math, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Camelcase Matching",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.6358528593786945",
+    "Link": "https://leetcode.com/problems/camelcase-matching",
+    "Topics": "Array, Two Pointers, String, Trie, String Matching"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.7072439108700075",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Subtree of Another Tree",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.4978522491447848",
+    "Link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "Topics": "Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.4929474770170522",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  }
+]

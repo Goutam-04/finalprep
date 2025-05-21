@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Complement of Base 10 Integer",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6075820551745799",
+    "Link": "https://leetcode.com/problems/complement-of-base-10-integer",
+    "Topics": "Bit Manipulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Number Complement",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7031284176757281",
+    "Link": "https://leetcode.com/problems/number-complement",
+    "Topics": "Bit Manipulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "73.9",
+    "Acceptance Rate": "0.5506669981523381",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Cheapest Flights Within K Stops",
+    "Frequency": "65.2",
+    "Acceptance Rate": "0.4025125749133348",
+    "Link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "Topics": "Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Lexicographically Smallest Equivalent String",
+    "Frequency": "65.2",
+    "Acceptance Rate": "0.7660862326129938",
+    "Link": "https://leetcode.com/problems/lexicographically-smallest-equivalent-string",
+    "Topics": "String, Union Find"
+  }
+]

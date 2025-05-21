@@ -1,0 +1,290 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Hit Counter",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.691337270675372",
+    "Link": "https://leetcode.com/problems/design-hit-counter",
+    "Topics": "Array, Binary Search, Design, Queue, Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "IP to CIDR",
+    "Frequency": "90.3",
+    "Acceptance Rate": "0.5518210518210518",
+    "Link": "https://leetcode.com/problems/ip-to-cidr",
+    "Topics": "String, Bit Manipulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber",
+    "Frequency": "88.0",
+    "Acceptance Rate": "0.5218918934701332",
+    "Link": "https://leetcode.com/problems/house-robber",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Tic-Tac-Toe",
+    "Frequency": "86.0",
+    "Acceptance Rate": "0.5855414829692378",
+    "Link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "Topics": "Array, Hash Table, Design, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber II",
+    "Frequency": "84.6",
+    "Acceptance Rate": "0.43400961994037984",
+    "Link": "https://leetcode.com/problems/house-robber-ii",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "80.4",
+    "Acceptance Rate": "0.49294715208755124",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Snapshot Array",
+    "Frequency": "72.4",
+    "Acceptance Rate": "0.36676722694550806",
+    "Link": "https://leetcode.com/problems/snapshot-array",
+    "Topics": "Array, Hash Table, Binary Search, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Closest Leaf in a Binary Tree",
+    "Frequency": "67.5",
+    "Acceptance Rate": "0.4703306328005255",
+    "Link": "https://leetcode.com/problems/closest-leaf-in-a-binary-tree",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindrome by Concatenating Two Letter Words",
+    "Frequency": "67.5",
+    "Acceptance Rate": "0.47871445025250287",
+    "Link": "https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words",
+    "Topics": "Array, Hash Table, String, Greedy, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Smallest Range Covering Elements from K Lists",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.6973578317475564",
+    "Link": "https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists",
+    "Topics": "Array, Hash Table, Greedy, Sliding Window, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Absolute Difference Between Elements With Constraint",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.3386947864873583",
+    "Link": "https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint",
+    "Topics": "Array, Binary Search, Ordered Set"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Split Message Based on Limit",
+    "Frequency": "57.9",
+    "Acceptance Rate": "0.4291189684493743",
+    "Link": "https://leetcode.com/problems/split-message-based-on-limit",
+    "Topics": "String, Binary Search, Enumeration"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Web Crawler Multithreaded",
+    "Frequency": "57.9",
+    "Acceptance Rate": "0.49972857433670353",
+    "Link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "Topics": "Depth-First Search, Breadth-First Search, Concurrency"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Step-By-Step Directions From a Binary Tree Node to Another",
+    "Frequency": "57.9",
+    "Acceptance Rate": "0.5627491205216808",
+    "Link": "https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another",
+    "Topics": "String, Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Flowers in Full Bloom",
+    "Frequency": "54.5",
+    "Acceptance Rate": "0.5712935359557915",
+    "Link": "https://leetcode.com/problems/number-of-flowers-in-full-bloom",
+    "Topics": "Array, Hash Table, Binary Search, Sorting, Prefix Sum, Ordered Set"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Text Justification",
+    "Frequency": "54.5",
+    "Acceptance Rate": "0.47811774820427483",
+    "Link": "https://leetcode.com/problems/text-justification",
+    "Topics": "Array, String, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Count Integers in Intervals",
+    "Frequency": "50.3",
+    "Acceptance Rate": "0.3396961546848877",
+    "Link": "https://leetcode.com/problems/count-integers-in-intervals",
+    "Topics": "Design, Segment Tree, Ordered Set"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Number of Recent Calls",
+    "Frequency": "45.0",
+    "Acceptance Rate": "0.7716580674966904",
+    "Link": "https://leetcode.com/problems/number-of-recent-calls",
+    "Topics": "Design, Queue, Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Mountain in Array",
+    "Frequency": "45.0",
+    "Acceptance Rate": "0.41007199840291625",
+    "Link": "https://leetcode.com/problems/longest-mountain-in-array",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Enumeration"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "First Missing Positive",
+    "Frequency": "45.0",
+    "Acceptance Rate": "0.4093489313113593",
+    "Link": "https://leetcode.com/problems/first-missing-positive",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Second Degree Follower",
+    "Frequency": "45.0",
+    "Acceptance Rate": "0.3986776208047078",
+    "Link": "https://leetcode.com/problems/second-degree-follower",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Finding Pairs With a Certain Sum",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.4893956670467503",
+    "Link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum",
+    "Topics": "Array, Hash Table, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "String to Integer (atoi)",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.19028076080095974",
+    "Link": "https://leetcode.com/problems/string-to-integer-atoi",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.4919338109426709",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find Peak Element",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.46464843314859566",
+    "Link": "https://leetcode.com/problems/find-peak-element",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find All Anagrams in a String",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.5206885601520969",
+    "Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Spiral Matrix",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.5357356772253007",
+    "Link": "https://leetcode.com/problems/spiral-matrix",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.5668445335667128",
+    "Link": "https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+    "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Ordered Set, Monotonic Queue"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Length of the Longest Common Prefix",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.5634700260135036",
+    "Link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+    "Topics": "Array, Hash Table, String, Trie"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Data Stream as Disjoint Intervals",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.5945978481679332",
+    "Link": "https://leetcode.com/problems/data-stream-as-disjoint-intervals",
+    "Topics": "Binary Search, Design, Ordered Set"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Profit in Job Scheduling",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.5438705756566298",
+    "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Web Crawler",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.6870056320888653",
+    "Link": "https://leetcode.com/problems/web-crawler",
+    "Topics": "String, Depth-First Search, Breadth-First Search, Interactive"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Course Schedule II",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.5312871994597735",
+    "Link": "https://leetcode.com/problems/course-schedule-ii",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Accounts Merge",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.5928264185177742",
+    "Link": "https://leetcode.com/problems/accounts-merge",
+    "Topics": "Array, Hash Table, String, Depth-First Search, Breadth-First Search, Union Find, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design A Leaderboard",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.6792274501746456",
+    "Link": "https://leetcode.com/problems/design-a-leaderboard",
+    "Topics": "Hash Table, Design, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Shortest Path in a Grid with Obstacles Elimination",
+    "Frequency": "37.5",
+    "Acceptance Rate": "0.4553177883846804",
+    "Link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  }
+]

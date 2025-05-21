@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Brick Wall",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5579648040223975",
+    "Link": "https://leetcode.com/problems/brick-wall",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Spiral Matrix",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5330457892464792",
+    "Link": "https://leetcode.com/problems/spiral-matrix",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Max Difference You Can Get From Changing an Integer",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4024554223911137",
+    "Link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+    "Topics": "Math, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Letter Combinations of a Phone Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6336811636293725",
+    "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "Topics": "Hash Table, String, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Koko Eating Bananas",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.48953907159230975",
+    "Link": "https://leetcode.com/problems/koko-eating-bananas",
+    "Topics": "Array, Binary Search"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5506672280537551",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Cost of Buying Candies With Discount",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6200190988801111",
+    "Link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+    "Topics": "Array, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse String",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.7965266553052746",
+    "Link": "https://leetcode.com/problems/reverse-string",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Delete Columns to Make Sorted",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.7474220418157571",
+    "Link": "https://leetcode.com/problems/delete-columns-to-make-sorted",
+    "Topics": "Array, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Palindrome Number",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.5904000956179252",
+    "Link": "https://leetcode.com/problems/palindrome-number",
+    "Topics": "Math"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Degree of an Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.573005752288135",
+    "Link": "https://leetcode.com/problems/degree-of-an-array",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Cost to Set Cooking Time",
+    "Frequency": "75.4",
+    "Acceptance Rate": "0.40893649787118397",
+    "Link": "https://leetcode.com/problems/minimum-cost-to-set-cooking-time",
+    "Topics": "Math, Enumeration"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Remove to Make Valid Parentheses",
+    "Frequency": "67.1",
+    "Acceptance Rate": "0.7059099081042013",
+    "Link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "Topics": "String, Stack"
+  }
+]

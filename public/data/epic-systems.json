@@ -1,0 +1,98 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Additive Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.32448659365026666",
+    "Link": "https://leetcode.com/problems/additive-number",
+    "Topics": "String, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Letter Combinations of a Phone Number",
+    "Frequency": "98.0",
+    "Acceptance Rate": "0.6359969514426389",
+    "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "Topics": "Hash Table, String, Backtracking"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Self Dividing Numbers",
+    "Frequency": "90.2",
+    "Acceptance Rate": "0.7953533889503898",
+    "Link": "https://leetcode.com/problems/self-dividing-numbers",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Spiral Matrix",
+    "Frequency": "84.9",
+    "Acceptance Rate": "0.5357415216379856",
+    "Link": "https://leetcode.com/problems/spiral-matrix",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Stepping Numbers",
+    "Frequency": "84.9",
+    "Acceptance Rate": "0.4761926417754332",
+    "Link": "https://leetcode.com/problems/stepping-numbers",
+    "Topics": "Math, Backtracking, Breadth-First Search"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "82.7",
+    "Acceptance Rate": "0.4216027465136285",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Word Search",
+    "Frequency": "66.2",
+    "Acceptance Rate": "0.4502719872143545",
+    "Link": "https://leetcode.com/problems/word-search",
+    "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Angle Between Hands of a Clock",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.641458874645306",
+    "Link": "https://leetcode.com/problems/angle-between-hands-of-a-clock",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "60.3",
+    "Acceptance Rate": "0.5554741474710736",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "52.0",
+    "Acceptance Rate": "0.3671675564190091",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Bulls and Cows",
+    "Frequency": "52.0",
+    "Acceptance Rate": "0.512631573657377",
+    "Link": "https://leetcode.com/problems/bulls-and-cows",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Palindromic Substrings",
+    "Frequency": "52.0",
+    "Acceptance Rate": "0.7152193264231066",
+    "Link": "https://leetcode.com/problems/palindromic-substrings",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  }
+]

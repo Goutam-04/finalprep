@@ -1,0 +1,138 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Range Addition II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5719128115190191",
+    "Link": "https://leetcode.com/problems/range-addition-ii",
+    "Topics": "Array, Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Fraction Addition and Subtraction",
+    "Frequency": "90.9",
+    "Acceptance Rate": "0.6614249407235486",
+    "Link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+    "Topics": "Math, String, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Palindrome Linked List",
+    "Frequency": "89.3",
+    "Acceptance Rate": "0.5559062867259594",
+    "Link": "https://leetcode.com/problems/palindrome-linked-list",
+    "Topics": "Linked List, Two Pointers, Stack, Recursion"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Stickers to Spell Word",
+    "Frequency": "87.4",
+    "Acceptance Rate": "0.499672952002887",
+    "Link": "https://leetcode.com/problems/stickers-to-spell-word",
+    "Topics": "Array, Hash Table, String, Dynamic Programming, Backtracking, Bit Manipulation, Memoization, Bitmask"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Merge k Sorted Lists",
+    "Frequency": "85.4",
+    "Acceptance Rate": "0.5644412133515768",
+    "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Snake Game",
+    "Frequency": "85.4",
+    "Acceptance Rate": "0.3957588560285993",
+    "Link": "https://leetcode.com/problems/design-snake-game",
+    "Topics": "Array, Hash Table, Design, Queue, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Fraction to Recurring Decimal",
+    "Frequency": "85.4",
+    "Acceptance Rate": "0.26109229566580483",
+    "Link": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "Topics": "Hash Table, Math, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Derangement of An Array",
+    "Frequency": "85.4",
+    "Acceptance Rate": "0.417137641731316",
+    "Link": "https://leetcode.com/problems/find-the-derangement-of-an-array",
+    "Topics": "Math, Dynamic Programming, Combinatorics"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Find Median from Data Stream",
+    "Frequency": "83.2",
+    "Acceptance Rate": "0.5311650839755603",
+    "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "80.8",
+    "Acceptance Rate": "0.491941366556636",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Steps to Make Two Strings Anagram",
+    "Frequency": "74.7",
+    "Acceptance Rate": "0.8212572245852034",
+    "Link": "https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find Peak Element",
+    "Frequency": "70.9",
+    "Acceptance Rate": "0.4646537248693388",
+    "Link": "https://leetcode.com/problems/find-peak-element",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "66.2",
+    "Acceptance Rate": "0.5492729929120275",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Basic Calculator II",
+    "Frequency": "66.2",
+    "Acceptance Rate": "0.45628515614368453",
+    "Link": "https://leetcode.com/problems/basic-calculator-ii",
+    "Topics": "Math, String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "1-bit and 2-bit Characters",
+    "Frequency": "66.2",
+    "Acceptance Rate": "0.4511423881159342",
+    "Link": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "Frequency": "60.2",
+    "Acceptance Rate": "0.4120133113872737",
+    "Link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+    "Topics": "Array, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search in Rotated Sorted Array",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.426492640772173",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "Topics": "Array, Binary Search"
+  }
+]

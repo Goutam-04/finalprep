@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Spiral Matrix III",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.844582078006677",
+    "Link": "https://leetcode.com/problems/spiral-matrix-iii",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Building Height",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.37287013330979074",
+    "Link": "https://leetcode.com/problems/maximum-building-height",
+    "Topics": "Array, Math, Sorting"
+  }
+]

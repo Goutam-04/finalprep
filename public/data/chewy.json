@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Top K Frequent Elements",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6438895524855169",
+    "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Tic-Tac-Toe",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5855468540581557",
+    "Link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "Topics": "Array, Hash Table, Design, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Robot Bounded In Circle",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5620781243542026",
+    "Link": "https://leetcode.com/problems/robot-bounded-in-circle",
+    "Topics": "Math, String, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Backspace String Compare",
+    "Frequency": "88.9",
+    "Acceptance Rate": "0.49457093692844994",
+    "Link": "https://leetcode.com/problems/backspace-string-compare",
+    "Topics": "Two Pointers, String, Stack, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "88.9",
+    "Acceptance Rate": "0.5554745448811104",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  }
+]

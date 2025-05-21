@@ -1,0 +1,106 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Zigzag Conversion",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5132419281673013",
+    "Link": "https://leetcode.com/problems/zigzag-conversion",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reverse Nodes in Even Length Groups",
+    "Frequency": "82.9",
+    "Acceptance Rate": "0.6060924731924283",
+    "Link": "https://leetcode.com/problems/reverse-nodes-in-even-length-groups",
+    "Topics": "Linked List"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "78.5",
+    "Acceptance Rate": "0.6481432566485961",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Window Substring",
+    "Frequency": "72.9",
+    "Acceptance Rate": "0.45100492398724173",
+    "Link": "https://leetcode.com/problems/minimum-window-substring",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Fraction Addition and Subtraction",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.6614266379267132",
+    "Link": "https://leetcode.com/problems/fraction-addition-and-subtraction",
+    "Topics": "Math, String, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove K Digits",
+    "Frequency": "64.9",
+    "Acceptance Rate": "0.3472661138784726",
+    "Link": "https://leetcode.com/problems/remove-k-digits",
+    "Topics": "String, Stack, Greedy, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Bulls and Cows",
+    "Frequency": "64.9",
+    "Acceptance Rate": "0.5126393113299639",
+    "Link": "https://leetcode.com/problems/bulls-and-cows",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "59.3",
+    "Acceptance Rate": "0.707244677141567",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "51.4",
+    "Acceptance Rate": "0.5506698261797845",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "51.4",
+    "Acceptance Rate": "0.3684168437941374",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Container With Most Water",
+    "Frequency": "51.4",
+    "Acceptance Rate": "0.5757944820852459",
+    "Link": "https://leetcode.com/problems/container-with-most-water",
+    "Topics": "Array, Two Pointers, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Add Two Numbers",
+    "Frequency": "51.4",
+    "Acceptance Rate": "0.4594288279777728",
+    "Link": "https://leetcode.com/problems/add-two-numbers",
+    "Topics": "Linked List, Math, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Letter Combinations of a Phone Number",
+    "Frequency": "51.4",
+    "Acceptance Rate": "0.6360128979249058",
+    "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "Topics": "Hash Table, String, Backtracking"
+  }
+]

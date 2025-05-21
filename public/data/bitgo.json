@@ -1,0 +1,74 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Check if an Original String Exists Given Two Encoded Strings",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.43159451092732065",
+    "Link": "https://leetcode.com/problems/check-if-an-original-string-exists-given-two-encoded-strings",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Gas Station",
+    "Frequency": "88.7",
+    "Acceptance Rate": "0.4622462034537412",
+    "Link": "https://leetcode.com/problems/gas-station",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Zigzag Conversion",
+    "Frequency": "73.4",
+    "Acceptance Rate": "0.513227252078982",
+    "Link": "https://leetcode.com/problems/zigzag-conversion",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "73.4",
+    "Acceptance Rate": "0.6207007641912252",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring with At Most K Distinct Characters",
+    "Frequency": "73.4",
+    "Acceptance Rate": "0.4942540826255029",
+    "Link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Game of Life",
+    "Frequency": "64.5",
+    "Acceptance Rate": "0.712407213443235",
+    "Link": "https://leetcode.com/problems/game-of-life",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Bus Routes",
+    "Frequency": "64.5",
+    "Acceptance Rate": "0.4697290402983185",
+    "Link": "https://leetcode.com/problems/bus-routes",
+    "Topics": "Array, Hash Table, Breadth-First Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "64.5",
+    "Acceptance Rate": "0.6481321568314116",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "64.5",
+    "Acceptance Rate": "0.4493741077414478",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Maximum Number of Balls in a Box",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7419459427594542",
+    "Link": "https://leetcode.com/problems/maximum-number-of-balls-in-a-box",
+    "Topics": "Hash Table, Math, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring with At Most K Distinct Characters",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.49425897901467164",
+    "Link": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7072432436930072",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Generate Parentheses",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7691665018279756",
+    "Link": "https://leetcode.com/problems/generate-parentheses",
+    "Topics": "String, Dynamic Programming, Backtracking"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "Frequency": "88.4",
+    "Acceptance Rate": "0.2155053541033762",
+    "Link": "https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference",
+    "Topics": "Array, Two Pointers, Binary Search, Dynamic Programming, Bit Manipulation, Ordered Set, Bitmask"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Two Sorted Lists",
+    "Frequency": "88.4",
+    "Acceptance Rate": "0.6665424108160374",
+    "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "Topics": "Linked List, Recursion"
+  }
+]

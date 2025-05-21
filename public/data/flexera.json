@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Lexicographically Minimum String After Removing Stars",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3519566012434476",
+    "Link": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars",
+    "Topics": "Hash Table, String, Stack, Greedy, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Clear Digits",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8255947713321425",
+    "Link": "https://leetcode.com/problems/clear-digits",
+    "Topics": "String, Stack, Simulation"
+  }
+]

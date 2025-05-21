@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Reformat Phone Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6684601473643306",
+    "Link": "https://leetcode.com/problems/reformat-phone-number",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Browser History",
+    "Frequency": "65.9",
+    "Acceptance Rate": "0.7768718170982771",
+    "Link": "https://leetcode.com/problems/design-browser-history",
+    "Topics": "Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "65.9",
+    "Acceptance Rate": "0.6097579827473091",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Divisible Triplet Sums",
+    "Frequency": "65.9",
+    "Acceptance Rate": "0.6759156492785795",
+    "Link": "https://leetcode.com/problems/number-of-divisible-triplet-sums",
+    "Topics": "Array, Hash Table"
+  }
+]

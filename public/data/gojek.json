@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Convert an Array Into a 2D Array With Conditions",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8629559333557262",
+    "Link": "https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Binary Tree Level Order Traversal",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.70310947711144",
+    "Link": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "Topics": "Tree, Breadth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Simplify Path",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.47446424556307576",
+    "Link": "https://leetcode.com/problems/simplify-path",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.36841806196988874",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Sliding Window Maximum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.47466192763724213",
+    "Link": "https://leetcode.com/problems/sliding-window-maximum",
+    "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+  }
+]

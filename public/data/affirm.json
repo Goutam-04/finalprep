@@ -1,0 +1,90 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5492718867501576",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Shortest Uncommon Substring in an Array",
+    "Frequency": "81.0",
+    "Acceptance Rate": "0.4784837088561254",
+    "Link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+    "Topics": "Array, Hash Table, String, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "76.6",
+    "Acceptance Rate": "0.707241519850137",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Parse Lisp Expression",
+    "Frequency": "74.9",
+    "Acceptance Rate": "0.5255774528501801",
+    "Link": "https://leetcode.com/problems/parse-lisp-expression",
+    "Topics": "Hash Table, String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Hit Counter",
+    "Frequency": "73.0",
+    "Acceptance Rate": "0.6913361416832299",
+    "Link": "https://leetcode.com/problems/design-hit-counter",
+    "Topics": "Array, Binary Search, Design, Queue, Data Stream"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "Frequency": "70.9",
+    "Acceptance Rate": "0.35714379184750605",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "String Compression",
+    "Frequency": "68.5",
+    "Acceptance Rate": "0.5782724361976558",
+    "Link": "https://leetcode.com/problems/string-compression",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Anagram",
+    "Frequency": "65.7",
+    "Acceptance Rate": "0.6647084687853648",
+    "Link": "https://leetcode.com/problems/valid-anagram",
+    "Topics": "Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Coin Change",
+    "Frequency": "58.3",
+    "Acceptance Rate": "0.4623360729159747",
+    "Link": "https://leetcode.com/problems/coin-change",
+    "Topics": "Array, Dynamic Programming, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "String Compression III",
+    "Frequency": "45.8",
+    "Acceptance Rate": "0.6678566318750153",
+    "Link": "https://leetcode.com/problems/string-compression-iii",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Number of Recent Calls",
+    "Frequency": "45.8",
+    "Acceptance Rate": "0.7716544603636463",
+    "Link": "https://leetcode.com/problems/number-of-recent-calls",
+    "Topics": "Design, Queue, Data Stream"
+  }
+]

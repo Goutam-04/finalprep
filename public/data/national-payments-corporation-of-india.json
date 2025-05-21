@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Special Array II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.456608064136139",
+    "Link": "https://leetcode.com/problems/special-array-ii",
+    "Topics": "Array, Binary Search, Prefix Sum"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Special Array I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8184359853003028",
+    "Link": "https://leetcode.com/problems/special-array-i",
+    "Topics": "Array"
+  }
+]

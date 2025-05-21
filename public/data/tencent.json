@@ -1,0 +1,130 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6097517480133998",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Remove Boxes",
+    "Frequency": "97.9",
+    "Acceptance Rate": "0.4823233247894544",
+    "Link": "https://leetcode.com/problems/remove-boxes",
+    "Topics": "Array, Dynamic Programming, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Factorization",
+    "Frequency": "97.9",
+    "Acceptance Rate": "0.3379030645760146",
+    "Link": "https://leetcode.com/problems/minimum-factorization",
+    "Topics": "Math, Greedy"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Candy",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.44660269489651044",
+    "Link": "https://leetcode.com/problems/candy",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Implement Rand10() Using Rand7()",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.4584408338062559",
+    "Link": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "Topics": "Math, Rejection Sampling, Randomized, Probability and Statistics"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Immediate Food Delivery II",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.5412048427565711",
+    "Link": "https://leetcode.com/problems/immediate-food-delivery-ii",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Alien Dictionary",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.36595287601625176",
+    "Link": "https://leetcode.com/problems/alien-dictionary",
+    "Topics": "Array, String, Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.4493692731471758",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove Duplicates from Sorted List II",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.4968223107778422",
+    "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "Topics": "Linked List, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.4216002717217113",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Jump Game",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.3932861526841963",
+    "Link": "https://leetcode.com/problems/jump-game",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Remove to Make Valid Parentheses",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.7058955740103616",
+    "Link": "https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Department Highest Salary",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.5443642408362213",
+    "Link": "https://leetcode.com/problems/department-highest-salary",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Next Greater Element I",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.7427225153785604",
+    "Link": "https://leetcode.com/problems/next-greater-element-i",
+    "Topics": "Array, Hash Table, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Debounce",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.9180630303955621",
+    "Link": "https://leetcode.com/problems/debounce",
+    "Topics": ""
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "62.3",
+    "Acceptance Rate": "0.4919347950220192",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  }
+]

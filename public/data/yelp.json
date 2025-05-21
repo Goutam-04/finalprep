@@ -1,0 +1,234 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Destination City",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7943136184697975",
+    "Link": "https://leetcode.com/problems/destination-city",
+    "Topics": "Array, Hash Table, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Course Schedule",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4894558928764915",
+    "Link": "https://leetcode.com/problems/course-schedule",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.5554659380670625",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.36716086387981633",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Letter Case Permutation",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.7504742901271767",
+    "Link": "https://leetcode.com/problems/letter-case-permutation",
+    "Topics": "String, Backtracking, Bit Manipulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Top K Frequent Words",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.5915504556468113",
+    "Link": "https://leetcode.com/problems/top-k-frequent-words",
+    "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Index Sum of Two Lists",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.5776216981231715",
+    "Link": "https://leetcode.com/problems/minimum-index-sum-of-two-lists",
+    "Topics": "Array, Hash Table, String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Find the Closest Palindrome",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.31598971465661435",
+    "Link": "https://leetcode.com/problems/find-the-closest-palindrome",
+    "Topics": "Math, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Check If a Word Occurs As a Prefix of Any Word in a Sentence",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.6867159570760115",
+    "Link": "https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence",
+    "Topics": "Two Pointers, String, String Matching"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "String Compression",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.5782717197339003",
+    "Link": "https://leetcode.com/problems/string-compression",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Filter Restaurants by Vegan-Friendly, Price and Distance",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.6312752241640643",
+    "Link": "https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.6097517480133998",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.3571436360583015",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.5492717941295201",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Top K Frequent Elements",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.6438811234016775",
+    "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Anagram",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.6647095129880087",
+    "Link": "https://leetcode.com/problems/valid-anagram",
+    "Topics": "Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "The Skyline Problem",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.4384814791894438",
+    "Link": "https://leetcode.com/problems/the-skyline-problem",
+    "Topics": "Array, Divide and Conquer, Binary Indexed Tree, Segment Tree, Line Sweep, Heap (Priority Queue), Ordered Set"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Linked List",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.7900459219854923",
+    "Link": "https://leetcode.com/problems/reverse-linked-list",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Active Businesses",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.6591481703659268",
+    "Link": "https://leetcode.com/problems/active-businesses",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reverse Words in a String",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.5128465966852522",
+    "Link": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Word Ladder",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.4245620967811214",
+    "Link": "https://leetcode.com/problems/word-ladder",
+    "Topics": "Hash Table, String, Breadth-First Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Word Ladder II",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.271547876323384",
+    "Link": "https://leetcode.com/problems/word-ladder-ii",
+    "Topics": "Hash Table, String, Backtracking, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.49193463605661203",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.707241806015576",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.45269223061196195",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove Colored Pieces if Both Neighbors are the Same Color",
+    "Frequency": "97.5",
+    "Acceptance Rate": "0.6279344559265511",
+    "Link": "https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color",
+    "Topics": "Math, String, Greedy, Game Theory"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Random Pick with Weight",
+    "Frequency": "79.5",
+    "Acceptance Rate": "0.4815727894047801",
+    "Link": "https://leetcode.com/problems/random-pick-with-weight",
+    "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum String Length After Removing Substrings",
+    "Frequency": "55.8",
+    "Acceptance Rate": "0.7706766663516451",
+    "Link": "https://leetcode.com/problems/minimum-string-length-after-removing-substrings",
+    "Topics": "String, Stack, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Shortest and Lexicographically Smallest Beautiful String",
+    "Frequency": "55.8",
+    "Acceptance Rate": "0.39458594840791095",
+    "Link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string",
+    "Topics": "String, Sliding Window"
+  }
+]

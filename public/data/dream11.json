@@ -1,0 +1,82 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Final Prices With a Special Discount in a Shop",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8324096687745053",
+    "Link": "https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop",
+    "Topics": "Array, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Asteroid Collision",
+    "Frequency": "79.0",
+    "Acceptance Rate": "0.45328552888849927",
+    "Link": "https://leetcode.com/problems/asteroid-collision",
+    "Topics": "Array, Stack, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Furthest Building You Can Reach",
+    "Frequency": "72.4",
+    "Acceptance Rate": "0.503157109811295",
+    "Link": "https://leetcode.com/problems/furthest-building-you-can-reach",
+    "Topics": "Array, Greedy, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "72.4",
+    "Acceptance Rate": "0.3684101398376922",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+    "Frequency": "72.4",
+    "Acceptance Rate": "0.7224943172497832",
+    "Link": "https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+    "Topics": "Array, Dynamic Programming, Stack, Greedy, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Falling Path Sum",
+    "Frequency": "63.2",
+    "Acceptance Rate": "0.6167744930491238",
+    "Link": "https://leetcode.com/problems/minimum-falling-path-sum",
+    "Topics": "Array, Dynamic Programming, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Shortest Common Supersequence ",
+    "Frequency": "63.2",
+    "Acceptance Rate": "0.6123252874857665",
+    "Link": "https://leetcode.com/problems/shortest-common-supersequence",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Gas Station",
+    "Frequency": "63.2",
+    "Acceptance Rate": "0.4622461712311463",
+    "Link": "https://leetcode.com/problems/gas-station",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Ways to Select Buildings",
+    "Frequency": "63.2",
+    "Acceptance Rate": "0.5042733164890696",
+    "Link": "https://leetcode.com/problems/number-of-ways-to-select-buildings",
+    "Topics": "String, Dynamic Programming, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Partition Equal Subset Sum",
+    "Frequency": "63.2",
+    "Acceptance Rate": "0.482732985113292",
+    "Link": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

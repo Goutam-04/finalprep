@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Word Break",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4813215414894533",
+    "Link": "https://leetcode.com/problems/word-break",
+    "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4919450322184633",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  }
+]

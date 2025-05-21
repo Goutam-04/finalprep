@@ -1,0 +1,50 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Count Pairs With XOR in a Range",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.45694946607247966",
+    "Link": "https://leetcode.com/problems/count-pairs-with-xor-in-a-range",
+    "Topics": "Array, Bit Manipulation, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Flower Planting With No Adjacent",
+    "Frequency": "66.5",
+    "Acceptance Rate": "0.5222009162829684",
+    "Link": "https://leetcode.com/problems/flower-planting-with-no-adjacent",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "66.5",
+    "Acceptance Rate": "0.5197412315695791",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "66.5",
+    "Acceptance Rate": "0.3684172609071872",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "66.5",
+    "Acceptance Rate": "0.44938298783889796",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Min Stack",
+    "Frequency": "66.5",
+    "Acceptance Rate": "0.5623497189196848",
+    "Link": "https://leetcode.com/problems/min-stack",
+    "Topics": "Stack, Design"
+  }
+]

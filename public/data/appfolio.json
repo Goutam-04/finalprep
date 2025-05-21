@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5492726695162158",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Shortest Path in a Grid with Obstacles Elimination",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.45533763673317146",
+    "Link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Logger Rate Limiter",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7656257939935972",
+    "Link": "https://leetcode.com/problems/logger-rate-limiter",
+    "Topics": "Hash Table, Design, Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4493769352735316",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  }
+]

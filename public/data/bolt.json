@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5506646226842639",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Check if All Characters Have Equal Number of Occurrences",
+    "Frequency": "96.6",
+    "Acceptance Rate": "0.785280765150332",
+    "Link": "https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find All Anagrams in a String",
+    "Frequency": "80.4",
+    "Acceptance Rate": "0.520693356042431",
+    "Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "69.9",
+    "Acceptance Rate": "0.5554757224174278",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Best Time to Buy and Sell Stock III",
+    "Frequency": "69.9",
+    "Acceptance Rate": "0.5072705409868865",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "61.6",
+    "Acceptance Rate": "0.42160389265615356",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Climbing Stairs",
+    "Frequency": "61.6",
+    "Acceptance Rate": "0.5347711268736087",
+    "Link": "https://leetcode.com/problems/climbing-stairs",
+    "Topics": "Math, Dynamic Programming, Memoization"
+  }
+]

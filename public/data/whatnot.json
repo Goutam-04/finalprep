@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.620715513189683",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "87.9",
+    "Acceptance Rate": "0.7072501585986966",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Palindrome II",
+    "Frequency": "87.9",
+    "Acceptance Rate": "0.42858829046959745",
+    "Link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "Topics": "Two Pointers, String, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Remove All Adjacent Duplicates In String",
+    "Frequency": "87.9",
+    "Acceptance Rate": "0.7139945625052398",
+    "Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search a 2D Matrix II",
+    "Frequency": "78.3",
+    "Acceptance Rate": "0.5495838810502353",
+    "Link": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "Topics": "Array, Binary Search, Divide and Conquer, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Word Search",
+    "Frequency": "78.3",
+    "Acceptance Rate": "0.4502891813401763",
+    "Link": "https://leetcode.com/problems/word-search",
+    "Topics": "Array, String, Backtracking, Depth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Squares of a Sorted Array",
+    "Frequency": "78.3",
+    "Acceptance Rate": "0.7317614715235954",
+    "Link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  }
+]

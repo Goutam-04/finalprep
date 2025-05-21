@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.648143519759729",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Monotone Increasing Digits",
+    "Frequency": "90.6",
+    "Acceptance Rate": "0.48650767257351896",
+    "Link": "https://leetcode.com/problems/monotone-increasing-digits",
+    "Topics": "Math, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Basic Calculator II",
+    "Frequency": "90.6",
+    "Acceptance Rate": "0.4562843214523553",
+    "Link": "https://leetcode.com/problems/basic-calculator-ii",
+    "Topics": "Math, String, Stack"
+  }
+]

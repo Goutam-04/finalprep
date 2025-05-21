@@ -1,0 +1,194 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Deletions to Make Character Frequencies Unique",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6127832834644489",
+    "Link": "https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique",
+    "Topics": "Hash Table, String, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Percentage of Letter in String",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.7444555478111906",
+    "Link": "https://leetcode.com/problems/percentage-of-letter-in-string",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Ugly Number III",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.30353644043298106",
+    "Link": "https://leetcode.com/problems/ugly-number-iii",
+    "Topics": "Math, Binary Search, Combinatorics, Number Theory"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Operations to Make Array XOR Equal to K",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.8531454726251755",
+    "Link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k",
+    "Topics": "Array, Bit Manipulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Equal Sum Arrays With Minimum Number of Operations",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.5389249304911955",
+    "Link": "https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations",
+    "Topics": "Array, Hash Table, Greedy, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum XOR After Operations ",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.7921441620993189",
+    "Link": "https://leetcode.com/problems/maximum-xor-after-operations",
+    "Topics": "Array, Math, Bit Manipulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Find a Value of a Mysterious Function Closest to Target",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.45686354681634017",
+    "Link": "https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target",
+    "Topics": "Array, Binary Search, Bit Manipulation, Segment Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximize the Topmost Element After K Moves",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.23370140568584147",
+    "Link": "https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Divide an Array Into Subarrays With Minimum Cost II",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.2988974113135187",
+    "Link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii",
+    "Topics": "Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.6563100522082208",
+    "Link": "https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i",
+    "Topics": "Array, Sorting, Enumeration"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Equal Frequency",
+    "Frequency": "95.5",
+    "Acceptance Rate": "0.3739581282404673",
+    "Link": "https://leetcode.com/problems/maximum-equal-frequency",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "82.9",
+    "Acceptance Rate": "0.5554738259743678",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Add Digits",
+    "Frequency": "72.9",
+    "Acceptance Rate": "0.6780732723290093",
+    "Link": "https://leetcode.com/problems/add-digits",
+    "Topics": "Math, Simulation, Number Theory"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "72.9",
+    "Acceptance Rate": "0.3684085294934961",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Anagram",
+    "Frequency": "72.9",
+    "Acceptance Rate": "0.6647152356478735",
+    "Link": "https://leetcode.com/problems/valid-anagram",
+    "Topics": "Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Fuel Cost to Report to the Capital",
+    "Frequency": "65.8",
+    "Acceptance Rate": "0.6433157206976875",
+    "Link": "https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Palindrome",
+    "Frequency": "65.8",
+    "Acceptance Rate": "0.5066560953667313",
+    "Link": "https://leetcode.com/problems/valid-palindrome",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotate Array",
+    "Frequency": "65.8",
+    "Acceptance Rate": "0.4280652233458176",
+    "Link": "https://leetcode.com/problems/rotate-array",
+    "Topics": "Array, Math, Two Pointers"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "55.9",
+    "Acceptance Rate": "0.6481315138441756",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reconstruct a 2-Row Binary Matrix",
+    "Frequency": "55.9",
+    "Acceptance Rate": "0.47582791134080876",
+    "Link": "https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix",
+    "Topics": "Array, Greedy, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "55.9",
+    "Acceptance Rate": "0.4216026030908467",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "55.9",
+    "Acceptance Rate": "0.3671666868095757",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Permutations",
+    "Frequency": "55.9",
+    "Acceptance Rate": "0.8048502576646546",
+    "Link": "https://leetcode.com/problems/permutations",
+    "Topics": "Array, Backtracking"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "55.9",
+    "Acceptance Rate": "0.5506627497051989",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

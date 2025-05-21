@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Reaching Points",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.33578200653079615",
+    "Link": "https://leetcode.com/problems/reaching-points",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Serialize and Deserialize Binary Tree",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5872401765641688",
+    "Link": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "Topics": "String, Tree, Depth-First Search, Breadth-First Search, Design, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.49194156969268055",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Convert Binary Number in a Linked List to Integer",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8118099463524453",
+    "Link": "https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer",
+    "Topics": "Linked List, Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4493743714736963",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Course Schedule II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5312939938678486",
+    "Link": "https://leetcode.com/problems/course-schedule-ii",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7072455688197414",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  }
+]

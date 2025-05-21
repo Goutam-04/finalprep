@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4216131644173957",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "90.4",
+    "Acceptance Rate": "0.555491485619918",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Candy Crush",
+    "Frequency": "90.4",
+    "Acceptance Rate": "0.7731965811965812",
+    "Link": "https://leetcode.com/problems/candy-crush",
+    "Topics": "Array, Two Pointers, Matrix, Simulation"
+  }
+]

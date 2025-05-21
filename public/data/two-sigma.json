@@ -1,0 +1,186 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Operations to Reduce an Integer to 0",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5695584181082431",
+    "Link": "https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0",
+    "Topics": "Dynamic Programming, Greedy, Bit Manipulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Provinces",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6837615416071388",
+    "Link": "https://leetcode.com/problems/number-of-provinces",
+    "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Random Pick with Weight",
+    "Frequency": "98.1",
+    "Acceptance Rate": "0.48157458186766305",
+    "Link": "https://leetcode.com/problems/random-pick-with-weight",
+    "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray Sum with One Deletion",
+    "Frequency": "96.0",
+    "Acceptance Rate": "0.4500739973360959",
+    "Link": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Multiply Strings",
+    "Frequency": "93.8",
+    "Acceptance Rate": "0.4214938469181812",
+    "Link": "https://leetcode.com/problems/multiply-strings",
+    "Topics": "Math, String, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Wildcard Matching",
+    "Frequency": "93.8",
+    "Acceptance Rate": "0.2968679781297749",
+    "Link": "https://leetcode.com/problems/wildcard-matching",
+    "Topics": "String, Dynamic Programming, Greedy, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest String Chain",
+    "Frequency": "93.8",
+    "Acceptance Rate": "0.6185630365533916",
+    "Link": "https://leetcode.com/problems/longest-string-chain",
+    "Topics": "Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Game of Life",
+    "Frequency": "93.8",
+    "Acceptance Rate": "0.712400838453491",
+    "Link": "https://leetcode.com/problems/game-of-life",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Power of Four",
+    "Frequency": "93.8",
+    "Acceptance Rate": "0.4933593522094321",
+    "Link": "https://leetcode.com/problems/power-of-four",
+    "Topics": "Math, Bit Manipulation, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Intersection of Two Arrays",
+    "Frequency": "93.8",
+    "Acceptance Rate": "0.7630318673591128",
+    "Link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "Topics": "Array, Hash Table, Two Pointers, Binary Search, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Sum Circular Subarray",
+    "Frequency": "93.8",
+    "Acceptance Rate": "0.4740306031519719",
+    "Link": "https://leetcode.com/problems/maximum-sum-circular-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming, Queue, Monotonic Queue"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Word Search II",
+    "Frequency": "91.3",
+    "Acceptance Rate": "0.3720008563884198",
+    "Link": "https://leetcode.com/problems/word-search-ii",
+    "Topics": "Array, String, Backtracking, Trie, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Parallel Courses III",
+    "Frequency": "77.3",
+    "Acceptance Rate": "0.667584907798204",
+    "Link": "https://leetcode.com/problems/parallel-courses-iii",
+    "Topics": "Array, Dynamic Programming, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Merge k Sorted Lists",
+    "Frequency": "72.0",
+    "Acceptance Rate": "0.5644309332494434",
+    "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Memory Allocator",
+    "Frequency": "65.2",
+    "Acceptance Rate": "0.4825474586650337",
+    "Link": "https://leetcode.com/problems/design-memory-allocator",
+    "Topics": "Array, Hash Table, Design, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Space Wasted From Packaging",
+    "Frequency": "65.2",
+    "Acceptance Rate": "0.3247000856898029",
+    "Link": "https://leetcode.com/problems/minimum-space-wasted-from-packaging",
+    "Topics": "Array, Binary Search, Sorting, Prefix Sum"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Design HashMap",
+    "Frequency": "65.2",
+    "Acceptance Rate": "0.6583893087524872",
+    "Link": "https://leetcode.com/problems/design-hashmap",
+    "Topics": "Array, Hash Table, Linked List, Design, Hash Function"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search Suggestions System",
+    "Frequency": "55.7",
+    "Acceptance Rate": "0.6504530111920412",
+    "Link": "https://leetcode.com/problems/search-suggestions-system",
+    "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Tic-Tac-Toe",
+    "Frequency": "55.7",
+    "Acceptance Rate": "0.5855440468997771",
+    "Link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "Topics": "Array, Hash Table, Design, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Robot Room Cleaner",
+    "Frequency": "55.7",
+    "Acceptance Rate": "0.7741622027697936",
+    "Link": "https://leetcode.com/problems/robot-room-cleaner",
+    "Topics": "Backtracking, Interactive"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Sum of Square Numbers",
+    "Frequency": "55.7",
+    "Acceptance Rate": "0.36443965174877846",
+    "Link": "https://leetcode.com/problems/sum-of-square-numbers",
+    "Topics": "Math, Two Pointers, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Meeting Rooms II",
+    "Frequency": "55.7",
+    "Acceptance Rate": "0.520796372954859",
+    "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "55.7",
+    "Acceptance Rate": "0.550657762387897",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

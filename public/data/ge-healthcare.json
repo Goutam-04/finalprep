@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Concatenation of Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.9045503993303302",
+    "Link": "https://leetcode.com/problems/concatenation-of-array",
+    "Topics": "Array, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Evaluate Division",
+    "Frequency": "95.1",
+    "Acceptance Rate": "0.6298827098701412",
+    "Link": "https://leetcode.com/problems/evaluate-division",
+    "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "84.9",
+    "Acceptance Rate": "0.4216034898526447",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Visible People in a Queue",
+    "Frequency": "73.7",
+    "Acceptance Rate": "0.7106834830130573",
+    "Link": "https://leetcode.com/problems/number-of-visible-people-in-a-queue",
+    "Topics": "Array, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Lowest Common Ancestor of a Binary Tree",
+    "Frequency": "73.7",
+    "Acceptance Rate": "0.6636703103870935",
+    "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "Topics": "Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Car Fleet",
+    "Frequency": "64.9",
+    "Acceptance Rate": "0.5327857566283885",
+    "Link": "https://leetcode.com/problems/car-fleet",
+    "Topics": "Array, Stack, Sorting, Monotonic Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Employee Free Time",
+    "Frequency": "64.9",
+    "Acceptance Rate": "0.7256161498673857",
+    "Link": "https://leetcode.com/problems/employee-free-time",
+    "Topics": "Array, Line Sweep, Sorting, Heap (Priority Queue)"
+  }
+]

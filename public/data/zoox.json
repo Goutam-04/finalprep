@@ -1,0 +1,66 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.55066433799456",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Frogs Croaking",
+    "Frequency": "78.1",
+    "Acceptance Rate": "0.5073836035511827",
+    "Link": "https://leetcode.com/problems/minimum-number-of-frogs-croaking",
+    "Topics": "String, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Basic Calculator II",
+    "Frequency": "73.6",
+    "Acceptance Rate": "0.45628515614368453",
+    "Link": "https://leetcode.com/problems/basic-calculator-ii",
+    "Topics": "Math, String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "H-Index",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.4016660763409917",
+    "Link": "https://leetcode.com/problems/h-index",
+    "Topics": "Array, Sorting, Counting Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "4Sum",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.37979667952233626",
+    "Link": "https://leetcode.com/problems/4sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotting Oranges",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.5635882276055586",
+    "Link": "https://leetcode.com/problems/rotting-oranges",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Fibonacci Number",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.7278223370397562",
+    "Link": "https://leetcode.com/problems/fibonacci-number",
+    "Topics": "Math, Dynamic Programming, Recursion, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Circular Queue",
+    "Frequency": "59.8",
+    "Acceptance Rate": "0.5247969755792885",
+    "Link": "https://leetcode.com/problems/design-circular-queue",
+    "Topics": "Array, Linked List, Design, Queue"
+  }
+]

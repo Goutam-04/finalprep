@@ -1,0 +1,114 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42160354575062337",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Monotonic Array",
+    "Frequency": "81.4",
+    "Acceptance Rate": "0.6162686288187628",
+    "Link": "https://leetcode.com/problems/monotonic-array",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "81.4",
+    "Acceptance Rate": "0.4919420654048896",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Squares of a Sorted Array",
+    "Frequency": "81.4",
+    "Acceptance Rate": "0.7317572065774582",
+    "Link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Department Top Three Salaries",
+    "Frequency": "81.4",
+    "Acceptance Rate": "0.5743799473560562",
+    "Link": "https://leetcode.com/problems/department-top-three-salaries",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "74.8",
+    "Acceptance Rate": "0.5554753106423621",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Move Zeroes",
+    "Frequency": "74.8",
+    "Acceptance Rate": "0.6272168032517914",
+    "Link": "https://leetcode.com/problems/move-zeroes",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Linked List",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.7900543396774438",
+    "Link": "https://leetcode.com/problems/reverse-linked-list",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Sorted Array",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.5267943606091755",
+    "Link": "https://leetcode.com/problems/merge-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "First Unique Character in a String",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.6352111833567535",
+    "Link": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "Topics": "Hash Table, String, Queue, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Invert Binary Tree",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.7887180228870423",
+    "Link": "https://leetcode.com/problems/invert-binary-tree",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.5506645895170031",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.6097575077414454",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Department Highest Salary",
+    "Frequency": "65.5",
+    "Acceptance Rate": "0.544375237363259",
+    "Link": "https://leetcode.com/problems/department-highest-salary",
+    "Topics": "Database"
+  }
+]

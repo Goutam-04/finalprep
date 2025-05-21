@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Smallest Missing Non-negative Integer After Operations",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3974731733846507",
+    "Link": "https://leetcode.com/problems/smallest-missing-non-negative-integer-after-operations",
+    "Topics": "Array, Hash Table, Math, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Crawler Log Folder",
+    "Frequency": "94.5",
+    "Acceptance Rate": "0.7158861233087191",
+    "Link": "https://leetcode.com/problems/crawler-log-folder",
+    "Topics": "Array, String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Count Largest Group",
+    "Frequency": "94.5",
+    "Acceptance Rate": "0.7510795089572478",
+    "Link": "https://leetcode.com/problems/count-largest-group",
+    "Topics": "Hash Table, Math"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Subsequence in Non-Increasing Order",
+    "Frequency": "94.5",
+    "Acceptance Rate": "0.7287127656737513",
+    "Link": "https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order",
+    "Topics": "Array, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Max Difference You Can Get From Changing an Integer",
+    "Frequency": "94.5",
+    "Acceptance Rate": "0.402351215180588",
+    "Link": "https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer",
+    "Topics": "Math, Greedy"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Celebrity",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4836883071077587",
+    "Link": "https://leetcode.com/problems/find-the-celebrity",
+    "Topics": "Two Pointers, Graph, Interactive"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Palindrome",
+    "Frequency": "88.2",
+    "Acceptance Rate": "0.5066649864333334",
+    "Link": "https://leetcode.com/problems/valid-palindrome",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.5506700927292609",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

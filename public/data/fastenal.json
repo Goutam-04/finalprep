@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Window Substring",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.45100581279633345",
+    "Link": "https://leetcode.com/problems/minimum-window-substring",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Sum of Beauty of All Substrings",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.7020175053225642",
+    "Link": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Last Substring in Lexicographical Order",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.3437809813997908",
+    "Link": "https://leetcode.com/problems/last-substring-in-lexicographical-order",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Atoms",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.6500440172362231",
+    "Link": "https://leetcode.com/problems/number-of-atoms",
+    "Topics": "Hash Table, String, Stack, Sorting"
+  }
+]

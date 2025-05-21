@@ -1,0 +1,50 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find All Groups of Farmland",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7547549824670425",
+    "Link": "https://leetcode.com/problems/find-all-groups-of-farmland",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Check if Strings Can be Made Equal With Operations II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5510597666811624",
+    "Link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii",
+    "Topics": "Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Check if Strings Can be Made Equal With Operations I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4697847635549455",
+    "Link": "https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Performance of a Team",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.47517704045240305",
+    "Link": "https://leetcode.com/problems/maximum-performance-of-a-team",
+    "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove Nth Node From End of List",
+    "Frequency": "63.8",
+    "Acceptance Rate": "0.4863840617786769",
+    "Link": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "Topics": "Linked List, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Pairs of Songs With Total Durations Divisible by 60",
+    "Frequency": "63.8",
+    "Acceptance Rate": "0.5322406965603059",
+    "Link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "Topics": "Array, Hash Table, Counting"
+  }
+]

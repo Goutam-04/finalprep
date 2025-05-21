@@ -1,0 +1,170 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Apply Operations to Make Two Strings Equal",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.2711142929009539",
+    "Link": "https://leetcode.com/problems/apply-operations-to-make-two-strings-equal",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Split Array Largest Sum",
+    "Frequency": "70.9",
+    "Acceptance Rate": "0.5776957840648795",
+    "Link": "https://leetcode.com/problems/split-array-largest-sum",
+    "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Evaluate Division",
+    "Frequency": "70.9",
+    "Acceptance Rate": "0.6298827098701412",
+    "Link": "https://leetcode.com/problems/evaluate-division",
+    "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "IPO",
+    "Frequency": "70.9",
+    "Acceptance Rate": "0.5300534687559234",
+    "Link": "https://leetcode.com/problems/ipo",
+    "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "70.9",
+    "Acceptance Rate": "0.5492729002925316",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Next Greater Element II",
+    "Frequency": "70.9",
+    "Acceptance Rate": "0.6599659734725227",
+    "Link": "https://leetcode.com/problems/next-greater-element-ii",
+    "Topics": "Array, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Profit in Job Scheduling",
+    "Frequency": "70.9",
+    "Acceptance Rate": "0.5438724532956553",
+    "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Substring with Concatenation of All Words",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.32941721819307657",
+    "Link": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Longest Valid Parentheses",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.36105368278770383",
+    "Link": "https://leetcode.com/problems/longest-valid-parentheses",
+    "Topics": "String, Dynamic Programming, Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Window Substring",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.4509921782288573",
+    "Link": "https://leetcode.com/problems/minimum-window-substring",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Univalue Subtrees",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.5712596488902686",
+    "Link": "https://leetcode.com/problems/count-univalue-subtrees",
+    "Topics": "Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.6481312292939236",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Capacity To Ship Packages Within D Days",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.7178997632129654",
+    "Link": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Operations to Write the Letter Y on a Grid",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.6157295884372918",
+    "Link": "https://leetcode.com/problems/minimum-operations-to-write-the-letter-y-on-a-grid",
+    "Topics": "Array, Hash Table, Matrix, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Interleaving String",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.4201375437760016",
+    "Link": "https://leetcode.com/problems/interleaving-string",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.3671676575529016",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.6207005883978056",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find a Peak Element II",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.5300146345925181",
+    "Link": "https://leetcode.com/problems/find-a-peak-element-ii",
+    "Topics": "Array, Binary Search, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.3571532943821793",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Task Scheduler",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.6133068263525299",
+    "Link": "https://leetcode.com/problems/task-scheduler",
+    "Topics": "Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Reverse Nodes in k-Group",
+    "Frequency": "61.2",
+    "Acceptance Rate": "0.6268130423445406",
+    "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "Topics": "Linked List, Recursion"
+  }
+]

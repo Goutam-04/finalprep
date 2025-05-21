@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Substring XOR Queries",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.34426038264115727",
+    "Link": "https://leetcode.com/problems/substring-xor-queries",
+    "Topics": "Array, Hash Table, String, Bit Manipulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Handling Sum Queries After Update",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.29235836627140976",
+    "Link": "https://leetcode.com/problems/handling-sum-queries-after-update",
+    "Topics": "Array, Segment Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Bitwise XOR of All Pairings",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.670259557776893",
+    "Link": "https://leetcode.com/problems/bitwise-xor-of-all-pairings",
+    "Topics": "Array, Bit Manipulation, Brainteaser"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Time to Kill All Monsters",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5594025797691785",
+    "Link": "https://leetcode.com/problems/minimum-time-to-kill-all-monsters",
+    "Topics": "Array, Dynamic Programming, Bit Manipulation, Bitmask"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Distinct Subsequences",
+    "Frequency": "64.2",
+    "Acceptance Rate": "0.4985151751905916",
+    "Link": "https://leetcode.com/problems/distinct-subsequences",
+    "Topics": "String, Dynamic Programming"
+  }
+]

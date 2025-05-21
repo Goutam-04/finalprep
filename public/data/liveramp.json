@@ -1,0 +1,50 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Distribute Candies",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6936530844105997",
+    "Link": "https://leetcode.com/problems/distribute-candies",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Shortest Unsorted Continuous Subarray",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3736152839087598",
+    "Link": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray",
+    "Topics": "Array, Two Pointers, Stack, Greedy, Sorting, Monotonic Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Harmonious Subsequence",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5694406050778433",
+    "Link": "https://leetcode.com/problems/longest-harmonious-subsequence",
+    "Topics": "Array, Hash Table, Sliding Window, Sorting, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Largest Time for Given Digits",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.35499839303723346",
+    "Link": "https://leetcode.com/problems/largest-time-for-given-digits",
+    "Topics": "Array, String, Backtracking, Enumeration"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "65.0",
+    "Acceptance Rate": "0.35649414250434686",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Course Schedule",
+    "Frequency": "65.0",
+    "Acceptance Rate": "0.4894658301145889",
+    "Link": "https://leetcode.com/problems/course-schedule",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  }
+]

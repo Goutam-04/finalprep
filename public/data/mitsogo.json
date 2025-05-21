@@ -1,0 +1,130 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Find the Integer Added to Array I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8194630242437044",
+    "Link": "https://leetcode.com/problems/find-the-integer-added-to-array-i",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Integer Added to Array II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.317211929749411",
+    "Link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii",
+    "Topics": "Array, Two Pointers, Sorting, Enumeration"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Substring Partition of Equal Character Frequency",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3883434974465764",
+    "Link": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency",
+    "Topics": "Hash Table, String, Dynamic Programming, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Construct String with Minimum Cost",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.1919729955715215",
+    "Link": "https://leetcode.com/problems/construct-string-with-minimum-cost",
+    "Topics": "Array, String, Dynamic Programming, Suffix Array"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Total Reward Using Operations I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.2982912015056247",
+    "Link": "https://leetcode.com/problems/maximum-total-reward-using-operations-i",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Total Reward Using Operations II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.2054979842528207",
+    "Link": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii",
+    "Topics": "Array, Dynamic Programming, Bit Manipulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Shortest Subarray With OR at Least K II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5024870163119011",
+    "Link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii",
+    "Topics": "Array, Bit Manipulation, Sliding Window"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Shortest Subarray With OR at Least K I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42568254565995106",
+    "Link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i",
+    "Topics": "Array, Bit Manipulation, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Right Triangles",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4682742526947439",
+    "Link": "https://leetcode.com/problems/right-triangles",
+    "Topics": "Array, Hash Table, Math, Combinatorics, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Symmetric Coordinates",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4053333333333333",
+    "Link": "https://leetcode.com/problems/symmetric-coordinates",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Pascal's Triangle",
+    "Frequency": "71.1",
+    "Acceptance Rate": "0.7680064827444596",
+    "Link": "https://leetcode.com/problems/pascals-triangle",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Next Permutation",
+    "Frequency": "71.1",
+    "Acceptance Rate": "0.4279453166417543",
+    "Link": "https://leetcode.com/problems/next-permutation",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Next Greater Element III",
+    "Frequency": "61.3",
+    "Acceptance Rate": "0.3451345163136806",
+    "Link": "https://leetcode.com/problems/next-greater-element-iii",
+    "Topics": "Math, Two Pointers, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Zigzag Conversion",
+    "Frequency": "61.3",
+    "Acceptance Rate": "0.5132415122754467",
+    "Link": "https://leetcode.com/problems/zigzag-conversion",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Jump Game II",
+    "Frequency": "61.3",
+    "Acceptance Rate": "0.41357268837383143",
+    "Link": "https://leetcode.com/problems/jump-game-ii",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "61.3",
+    "Acceptance Rate": "0.4216088562671785",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  }
+]

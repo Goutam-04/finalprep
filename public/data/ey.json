@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5554858980202204",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Fibonacci Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7278326395756196",
+    "Link": "https://leetcode.com/problems/fibonacci-number",
+    "Topics": "Math, Dynamic Programming, Recursion, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Happy String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6545383744445245",
+    "Link": "https://leetcode.com/problems/longest-happy-string",
+    "Topics": "String, Greedy, Heap (Priority Queue)"
+  }
+]

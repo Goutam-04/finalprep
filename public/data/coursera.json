@@ -1,0 +1,90 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Text Justification",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.478144242559358",
+    "Link": "https://leetcode.com/problems/text-justification",
+    "Topics": "Array, String, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Reaching Points",
+    "Frequency": "97.8",
+    "Acceptance Rate": "0.3357834526865739",
+    "Link": "https://leetcode.com/problems/reaching-points",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Music Playlists",
+    "Frequency": "97.8",
+    "Acceptance Rate": "0.5996786772482501",
+    "Link": "https://leetcode.com/problems/number-of-music-playlists",
+    "Topics": "Math, Dynamic Programming, Combinatorics"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Highest Grade For Each Student",
+    "Frequency": "97.8",
+    "Acceptance Rate": "0.7110590198454478",
+    "Link": "https://leetcode.com/problems/highest-grade-for-each-student",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Moves to Equal Array Elements",
+    "Frequency": "97.8",
+    "Acceptance Rate": "0.5764355003026769",
+    "Link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+    "Topics": "Array, Math"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "N-th Tribonacci Number",
+    "Frequency": "97.8",
+    "Acceptance Rate": "0.6360459579331175",
+    "Link": "https://leetcode.com/problems/n-th-tribonacci-number",
+    "Topics": "Math, Dynamic Programming, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Increment to Make Array Unique",
+    "Frequency": "97.8",
+    "Acceptance Rate": "0.6029663757251901",
+    "Link": "https://leetcode.com/problems/minimum-increment-to-make-array-unique",
+    "Topics": "Array, Greedy, Sorting, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Special Binary String",
+    "Frequency": "97.8",
+    "Acceptance Rate": "0.6328239019688834",
+    "Link": "https://leetcode.com/problems/special-binary-string",
+    "Topics": "String, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rank Teams by Votes",
+    "Frequency": "86.0",
+    "Acceptance Rate": "0.5929102381121523",
+    "Link": "https://leetcode.com/problems/rank-teams-by-votes",
+    "Topics": "Array, Hash Table, String, Sorting, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search Suggestions System",
+    "Frequency": "70.1",
+    "Acceptance Rate": "0.6504650698535258",
+    "Link": "https://leetcode.com/problems/search-suggestions-system",
+    "Topics": "Array, String, Binary Search, Trie, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Wildcard Matching",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.2968831762238455",
+    "Link": "https://leetcode.com/problems/wildcard-matching",
+    "Topics": "String, Dynamic Programming, Greedy, Recursion"
+  }
+]

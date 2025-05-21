@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Find Servers That Handled Most Number of Requests",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.43945390204577334",
+    "Link": "https://leetcode.com/problems/find-servers-that-handled-most-number-of-requests",
+    "Topics": "Array, Greedy, Heap (Priority Queue), Ordered Set"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rabbits in Forest",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5830575093090609",
+    "Link": "https://leetcode.com/problems/rabbits-in-forest",
+    "Topics": "Array, Hash Table, Math, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Monthly Transactions I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5828601247196401",
+    "Link": "https://leetcode.com/problems/monthly-transactions-i",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Monthly Transactions II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42117316904020774",
+    "Link": "https://leetcode.com/problems/monthly-transactions-ii",
+    "Topics": "Database"
+  }
+]

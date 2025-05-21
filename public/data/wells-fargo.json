@@ -1,0 +1,114 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Shortest and Lexicographically Smallest Beautiful String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.39458594840791095",
+    "Link": "https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string",
+    "Topics": "String, Sliding Window"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Verbal Arithmetic Puzzle",
+    "Frequency": "86.1",
+    "Acceptance Rate": "0.347022947654776",
+    "Link": "https://leetcode.com/problems/verbal-arithmetic-puzzle",
+    "Topics": "Array, Math, String, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Safest Path in a Grid",
+    "Frequency": "70.3",
+    "Acceptance Rate": "0.4833405938646169",
+    "Link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid",
+    "Topics": "Array, Binary Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimizing Array After Replacing Pairs With Their Product",
+    "Frequency": "70.3",
+    "Acceptance Rate": "0.3960618846694796",
+    "Link": "https://leetcode.com/problems/minimizing-array-after-replacing-pairs-with-their-product",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Number of Weeks for Which You Can Work",
+    "Frequency": "70.3",
+    "Acceptance Rate": "0.4123665886216438",
+    "Link": "https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Kth Largest Element in a Stream",
+    "Frequency": "70.3",
+    "Acceptance Rate": "0.5971760140733828",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-a-stream",
+    "Topics": "Tree, Design, Binary Search Tree, Heap (Priority Queue), Binary Tree, Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count and Say",
+    "Frequency": "61.0",
+    "Acceptance Rate": "0.6023583008980808",
+    "Link": "https://leetcode.com/problems/count-and-say",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Best Time to Buy and Sell Stock II",
+    "Frequency": "61.0",
+    "Acceptance Rate": "0.6926594944844677",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Water and Jug Problem",
+    "Frequency": "61.0",
+    "Acceptance Rate": "0.42893759079226723",
+    "Link": "https://leetcode.com/problems/water-and-jug-problem",
+    "Topics": "Math, Depth-First Search, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Product of Array Except Self",
+    "Frequency": "61.0",
+    "Acceptance Rate": "0.67621388670089",
+    "Link": "https://leetcode.com/problems/product-of-array-except-self",
+    "Topics": "Array, Prefix Sum"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Rotate String",
+    "Frequency": "61.0",
+    "Acceptance Rate": "0.637950811251071",
+    "Link": "https://leetcode.com/problems/rotate-string",
+    "Topics": "String, String Matching"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Strings Alternately",
+    "Frequency": "61.0",
+    "Acceptance Rate": "0.8219312846908712",
+    "Link": "https://leetcode.com/problems/merge-strings-alternately",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Spiral Matrix",
+    "Frequency": "61.0",
+    "Acceptance Rate": "0.5357418350737571",
+    "Link": "https://leetcode.com/problems/spiral-matrix",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "61.0",
+    "Acceptance Rate": "0.368408771490974",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  }
+]

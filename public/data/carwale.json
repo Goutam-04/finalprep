@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find Mirror Score of a String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.336858461099396",
+    "Link": "https://leetcode.com/problems/find-mirror-score-of-a-string",
+    "Topics": "Hash Table, String, Stack, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Zigzag Conversion",
+    "Frequency": "80.0",
+    "Acceptance Rate": "0.5132420720153105",
+    "Link": "https://leetcode.com/problems/zigzag-conversion",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "73.7",
+    "Acceptance Rate": "0.6481431056775623",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "73.7",
+    "Acceptance Rate": "0.5506699835646648",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Time Difference",
+    "Frequency": "64.9",
+    "Acceptance Rate": "0.6232718625416734",
+    "Link": "https://leetcode.com/problems/minimum-time-difference",
+    "Topics": "Array, Math, String, Sorting"
+  }
+]

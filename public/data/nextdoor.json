@@ -1,0 +1,66 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Compare Version Numbers",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42194327042814245",
+    "Link": "https://leetcode.com/problems/compare-version-numbers",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "All O`one Data Structure",
+    "Frequency": "98.0",
+    "Acceptance Rate": "0.4416912164216676",
+    "Link": "https://leetcode.com/problems/all-oone-data-structure",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "78.9",
+    "Acceptance Rate": "0.4919411583794839",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Letter Combinations of a Phone Number",
+    "Frequency": "64.4",
+    "Acceptance Rate": "0.6359973199042535",
+    "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "Topics": "Hash Table, String, Backtracking"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "64.4",
+    "Acceptance Rate": "0.6481313932273953",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Nested List Weight Sum",
+    "Frequency": "64.4",
+    "Acceptance Rate": "0.8545119196468662",
+    "Link": "https://leetcode.com/problems/nested-list-weight-sum",
+    "Topics": "Depth-First Search, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Divide Two Integers",
+    "Frequency": "64.4",
+    "Acceptance Rate": "0.18311900268509076",
+    "Link": "https://leetcode.com/problems/divide-two-integers",
+    "Topics": "Math, Bit Manipulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "64.4",
+    "Acceptance Rate": "0.4929504444589872",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  }
+]

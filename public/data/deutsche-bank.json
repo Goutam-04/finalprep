@@ -1,0 +1,234 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Smallest K-Length Subsequence With Occurrences of a Letter",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3880891571859763",
+    "Link": "https://leetcode.com/problems/smallest-k-length-subsequence-with-occurrences-of-a-letter",
+    "Topics": "String, Stack, Greedy, Monotonic Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Find the Maximum Sum of Node Values",
+    "Frequency": "91.3",
+    "Acceptance Rate": "0.651969048928958",
+    "Link": "https://leetcode.com/problems/find-the-maximum-sum-of-node-values",
+    "Topics": "Array, Dynamic Programming, Greedy, Bit Manipulation, Tree, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Running Time of N Computers",
+    "Frequency": "91.3",
+    "Acceptance Rate": "0.498476303628326",
+    "Link": "https://leetcode.com/problems/maximum-running-time-of-n-computers",
+    "Topics": "Array, Binary Search, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Pour Water Between Buckets to Make Water Levels Equal",
+    "Frequency": "89.1",
+    "Acceptance Rate": "0.6694790128664837",
+    "Link": "https://leetcode.com/problems/pour-water-between-buckets-to-make-water-levels-equal",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Coins Heroes Can Collect",
+    "Frequency": "89.1",
+    "Acceptance Rate": "0.6857289527720739",
+    "Link": "https://leetcode.com/problems/maximum-coins-heroes-can-collect",
+    "Topics": "Array, Two Pointers, Binary Search, Sorting, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "The Time When the Network Becomes Idle",
+    "Frequency": "89.1",
+    "Acceptance Rate": "0.5339898437280812",
+    "Link": "https://leetcode.com/problems/the-time-when-the-network-becomes-idle",
+    "Topics": "Array, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Operations to Collect Elements",
+    "Frequency": "89.1",
+    "Acceptance Rate": "0.609466782346499",
+    "Link": "https://leetcode.com/problems/minimum-operations-to-collect-elements",
+    "Topics": "Array, Hash Table, Bit Manipulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Apply Operations to Maximize Frequency Score",
+    "Frequency": "89.1",
+    "Acceptance Rate": "0.362062665570476",
+    "Link": "https://leetcode.com/problems/apply-operations-to-maximize-frequency-score",
+    "Topics": "Array, Binary Search, Sliding Window, Sorting, Prefix Sum"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Operations to Make the Array Increasing",
+    "Frequency": "89.1",
+    "Acceptance Rate": "0.8099640222811818",
+    "Link": "https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimize the Difference Between Target and Chosen Elements",
+    "Frequency": "86.6",
+    "Acceptance Rate": "0.3578918409886889",
+    "Link": "https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements",
+    "Topics": "Array, Dynamic Programming, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Boats to Save People",
+    "Frequency": "83.9",
+    "Acceptance Rate": "0.6013725697527617",
+    "Link": "https://leetcode.com/problems/boats-to-save-people",
+    "Topics": "Array, Two Pointers, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Koko Eating Bananas",
+    "Frequency": "80.8",
+    "Acceptance Rate": "0.490429592976608",
+    "Link": "https://leetcode.com/problems/koko-eating-bananas",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Robot Collisions",
+    "Frequency": "80.8",
+    "Acceptance Rate": "0.5609125234126473",
+    "Link": "https://leetcode.com/problems/robot-collisions",
+    "Topics": "Array, Stack, Sorting, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Collecting Chocolates",
+    "Frequency": "72.9",
+    "Acceptance Rate": "0.33516821074877745",
+    "Link": "https://leetcode.com/problems/collecting-chocolates",
+    "Topics": "Array, Enumeration"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Asteroid Collision",
+    "Frequency": "67.7",
+    "Acceptance Rate": "0.4532867996100076",
+    "Link": "https://leetcode.com/problems/asteroid-collision",
+    "Topics": "Array, Stack, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "67.7",
+    "Acceptance Rate": "0.5506627979297843",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "67.7",
+    "Acceptance Rate": "0.5554738656751071",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "61.1",
+    "Acceptance Rate": "0.4526961642262464",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Fruits Harvested After at Most K Steps",
+    "Frequency": "61.1",
+    "Acceptance Rate": "0.3629419842087195",
+    "Link": "https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps",
+    "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Frequency of the Most Frequent Element",
+    "Frequency": "61.1",
+    "Acceptance Rate": "0.440614806286741",
+    "Link": "https://leetcode.com/problems/frequency-of-the-most-frequent-element",
+    "Topics": "Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimize Manhattan Distances",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.31288967644549454",
+    "Link": "https://leetcode.com/problems/minimize-manhattan-distances",
+    "Topics": "Array, Math, Geometry, Sorting, Ordered Set"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Kth Largest Element in an Array",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.6783393412659688",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse String",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.7965249621139734",
+    "Link": "https://leetcode.com/problems/reverse-string",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Linked List",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.7900524185352524",
+    "Link": "https://leetcode.com/problems/reverse-linked-list",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Best Time to Buy and Sell Stock II",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.6926591331186617",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Fruit Into Baskets",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.4605657644609396",
+    "Link": "https://leetcode.com/problems/fruit-into-baskets",
+    "Topics": "Array, Hash Table, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Validate IP Address",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.2776768443697236",
+    "Link": "https://leetcode.com/problems/validate-ip-address",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotting Oranges",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.5635856904618219",
+    "Link": "https://leetcode.com/problems/rotting-oranges",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Design HashMap",
+    "Frequency": "51.7",
+    "Acceptance Rate": "0.6583852953623335",
+    "Link": "https://leetcode.com/problems/design-hashmap",
+    "Topics": "Array, Hash Table, Linked List, Design, Hash Function"
+  }
+]

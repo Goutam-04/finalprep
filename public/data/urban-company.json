@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Profit in Job Scheduling",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5438693840131725",
+    "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Surrounded Regions",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.4255929026218502",
+    "Link": "https://leetcode.com/problems/surrounded-regions",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.6207104842638161",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search in Rotated Sorted Array",
+    "Frequency": "81.5",
+    "Acceptance Rate": "0.4265048203156928",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Candy",
+    "Frequency": "81.5",
+    "Acceptance Rate": "0.4466227871603442",
+    "Link": "https://leetcode.com/problems/candy",
+    "Topics": "Array, Greedy"
+  }
+]

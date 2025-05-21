@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Interval List Intersections",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.725981597990842",
+    "Link": "https://leetcode.com/problems/interval-list-intersections",
+    "Topics": "Array, Two Pointers, Line Sweep"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Flatten Nested List Iterator",
+    "Frequency": "93.5",
+    "Acceptance Rate": "0.6517098771690286",
+    "Link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "Topics": "Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Stock Price Fluctuation ",
+    "Frequency": "84.4",
+    "Acceptance Rate": "0.4799339783855032",
+    "Link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "Topics": "Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+  }
+]

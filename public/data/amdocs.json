@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Divisible Substrings",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7330788804071247",
+    "Link": "https://leetcode.com/problems/number-of-divisible-substrings",
+    "Topics": "Hash Table, String, Counting, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6629353233830845",
+    "Link": "https://leetcode.com/problems/design-a-3d-binary-matrix-with-efficient-layer-tracking",
+    "Topics": "Array, Hash Table, Design, Heap (Priority Queue), Matrix, Ordered Set"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Backspace String Compare",
+    "Frequency": "63.4",
+    "Acceptance Rate": "0.49456740250550846",
+    "Link": "https://leetcode.com/problems/backspace-string-compare",
+    "Topics": "Two Pointers, String, Stack, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Second Highest Salary",
+    "Frequency": "63.4",
+    "Acceptance Rate": "0.43526623493850425",
+    "Link": "https://leetcode.com/problems/second-highest-salary",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "Frequency": "63.4",
+    "Acceptance Rate": "0.6689511615576458",
+    "Link": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+    "Topics": "Dynamic Programming, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Generate Parentheses",
+    "Frequency": "63.4",
+    "Acceptance Rate": "0.7691658920053299",
+    "Link": "https://leetcode.com/problems/generate-parentheses",
+    "Topics": "String, Dynamic Programming, Backtracking"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Rotate String",
+    "Frequency": "63.4",
+    "Acceptance Rate": "0.6379424102788407",
+    "Link": "https://leetcode.com/problems/rotate-string",
+    "Topics": "String, String Matching"
+  }
+]

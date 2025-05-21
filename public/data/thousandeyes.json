@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Clone Graph",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6195501538947202",
+    "Link": "https://leetcode.com/problems/clone-graph",
+    "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5492726695162158",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.4493768164271384",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Design In-Memory File System",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.481225488446607",
+    "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "Topics": "Hash Table, String, Design, Trie, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Cache With Time Limit",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.7570189877819766",
+    "Link": "https://leetcode.com/problems/cache-with-time-limit",
+    "Topics": ""
+  }
+]

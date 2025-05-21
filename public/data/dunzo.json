@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Stone Game VII",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5824857428420248",
+    "Link": "https://leetcode.com/problems/stone-game-vii",
+    "Topics": "Array, Math, Dynamic Programming, Game Theory"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Build Array Where You Can Find The Maximum Exactly K Comparisons",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6689281401262629",
+    "Link": "https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons",
+    "Topics": "Dynamic Programming, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Distinct Substrings in a String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6444024469090367",
+    "Link": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string",
+    "Topics": "String, Trie, Rolling Hash, Suffix Array, Hash Function"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Ways to Form a Target String Given a Dictionary",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.571491753185254",
+    "Link": "https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary",
+    "Topics": "Array, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Find All Good Strings",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4351069665386726",
+    "Link": "https://leetcode.com/problems/find-all-good-strings",
+    "Topics": "String, Dynamic Programming, String Matching"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Ways to Make a Fair Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6436255860015104",
+    "Link": "https://leetcode.com/problems/ways-to-make-a-fair-array",
+    "Topics": "Array, Prefix Sum"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Arithmetic Slices II - Subsequence",
+    "Frequency": "63.4",
+    "Acceptance Rate": "0.5452445328443712",
+    "Link": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

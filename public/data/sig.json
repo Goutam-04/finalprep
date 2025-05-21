@@ -1,0 +1,50 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Validate Binary Search Tree",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3423954116958625",
+    "Link": "https://leetcode.com/problems/validate-binary-search-tree",
+    "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Text Justification",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.4781302783678551",
+    "Link": "https://leetcode.com/problems/text-justification",
+    "Topics": "Array, String, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Kth Largest Element in an Array",
+    "Frequency": "71.2",
+    "Acceptance Rate": "0.6783403628844275",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Add Binary",
+    "Frequency": "71.2",
+    "Acceptance Rate": "0.5552446602703592",
+    "Link": "https://leetcode.com/problems/add-binary",
+    "Topics": "Math, String, Bit Manipulation, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Spiral Matrix",
+    "Frequency": "71.2",
+    "Acceptance Rate": "0.5357416328643486",
+    "Link": "https://leetcode.com/problems/spiral-matrix",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Block Placement Queries",
+    "Frequency": "71.2",
+    "Acceptance Rate": "0.165072909797025",
+    "Link": "https://leetcode.com/problems/block-placement-queries",
+    "Topics": "Array, Binary Search, Binary Indexed Tree, Segment Tree"
+  }
+]

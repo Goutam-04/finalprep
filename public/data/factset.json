@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Smallest Subsequence of Distinct Characters",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6180221888872813",
+    "Link": "https://leetcode.com/problems/smallest-subsequence-of-distinct-characters",
+    "Topics": "String, Stack, Greedy, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove All Adjacent Duplicates in String II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5942519718223107",
+    "Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove Duplicate Letters",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5118352849799621",
+    "Link": "https://leetcode.com/problems/remove-duplicate-letters",
+    "Topics": "String, Stack, Greedy, Monotonic Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Happy Number",
+    "Frequency": "63.4",
+    "Acceptance Rate": "0.5788771938620433",
+    "Link": "https://leetcode.com/problems/happy-number",
+    "Topics": "Hash Table, Math, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Increasing Triplet Subsequence",
+    "Frequency": "63.4",
+    "Acceptance Rate": "0.39139838043150255",
+    "Link": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "Topics": "Array, Greedy"
+  }
+]

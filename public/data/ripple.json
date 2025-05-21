@@ -1,0 +1,82 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7072451544212065",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.44937371975712886",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "String Compression",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5782816473869883",
+    "Link": "https://leetcode.com/problems/string-compression",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Product Sales Analysis I",
+    "Frequency": "88.5",
+    "Acceptance Rate": "0.8440873784682107",
+    "Link": "https://leetcode.com/problems/product-sales-analysis-i",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Linked List Cycle II",
+    "Frequency": "88.5",
+    "Acceptance Rate": "0.5454147597292701",
+    "Link": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "Topics": "Hash Table, Linked List, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Product of Array Except Self",
+    "Frequency": "88.5",
+    "Acceptance Rate": "0.6762143769250938",
+    "Link": "https://leetcode.com/problems/product-of-array-except-self",
+    "Topics": "Array, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subarray Sum Equals K",
+    "Frequency": "88.5",
+    "Acceptance Rate": "0.45283082681924114",
+    "Link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Stock Price Fluctuation ",
+    "Frequency": "88.5",
+    "Acceptance Rate": "0.47989615541683683",
+    "Link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "Topics": "Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "88.5",
+    "Acceptance Rate": "0.5197378864340451",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Koko Eating Bananas",
+    "Frequency": "88.5",
+    "Acceptance Rate": "0.4904326701815218",
+    "Link": "https://leetcode.com/problems/koko-eating-bananas",
+    "Topics": "Array, Binary Search"
+  }
+]

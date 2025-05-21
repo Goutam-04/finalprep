@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Time to Break Locks I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.30057938631816883",
+    "Link": "https://leetcode.com/problems/minimum-time-to-break-locks-i",
+    "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Depth-First Search, Bitmask"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Time to Break Locks II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4553014553014553",
+    "Link": "https://leetcode.com/problems/minimum-time-to-break-locks-ii",
+    "Topics": "Array, Depth-First Search, Graph"
+  }
+]

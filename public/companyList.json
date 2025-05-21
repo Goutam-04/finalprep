@@ -1,0 +1,2822 @@
+[
+  {
+    "name": "Accenture",
+    "filename": "accenture.json",
+    "logo": "https://logo.clearbit.com/accenture.com",
+    "domain": "accenture.com"
+  },
+  {
+    "name": "Accolite",
+    "filename": "accolite.json",
+    "logo": "https://logo.clearbit.com/accolite.com",
+    "domain": "accolite.com"
+  },
+  {
+    "name": "Acko",
+    "filename": "acko.json",
+    "logo": "https://logo.clearbit.com/acko.com",
+    "domain": "acko.com"
+  },
+  {
+    "name": "Activision",
+    "filename": "activision.json",
+    "logo": "https://logo.clearbit.com/activision.com",
+    "domain": "activision.com"
+  },
+  {
+    "name": "Adobe",
+    "filename": "adobe.json",
+    "logo": "https://logo.clearbit.com/adobe.com",
+    "domain": "adobe.com"
+  },
+  {
+    "name": "Affirm",
+    "filename": "affirm.json",
+    "logo": "https://logo.clearbit.com/affirm.com",
+    "domain": "affirm.com"
+  },
+  {
+    "name": "Agoda",
+    "filename": "agoda.json",
+    "logo": "https://logo.clearbit.com/agoda.com",
+    "domain": "agoda.com"
+  },
+  {
+    "name": "Airbnb",
+    "filename": "airbnb.json",
+    "logo": "https://logo.clearbit.com/airbnb.com",
+    "domain": "airbnb.com"
+  },
+  {
+    "name": "Airbus Se",
+    "filename": "airbus-se.json",
+    "logo": "https://logo.clearbit.com/securelandcommunications.com",
+    "domain": "securelandcommunications.com"
+  },
+  {
+    "name": "Airtel",
+    "filename": "airtel.json",
+    "logo": "https://logo.clearbit.com/airtel.in",
+    "domain": "airtel.in"
+  },
+  {
+    "name": "Airwallex",
+    "filename": "airwallex.json",
+    "logo": "https://logo.clearbit.com/airwallex.com",
+    "domain": "airwallex.com"
+  },
+  {
+    "name": "Akamai",
+    "filename": "akamai.json",
+    "logo": "https://logo.clearbit.com/akamai.com",
+    "domain": "akamai.com"
+  },
+  {
+    "name": "Akuna Capital",
+    "filename": "akuna-capital.json",
+    "logo": "https://logo.clearbit.com/akunacapital.com",
+    "domain": "akunacapital.com"
+  },
+  {
+    "name": "Alibaba",
+    "filename": "alibaba.json",
+    "logo": "https://logo.clearbit.com/alibaba.com",
+    "domain": "alibaba.com"
+  },
+  {
+    "name": "Altimetrik",
+    "filename": "altimetrik.json",
+    "logo": "https://logo.clearbit.com/altimetrik.com",
+    "domain": "altimetrik.com"
+  },
+  {
+    "name": "Amadeus",
+    "filename": "amadeus.json",
+    "logo": "https://logo.clearbit.com/amadeus.com",
+    "domain": "amadeus.com"
+  },
+  {
+    "name": "Amazon",
+    "filename": "amazon.json",
+    "logo": "https://logo.clearbit.com/amazon.com",
+    "domain": "amazon.com"
+  },
+  {
+    "name": "Amd",
+    "filename": "amd.json",
+    "logo": "https://logo.clearbit.com/amd.com",
+    "domain": "amd.com"
+  },
+  {
+    "name": "Amdocs",
+    "filename": "amdocs.json",
+    "logo": "https://logo.clearbit.com/amdocs.com",
+    "domain": "amdocs.com"
+  },
+  {
+    "name": "American Express",
+    "filename": "american-express.json",
+    "logo": "https://logo.clearbit.com/americanexpress.com",
+    "domain": "americanexpress.com"
+  },
+  {
+    "name": "Analytics Quotient",
+    "filename": "analytics-quotient.json",
+    "logo": "https://logo.clearbit.com/aqinsights.com",
+    "domain": "aqinsights.com"
+  },
+  {
+    "name": "Anduril",
+    "filename": "anduril.json",
+    "logo": "https://logo.clearbit.com/anduril.com",
+    "domain": "anduril.com"
+  },
+  {
+    "name": "Aon",
+    "filename": "aon.json",
+    "logo": "https://logo.clearbit.com/aon.com",
+    "domain": "aon.com"
+  },
+  {
+    "name": "Apollo.Io",
+    "filename": "apollo.io.json",
+    "logo": "https://logo.clearbit.com/apollo.io",
+    "domain": "apollo.io"
+  },
+  {
+    "name": "Appdynamics",
+    "filename": "appdynamics.json",
+    "logo": "https://logo.clearbit.com/appdynamics.com",
+    "domain": "appdynamics.com"
+  },
+  {
+    "name": "Appfolio",
+    "filename": "appfolio.json",
+    "logo": "https://logo.clearbit.com/appfolio.com",
+    "domain": "appfolio.com"
+  },
+  {
+    "name": "Apple",
+    "filename": "apple.json",
+    "logo": "https://logo.clearbit.com/apple.com",
+    "domain": "apple.com"
+  },
+  {
+    "name": "Applied Intuition",
+    "filename": "applied-intuition.json",
+    "logo": "https://logo.clearbit.com/appliedintuition.com",
+    "domain": "appliedintuition.com"
+  },
+  {
+    "name": "Aqr Capital Management",
+    "filename": "aqr-capital-management.json",
+    "logo": "https://logo.clearbit.com/aqr.com",
+    "domain": "aqr.com"
+  },
+  {
+    "name": "Arcesium",
+    "filename": "arcesium.json",
+    "logo": "https://logo.clearbit.com/arcesium.com",
+    "domain": "arcesium.com"
+  },
+  {
+    "name": "Arista Networks",
+    "filename": "arista-networks.json",
+    "logo": "https://logo.clearbit.com/arista.com",
+    "domain": "arista.com"
+  },
+  {
+    "name": "Asana",
+    "filename": "asana.json",
+    "logo": "https://logo.clearbit.com/asana.com",
+    "domain": "asana.com"
+  },
+  {
+    "name": "Athenahealth",
+    "filename": "athenahealth.json",
+    "logo": "https://logo.clearbit.com/athenahealth.com",
+    "domain": "athenahealth.com"
+  },
+  {
+    "name": "Atlassian",
+    "filename": "atlassian.json",
+    "logo": "https://logo.clearbit.com/atlassian.com",
+    "domain": "atlassian.com"
+  },
+  {
+    "name": "Attentive",
+    "filename": "attentive.json",
+    "logo": "https://logo.clearbit.com/attentive.com",
+    "domain": "attentive.com"
+  },
+  {
+    "name": "Audible",
+    "filename": "audible.json",
+    "logo": "https://logo.clearbit.com/audible.com",
+    "domain": "audible.com"
+  },
+  {
+    "name": "Aurora",
+    "filename": "aurora.json",
+    "logo": "https://logo.clearbit.com/aurorasolar.com",
+    "domain": "aurorasolar.com"
+  },
+  {
+    "name": "Autodesk",
+    "filename": "autodesk.json",
+    "logo": "https://logo.clearbit.com/autodesk.com",
+    "domain": "autodesk.com"
+  },
+  {
+    "name": "Avalara",
+    "filename": "avalara.json",
+    "logo": "https://logo.clearbit.com/avalara.com",
+    "domain": "avalara.com"
+  },
+  {
+    "name": "Avito",
+    "filename": "avito.json",
+    "logo": "https://logo.clearbit.com/avito.ru",
+    "domain": "avito.ru"
+  },
+  {
+    "name": "Axon",
+    "filename": "axon.json",
+    "logo": "https://logo.clearbit.com/axonify.com",
+    "domain": "axonify.com"
+  },
+  {
+    "name": "Baidu",
+    "filename": "baidu.json",
+    "logo": "https://logo.clearbit.com/baidu.com",
+    "domain": "baidu.com"
+  },
+  {
+    "name": "Bank Of America",
+    "filename": "bank-of-america.json",
+    "logo": "https://logo.clearbit.com/chicagomarathon.com",
+    "domain": "chicagomarathon.com"
+  },
+  {
+    "name": "Barclays",
+    "filename": "barclays.json",
+    "logo": "https://logo.clearbit.com/barclays.co.uk",
+    "domain": "barclays.co.uk"
+  },
+  {
+    "name": "Bentley Systems",
+    "filename": "bentley-systems.json",
+    "logo": "https://logo.clearbit.com/bentley.com",
+    "domain": "bentley.com"
+  },
+  {
+    "name": "Bharatpe",
+    "filename": "bharatpe.json",
+    "logo": "https://logo.clearbit.com/bharatpetroleum.in",
+    "domain": "bharatpetroleum.in"
+  },
+  {
+    "name": "Bill Holdings",
+    "filename": "bill-holdings.json",
+    "logo": "https://logo.clearbit.com/1billholdings.com",
+    "domain": "1billholdings.com"
+  },
+  {
+    "name": "Bitgo",
+    "filename": "bitgo.json",
+    "logo": "https://logo.clearbit.com/bitgo.com",
+    "domain": "bitgo.com"
+  },
+  {
+    "name": "Blackrock",
+    "filename": "blackrock.json",
+    "logo": "https://logo.clearbit.com/blackrock.com",
+    "domain": "blackrock.com"
+  },
+  {
+    "name": "Blackstone",
+    "filename": "blackstone.json",
+    "logo": "https://logo.clearbit.com/blackstone.com",
+    "domain": "blackstone.com"
+  },
+  {
+    "name": "Blinkit",
+    "filename": "blinkit.json",
+    "logo": "https://logo.clearbit.com/blinkit.com",
+    "domain": "blinkit.com"
+  },
+  {
+    "name": "Blizzard",
+    "filename": "blizzard.json",
+    "logo": "https://logo.clearbit.com/blizzard.com",
+    "domain": "blizzard.com"
+  },
+  {
+    "name": "Block",
+    "filename": "block.json",
+    "logo": "https://logo.clearbit.com/blockchain.com",
+    "domain": "blockchain.com"
+  },
+  {
+    "name": "Bloomberg",
+    "filename": "bloomberg.json",
+    "logo": "https://logo.clearbit.com/bloomberg.com",
+    "domain": "bloomberg.com"
+  },
+  {
+    "name": "Bny Mellon",
+    "filename": "bny-mellon.json",
+    "logo": "https://logo.clearbit.com/bnymellon.com",
+    "domain": "bnymellon.com"
+  },
+  {
+    "name": "Bolt",
+    "filename": "bolt.json",
+    "logo": "https://logo.clearbit.com/bolt.com",
+    "domain": "bolt.com"
+  },
+  {
+    "name": "Booking.Com",
+    "filename": "booking.com.json",
+    "logo": "https://logo.clearbit.com/booking.com",
+    "domain": "booking.com"
+  },
+  {
+    "name": "Bosch",
+    "filename": "bosch.json",
+    "logo": "https://logo.clearbit.com/bosch.com",
+    "domain": "bosch.com"
+  },
+  {
+    "name": "Box",
+    "filename": "box.json",
+    "logo": "https://logo.clearbit.com/box.com",
+    "domain": "box.com"
+  },
+  {
+    "name": "Bp",
+    "filename": "bp.json",
+    "logo": "https://logo.clearbit.com/bpi.ir",
+    "domain": "bpi.ir"
+  },
+  {
+    "name": "Braze",
+    "filename": "braze.json",
+    "logo": "https://logo.clearbit.com/braze.com",
+    "domain": "braze.com"
+  },
+  {
+    "name": "Brex",
+    "filename": "brex.json",
+    "logo": "https://logo.clearbit.com/brex.com",
+    "domain": "brex.com"
+  },
+  {
+    "name": "Bridgewater Associates",
+    "filename": "bridgewater-associates.json",
+    "logo": "https://logo.clearbit.com/bridgewater.com",
+    "domain": "bridgewater.com"
+  },
+  {
+    "name": "Bytedance",
+    "filename": "bytedance.json",
+    "logo": "https://logo.clearbit.com/bytedance.com",
+    "domain": "bytedance.com"
+  },
+  {
+    "name": "Cadence",
+    "filename": "cadence.json",
+    "logo": "https://logo.clearbit.com/cadence.com",
+    "domain": "cadence.com"
+  },
+  {
+    "name": "Canonical",
+    "filename": "canonical.json",
+    "logo": "https://logo.clearbit.com/canonical.com",
+    "domain": "canonical.com"
+  },
+  {
+    "name": "Capgemini",
+    "filename": "capgemini.json",
+    "logo": "https://logo.clearbit.com/capgemini.com",
+    "domain": "capgemini.com"
+  },
+  {
+    "name": "Capital One",
+    "filename": "capital-one.json",
+    "logo": "https://logo.clearbit.com/capitalone.com",
+    "domain": "capitalone.com"
+  },
+  {
+    "name": "Careem",
+    "filename": "careem.json",
+    "logo": "https://logo.clearbit.com/careem.com",
+    "domain": "careem.com"
+  },
+  {
+    "name": "Cars24",
+    "filename": "cars24.json",
+    "logo": "https://logo.clearbit.com/cars.com",
+    "domain": "cars.com"
+  },
+  {
+    "name": "Carwale",
+    "filename": "carwale.json",
+    "logo": "https://logo.clearbit.com/carwale.com",
+    "domain": "carwale.com"
+  },
+  {
+    "name": "Cashfree",
+    "filename": "cashfree.json",
+    "logo": "https://logo.clearbit.com/cashfree.com",
+    "domain": "cashfree.com"
+  },
+  {
+    "name": "Cedcoss",
+    "filename": "cedcoss.json",
+    "logo": "https://logo.clearbit.com/cedcoss.com",
+    "domain": "cedcoss.com"
+  },
+  {
+    "name": "Celigo",
+    "filename": "celigo.json",
+    "logo": "https://logo.clearbit.com/celigo.com",
+    "domain": "celigo.com"
+  },
+  {
+    "name": "Chewy",
+    "filename": "chewy.json",
+    "logo": "https://logo.clearbit.com/chewy.com",
+    "domain": "chewy.com"
+  },
+  {
+    "name": "Chime",
+    "filename": "chime.json",
+    "logo": "https://logo.clearbit.com/chime.com",
+    "domain": "chime.com"
+  },
+  {
+    "name": "Ciena",
+    "filename": "ciena.json",
+    "logo": "https://logo.clearbit.com/ciena.com",
+    "domain": "ciena.com"
+  },
+  {
+    "name": "Circle",
+    "filename": "circle.json",
+    "logo": "https://logo.clearbit.com/circlek.com",
+    "domain": "circlek.com"
+  },
+  {
+    "name": "Cisco",
+    "filename": "cisco.json",
+    "logo": "https://logo.clearbit.com/cisco.com",
+    "domain": "cisco.com"
+  },
+  {
+    "name": "Citadel",
+    "filename": "citadel.json",
+    "logo": "https://logo.clearbit.com/citadelbanking.com",
+    "domain": "citadelbanking.com"
+  },
+  {
+    "name": "Citigroup",
+    "filename": "citigroup.json",
+    "logo": "https://logo.clearbit.com/citigroup.com",
+    "domain": "citigroup.com"
+  },
+  {
+    "name": "Citrix",
+    "filename": "citrix.json",
+    "logo": "https://logo.clearbit.com/citrix.com",
+    "domain": "citrix.com"
+  },
+  {
+    "name": "Clari",
+    "filename": "clari.json",
+    "logo": "https://logo.clearbit.com/clarivate.com",
+    "domain": "clarivate.com"
+  },
+  {
+    "name": "Cleartrip",
+    "filename": "cleartrip.json",
+    "logo": "https://logo.clearbit.com/cleartrip.com",
+    "domain": "cleartrip.com"
+  },
+  {
+    "name": "Cloudera",
+    "filename": "cloudera.json",
+    "logo": "https://logo.clearbit.com/cloudera.com",
+    "domain": "cloudera.com"
+  },
+  {
+    "name": "Cloudflare",
+    "filename": "cloudflare.json",
+    "logo": "https://logo.clearbit.com/cloudflare.com",
+    "domain": "cloudflare.com"
+  },
+  {
+    "name": "Cme Group",
+    "filename": "cme-group.json",
+    "logo": "https://logo.clearbit.com/cmegroup.com",
+    "domain": "cmegroup.com"
+  },
+  {
+    "name": "Coforge",
+    "filename": "coforge.json",
+    "logo": "https://logo.clearbit.com/coforge.com",
+    "domain": "coforge.com"
+  },
+  {
+    "name": "Cognizant",
+    "filename": "cognizant.json",
+    "logo": "https://logo.clearbit.com/cognizant.com",
+    "domain": "cognizant.com"
+  },
+  {
+    "name": "Cohesity",
+    "filename": "cohesity.json",
+    "logo": "https://logo.clearbit.com/cohesity.com",
+    "domain": "cohesity.com"
+  },
+  {
+    "name": "Coinbase",
+    "filename": "coinbase.json",
+    "logo": "https://logo.clearbit.com/coinbase.com",
+    "domain": "coinbase.com"
+  },
+  {
+    "name": "Comcast",
+    "filename": "comcast.json",
+    "logo": "https://logo.clearbit.com/comcast.com",
+    "domain": "comcast.com"
+  },
+  {
+    "name": "Commvault",
+    "filename": "commvault.json",
+    "logo": "https://logo.clearbit.com/commvault.com",
+    "domain": "commvault.com"
+  },
+  {
+    "name": "Compass",
+    "filename": "compass.json",
+    "logo": "https://logo.clearbit.com/compass.com",
+    "domain": "compass.com"
+  },
+  {
+    "name": "Confluent",
+    "filename": "confluent.json",
+    "logo": "https://logo.clearbit.com/confluent.io",
+    "domain": "confluent.io"
+  },
+  {
+    "name": "Consultadd",
+    "filename": "consultadd.json",
+    "logo": "https://logo.clearbit.com/consultadd.com",
+    "domain": "consultadd.com"
+  },
+  {
+    "name": "Coupang",
+    "filename": "coupang.json",
+    "logo": "https://logo.clearbit.com/coupang.com",
+    "domain": "coupang.com"
+  },
+  {
+    "name": "Coursera",
+    "filename": "coursera.json",
+    "logo": "https://logo.clearbit.com/coursera.org",
+    "domain": "coursera.org"
+  },
+  {
+    "name": "Coveo",
+    "filename": "coveo.json",
+    "logo": "https://logo.clearbit.com/coveo.com",
+    "domain": "coveo.com"
+  },
+  {
+    "name": "Cred",
+    "filename": "cred.json",
+    "logo": "https://logo.clearbit.com/creditkarma.com",
+    "domain": "creditkarma.com"
+  },
+  {
+    "name": "Credit Karma",
+    "filename": "credit-karma.json",
+    "logo": "https://logo.clearbit.com/creditkarma.com",
+    "domain": "creditkarma.com"
+  },
+  {
+    "name": "Criteo",
+    "filename": "criteo.json",
+    "logo": "https://logo.clearbit.com/criteo.com",
+    "domain": "criteo.com"
+  },
+  {
+    "name": "Crowdstrike",
+    "filename": "crowdstrike.json",
+    "logo": "https://logo.clearbit.com/crowdstrike.com",
+    "domain": "crowdstrike.com"
+  },
+  {
+    "name": "Cruise",
+    "filename": "cruise.json",
+    "logo": "https://logo.clearbit.com/cruisecritic.com",
+    "domain": "cruisecritic.com"
+  },
+  {
+    "name": "Ctc",
+    "filename": "ctc.json",
+    "logo": "https://logo.clearbit.com/ctc.ru",
+    "domain": "ctc.ru"
+  },
+  {
+    "name": "Curefit",
+    "filename": "curefit.json",
+    "logo": "https://logo.clearbit.com/curefit.jp",
+    "domain": "curefit.jp"
+  },
+  {
+    "name": "Cvent",
+    "filename": "cvent.json",
+    "logo": "https://logo.clearbit.com/cvent.com",
+    "domain": "cvent.com"
+  },
+  {
+    "name": "Darwinbox",
+    "filename": "darwinbox.json",
+    "logo": "https://logo.clearbit.com/darwinbox.in",
+    "domain": "darwinbox.in"
+  },
+  {
+    "name": "Databricks",
+    "filename": "databricks.json",
+    "logo": "https://logo.clearbit.com/databricks.com",
+    "domain": "databricks.com"
+  },
+  {
+    "name": "Datadog",
+    "filename": "datadog.json",
+    "logo": "https://logo.clearbit.com/datadoghq.com",
+    "domain": "datadoghq.com"
+  },
+  {
+    "name": "Dataminr",
+    "filename": "dataminr.json",
+    "logo": "https://logo.clearbit.com/dataminr.com",
+    "domain": "dataminr.com"
+  },
+  {
+    "name": "De Shaw",
+    "filename": "de-shaw.json",
+    "logo": "https://logo.clearbit.com/deshaw.com",
+    "domain": "deshaw.com"
+  },
+  {
+    "name": "Delhivery",
+    "filename": "delhivery.json",
+    "logo": "https://logo.clearbit.com/delhivery.com",
+    "domain": "delhivery.com"
+  },
+  {
+    "name": "Deliveroo",
+    "filename": "deliveroo.json",
+    "logo": "https://logo.clearbit.com/deliveroo.co.uk",
+    "domain": "deliveroo.co.uk"
+  },
+  {
+    "name": "Dell",
+    "filename": "dell.json",
+    "logo": "https://logo.clearbit.com/dell.com",
+    "domain": "dell.com"
+  },
+  {
+    "name": "Deloitte",
+    "filename": "deloitte.json",
+    "logo": "https://logo.clearbit.com/deloitte.com",
+    "domain": "deloitte.com"
+  },
+  {
+    "name": "Deltax",
+    "filename": "deltax.json",
+    "logo": "https://logo.clearbit.com/deltaxml.com",
+    "domain": "deltaxml.com"
+  },
+  {
+    "name": "Deutsche Bank",
+    "filename": "deutsche-bank.json",
+    "logo": "https://logo.clearbit.com/deutsche-bank.de",
+    "domain": "deutsche-bank.de"
+  },
+  {
+    "name": "Devrev",
+    "filename": "devrev.json",
+    "logo": "https://logo.clearbit.com/devrev.ai",
+    "domain": "devrev.ai"
+  },
+  {
+    "name": "Devsinc",
+    "filename": "devsinc.json",
+    "logo": "https://logo.clearbit.com/devsinc.com",
+    "domain": "devsinc.com"
+  },
+  {
+    "name": "Devtron",
+    "filename": "devtron.json",
+    "logo": "https://logo.clearbit.com/devtron.ai",
+    "domain": "devtron.ai"
+  },
+  {
+    "name": "Directi",
+    "filename": "directi.json",
+    "logo": "https://logo.clearbit.com/directindustry.com",
+    "domain": "directindustry.com"
+  },
+  {
+    "name": "Disney",
+    "filename": "disney.json",
+    "logo": "https://logo.clearbit.com/disneyplus.com",
+    "domain": "disneyplus.com"
+  },
+  {
+    "name": "Docusign",
+    "filename": "docusign.json",
+    "logo": "https://logo.clearbit.com/docusign.com",
+    "domain": "docusign.com"
+  },
+  {
+    "name": "Doordash",
+    "filename": "doordash.json",
+    "logo": "https://logo.clearbit.com/doordash.com",
+    "domain": "doordash.com"
+  },
+  {
+    "name": "Dp World",
+    "filename": "dp-world.json",
+    "logo": "https://logo.clearbit.com/dpworld.com",
+    "domain": "dpworld.com"
+  },
+  {
+    "name": "Dream11",
+    "filename": "dream11.json",
+    "logo": "https://logo.clearbit.com/dreamstime.com",
+    "domain": "dreamstime.com"
+  },
+  {
+    "name": "Dropbox",
+    "filename": "dropbox.json",
+    "logo": "https://logo.clearbit.com/dropbox.com",
+    "domain": "dropbox.com"
+  },
+  {
+    "name": "Druva",
+    "filename": "druva.json",
+    "logo": "https://logo.clearbit.com/druva.com",
+    "domain": "druva.com"
+  },
+  {
+    "name": "Drw",
+    "filename": "drw.json",
+    "logo": "https://logo.clearbit.com/drweil.com",
+    "domain": "drweil.com"
+  },
+  {
+    "name": "Dunzo",
+    "filename": "dunzo.json",
+    "logo": "https://logo.clearbit.com/dunzo.com",
+    "domain": "dunzo.com"
+  },
+  {
+    "name": "Duolingo",
+    "filename": "duolingo.json",
+    "logo": "https://logo.clearbit.com/duolingo.com",
+    "domain": "duolingo.com"
+  },
+  {
+    "name": "Dxc Technology",
+    "filename": "dxc-technology.json",
+    "logo": "https://logo.clearbit.com/dxc.com",
+    "domain": "dxc.com"
+  },
+  {
+    "name": "Earnin",
+    "filename": "earnin.json",
+    "logo": "https://logo.clearbit.com/earningswhispers.com",
+    "domain": "earningswhispers.com"
+  },
+  {
+    "name": "Ebay",
+    "filename": "ebay.json",
+    "logo": "https://logo.clearbit.com/ebay.com",
+    "domain": "ebay.com"
+  },
+  {
+    "name": "Edelweiss Group",
+    "filename": "edelweiss-group.json",
+    "logo": "https://logo.clearbit.com/edelweiss-group.com",
+    "domain": "edelweiss-group.com"
+  },
+  {
+    "name": "Electronic Arts",
+    "filename": "electronic-arts.json",
+    "logo": "https://logo.clearbit.com/ea.com",
+    "domain": "ea.com"
+  },
+  {
+    "name": "Epam Systems",
+    "filename": "epam-systems.json",
+    "logo": "https://logo.clearbit.com/epam.com",
+    "domain": "epam.com"
+  },
+  {
+    "name": "Epic Systems",
+    "filename": "epic-systems.json",
+    "logo": "https://logo.clearbit.com/epicsystems.tech",
+    "domain": "epicsystems.tech"
+  },
+  {
+    "name": "Expedia",
+    "filename": "expedia.json",
+    "logo": "https://logo.clearbit.com/expediagroup.com",
+    "domain": "expediagroup.com"
+  },
+  {
+    "name": "Ey",
+    "filename": "ey.json",
+    "logo": "https://logo.clearbit.com/eyebuydirect.com",
+    "domain": "eyebuydirect.com"
+  },
+  {
+    "name": "Factset",
+    "filename": "factset.json",
+    "logo": "https://logo.clearbit.com/factset.com",
+    "domain": "factset.com"
+  },
+  {
+    "name": "Faire",
+    "filename": "faire.json",
+    "logo": "https://logo.clearbit.com/faire.com",
+    "domain": "faire.com"
+  },
+  {
+    "name": "Fastenal",
+    "filename": "fastenal.json",
+    "logo": "https://logo.clearbit.com/fastenal.com",
+    "domain": "fastenal.com"
+  },
+  {
+    "name": "Fidelity",
+    "filename": "fidelity.json",
+    "logo": "https://logo.clearbit.com/fidelity.com",
+    "domain": "fidelity.com"
+  },
+  {
+    "name": "Fiverr",
+    "filename": "fiverr.json",
+    "logo": "https://logo.clearbit.com/fiverr.com",
+    "domain": "fiverr.com"
+  },
+  {
+    "name": "Flexera",
+    "filename": "flexera.json",
+    "logo": "https://logo.clearbit.com/flexera.com",
+    "domain": "flexera.com"
+  },
+  {
+    "name": "Flexport",
+    "filename": "flexport.json",
+    "logo": "https://logo.clearbit.com/flexport.com",
+    "domain": "flexport.com"
+  },
+  {
+    "name": "Flipkart",
+    "filename": "flipkart.json",
+    "logo": "https://logo.clearbit.com/flipkart.com",
+    "domain": "flipkart.com"
+  },
+  {
+    "name": "Fortinet",
+    "filename": "fortinet.json",
+    "logo": "https://logo.clearbit.com/fortinet.com",
+    "domain": "fortinet.com"
+  },
+  {
+    "name": "Fourkites",
+    "filename": "fourkites.json",
+    "logo": "https://logo.clearbit.com/fourkites.com",
+    "domain": "fourkites.com"
+  },
+  {
+    "name": "Fpt",
+    "filename": "fpt.json",
+    "logo": "https://logo.clearbit.com/fptshop.com.vn",
+    "domain": "fptshop.com.vn"
+  },
+  {
+    "name": "Freecharge",
+    "filename": "freecharge.json",
+    "logo": "https://logo.clearbit.com/freecharge.in",
+    "domain": "freecharge.in"
+  },
+  {
+    "name": "Freshworks",
+    "filename": "freshworks.json",
+    "logo": "https://logo.clearbit.com/freshworks.com",
+    "domain": "freshworks.com"
+  },
+  {
+    "name": "Gameskraft",
+    "filename": "gameskraft.json",
+    "logo": "https://logo.clearbit.com/gameskraft.com",
+    "domain": "gameskraft.com"
+  },
+  {
+    "name": "Garmin",
+    "filename": "garmin.json",
+    "logo": "https://logo.clearbit.com/garmin.com",
+    "domain": "garmin.com"
+  },
+  {
+    "name": "Ge Digital",
+    "filename": "ge-digital.json",
+    "logo": "https://logo.clearbit.com/geodigitalimaging.com",
+    "domain": "geodigitalimaging.com"
+  },
+  {
+    "name": "Ge Healthcare",
+    "filename": "ge-healthcare.json",
+    "logo": "https://logo.clearbit.com/gehealthcare.com",
+    "domain": "gehealthcare.com"
+  },
+  {
+    "name": "Geico",
+    "filename": "geico.json",
+    "logo": "https://logo.clearbit.com/geico.com",
+    "domain": "geico.com"
+  },
+  {
+    "name": "General Motors",
+    "filename": "general-motors.json",
+    "logo": "https://logo.clearbit.com/gm.com",
+    "domain": "gm.com"
+  },
+  {
+    "name": "Genpact",
+    "filename": "genpact.json",
+    "logo": "https://logo.clearbit.com/genpact.com",
+    "domain": "genpact.com"
+  },
+  {
+    "name": "Godaddy",
+    "filename": "godaddy.json",
+    "logo": "https://logo.clearbit.com/godaddy.com",
+    "domain": "godaddy.com"
+  },
+  {
+    "name": "Gojek",
+    "filename": "gojek.json",
+    "logo": "https://logo.clearbit.com/gojek.com",
+    "domain": "gojek.com"
+  },
+  {
+    "name": "Goldman Sachs",
+    "filename": "goldman-sachs.json",
+    "logo": "https://logo.clearbit.com/goldmansachs.com",
+    "domain": "goldmansachs.com"
+  },
+  {
+    "name": "Google",
+    "filename": "google.json",
+    "logo": "https://logo.clearbit.com/google.com",
+    "domain": "google.com"
+  },
+  {
+    "name": "Grab",
+    "filename": "grab.json",
+    "logo": "https://logo.clearbit.com/grabagun.com",
+    "domain": "grabagun.com"
+  },
+  {
+    "name": "Grammarly",
+    "filename": "grammarly.json",
+    "logo": "https://logo.clearbit.com/grammarly.com",
+    "domain": "grammarly.com"
+  },
+  {
+    "name": "Graviton",
+    "filename": "graviton.json",
+    "logo": "https://logo.clearbit.com/gravitoninternational.com",
+    "domain": "gravitoninternational.com"
+  },
+  {
+    "name": "Groupon",
+    "filename": "groupon.json",
+    "logo": "https://logo.clearbit.com/groupon.com",
+    "domain": "groupon.com"
+  },
+  {
+    "name": "Groww",
+    "filename": "groww.json",
+    "logo": "https://logo.clearbit.com/groww.in",
+    "domain": "groww.in"
+  },
+  {
+    "name": "Grubhub",
+    "filename": "grubhub.json",
+    "logo": "https://logo.clearbit.com/grubhub.com",
+    "domain": "grubhub.com"
+  },
+  {
+    "name": "Gsa Capital",
+    "filename": "gsa-capital.json",
+    "logo": "https://logo.clearbit.com/gsacapital.com",
+    "domain": "gsacapital.com"
+  },
+  {
+    "name": "Gsn Games",
+    "filename": "gsn-games.json",
+    "logo": "https://logo.clearbit.com/gsngames.com",
+    "domain": "gsngames.com"
+  },
+  {
+    "name": "Guidewire",
+    "filename": "guidewire.json",
+    "logo": "https://logo.clearbit.com/guidewire.com",
+    "domain": "guidewire.com"
+  },
+  {
+    "name": "Gusto",
+    "filename": "gusto.json",
+    "logo": "https://logo.clearbit.com/gusto.com",
+    "domain": "gusto.com"
+  },
+  {
+    "name": "Harness",
+    "filename": "harness.json",
+    "logo": "https://logo.clearbit.com/harness.io",
+    "domain": "harness.io"
+  },
+  {
+    "name": "Hashedin",
+    "filename": "hashedin.json",
+    "logo": "https://logo.clearbit.com/hashedin.com",
+    "domain": "hashedin.com"
+  },
+  {
+    "name": "Hcl",
+    "filename": "hcl.json",
+    "logo": "https://logo.clearbit.com/hclib.org",
+    "domain": "hclib.org"
+  },
+  {
+    "name": "Hertz",
+    "filename": "hertz.json",
+    "logo": "https://logo.clearbit.com/hertz.com",
+    "domain": "hertz.com"
+  },
+  {
+    "name": "Highspot",
+    "filename": "highspot.json",
+    "logo": "https://logo.clearbit.com/highspot.com",
+    "domain": "highspot.com"
+  },
+  {
+    "name": "Hilabs",
+    "filename": "hilabs.json",
+    "logo": "https://logo.clearbit.com/hilabs.com",
+    "domain": "hilabs.com"
+  },
+  {
+    "name": "Hive",
+    "filename": "hive.json",
+    "logo": "https://logo.clearbit.com/hive.co",
+    "domain": "hive.co"
+  },
+  {
+    "name": "Hiver",
+    "filename": "hiver.json",
+    "logo": "https://logo.clearbit.com/hiverhq.com",
+    "domain": "hiverhq.com"
+  },
+  {
+    "name": "Honeywell",
+    "filename": "honeywell.json",
+    "logo": "https://logo.clearbit.com/honeywell.com",
+    "domain": "honeywell.com"
+  },
+  {
+    "name": "Hotstar",
+    "filename": "hotstar.json",
+    "logo": "https://logo.clearbit.com/hotstar.com",
+    "domain": "hotstar.com"
+  },
+  {
+    "name": "Houzz",
+    "filename": "houzz.json",
+    "logo": "https://logo.clearbit.com/houzz.com",
+    "domain": "houzz.com"
+  },
+  {
+    "name": "Hp",
+    "filename": "hp.json",
+    "logo": "https://logo.clearbit.com/hp.com",
+    "domain": "hp.com"
+  },
+  {
+    "name": "Hpe",
+    "filename": "hpe.json",
+    "logo": "https://logo.clearbit.com/hpe.com",
+    "domain": "hpe.com"
+  },
+  {
+    "name": "Hsbc",
+    "filename": "hsbc.json",
+    "logo": "https://logo.clearbit.com/hsbc.com",
+    "domain": "hsbc.com"
+  },
+  {
+    "name": "Huawei",
+    "filename": "huawei.json",
+    "logo": "https://logo.clearbit.com/huawei.com",
+    "domain": "huawei.com"
+  },
+  {
+    "name": "Hubspot",
+    "filename": "hubspot.json",
+    "logo": "https://logo.clearbit.com/hubspot.com",
+    "domain": "hubspot.com"
+  },
+  {
+    "name": "Hudson River Trading",
+    "filename": "hudson-river-trading.json",
+    "logo": "https://logo.clearbit.com/hudsonrivertrading.com",
+    "domain": "hudsonrivertrading.com"
+  },
+  {
+    "name": "Hulu",
+    "filename": "hulu.json",
+    "logo": "https://logo.clearbit.com/hulu.com",
+    "domain": "hulu.com"
+  },
+  {
+    "name": "Ibm",
+    "filename": "ibm.json",
+    "logo": "https://logo.clearbit.com/ibm.com",
+    "domain": "ibm.com"
+  },
+  {
+    "name": "Iit Bombay",
+    "filename": "iit-bombay.json",
+    "logo": "https://logo.clearbit.com/iitb.ac.in",
+    "domain": "iitb.ac.in"
+  },
+  {
+    "name": "Imc",
+    "filename": "imc.json",
+    "logo": "https://logo.clearbit.com/imcu.com",
+    "domain": "imcu.com"
+  },
+  {
+    "name": "Indeed",
+    "filename": "indeed.json",
+    "logo": "https://logo.clearbit.com/indeed.com",
+    "domain": "indeed.com"
+  },
+  {
+    "name": "Indmoney",
+    "filename": "indmoney.json",
+    "logo": "https://logo.clearbit.com/indmoney.com",
+    "domain": "indmoney.com"
+  },
+  {
+    "name": "Info Edge",
+    "filename": "info-edge.json",
+    "logo": "https://logo.clearbit.com/infoedge.in",
+    "domain": "infoedge.in"
+  },
+  {
+    "name": "Informatica",
+    "filename": "informatica.json",
+    "logo": "https://logo.clearbit.com/informatica.com",
+    "domain": "informatica.com"
+  },
+  {
+    "name": "Infosys",
+    "filename": "infosys.json",
+    "logo": "https://logo.clearbit.com/infosys.com",
+    "domain": "infosys.com"
+  },
+  {
+    "name": "Inmobi",
+    "filename": "inmobi.json",
+    "logo": "https://logo.clearbit.com/inmobi.com",
+    "domain": "inmobi.com"
+  },
+  {
+    "name": "Instabase",
+    "filename": "instabase.json",
+    "logo": "https://logo.clearbit.com/instabase.jp",
+    "domain": "instabase.jp"
+  },
+  {
+    "name": "Instacart",
+    "filename": "instacart.json",
+    "logo": "https://logo.clearbit.com/instacart.com",
+    "domain": "instacart.com"
+  },
+  {
+    "name": "Intel",
+    "filename": "intel.json",
+    "logo": "https://logo.clearbit.com/intel.com",
+    "domain": "intel.com"
+  },
+  {
+    "name": "Intuit",
+    "filename": "intuit.json",
+    "logo": "https://logo.clearbit.com/intuit.com",
+    "domain": "intuit.com"
+  },
+  {
+    "name": "Ivp",
+    "filename": "ivp.json",
+    "logo": "https://logo.clearbit.com/ivpress.com",
+    "domain": "ivpress.com"
+  },
+  {
+    "name": "Ixl",
+    "filename": "ixl.json",
+    "logo": "https://logo.clearbit.com/ixl.com",
+    "domain": "ixl.com"
+  },
+  {
+    "name": "J.P. Morgan",
+    "filename": "j.p.-morgan.json",
+    "logo": "https://logo.clearbit.com/jpmorgan.com",
+    "domain": "jpmorgan.com"
+  },
+  {
+    "name": "Jane Street",
+    "filename": "jane-street.json",
+    "logo": "https://logo.clearbit.com/janestreet.com",
+    "domain": "janestreet.com"
+  },
+  {
+    "name": "Jio",
+    "filename": "jio.json",
+    "logo": "https://logo.clearbit.com/jio.com",
+    "domain": "jio.com"
+  },
+  {
+    "name": "Josh Technology",
+    "filename": "josh-technology.json",
+    "logo": "https://logo.clearbit.com/joshtechnologygroup.com",
+    "domain": "joshtechnologygroup.com"
+  },
+  {
+    "name": "Jump Trading",
+    "filename": "jump-trading.json",
+    "logo": "https://logo.clearbit.com/jumptrading.com",
+    "domain": "jumptrading.com"
+  },
+  {
+    "name": "Juniper Networks",
+    "filename": "juniper-networks.json",
+    "logo": "https://logo.clearbit.com/juniper.net",
+    "domain": "juniper.net"
+  },
+  {
+    "name": "Juspay",
+    "filename": "juspay.json",
+    "logo": "https://logo.clearbit.com/juspay.in",
+    "domain": "juspay.in"
+  },
+  {
+    "name": "Kakao",
+    "filename": "kakao.json",
+    "logo": "https://logo.clearbit.com/kakaocorp.com",
+    "domain": "kakaocorp.com"
+  },
+  {
+    "name": "Karat",
+    "filename": "karat.json",
+    "logo": "https://logo.clearbit.com/karatemart.com",
+    "domain": "karatemart.com"
+  },
+  {
+    "name": "Kla",
+    "filename": "kla.json",
+    "logo": "https://logo.clearbit.com/klaviyo.com",
+    "domain": "klaviyo.com"
+  },
+  {
+    "name": "Komprise",
+    "filename": "komprise.json",
+    "logo": "https://logo.clearbit.com/komprise.com",
+    "domain": "komprise.com"
+  },
+  {
+    "name": "Larsen & Toubro",
+    "filename": "larsen-&-toubro.json",
+    "logo": "https://logo.clearbit.com/larsentoubro.com",
+    "domain": "larsentoubro.com"
+  },
+  {
+    "name": "Lendingkart Technologies",
+    "filename": "lendingkart-technologies.json",
+    "logo": "https://logo.clearbit.com/null",
+    "domain": null
+  },
+  {
+    "name": "Lenskart",
+    "filename": "lenskart.json",
+    "logo": "https://logo.clearbit.com/lenskart.com",
+    "domain": "lenskart.com"
+  },
+  {
+    "name": "Licious",
+    "filename": "licious.json",
+    "logo": "https://logo.clearbit.com/licious.in",
+    "domain": "licious.in"
+  },
+  {
+    "name": "Liftoff",
+    "filename": "liftoff.json",
+    "logo": "https://logo.clearbit.com/liftoff.io",
+    "domain": "liftoff.io"
+  },
+  {
+    "name": "Line",
+    "filename": "line.json",
+    "logo": "https://logo.clearbit.com/line.me",
+    "domain": "line.me"
+  },
+  {
+    "name": "Linkedin",
+    "filename": "linkedin.json",
+    "logo": "https://logo.clearbit.com/linkedin.com",
+    "domain": "linkedin.com"
+  },
+  {
+    "name": "Liveramp",
+    "filename": "liveramp.json",
+    "logo": "https://logo.clearbit.com/liveramp.com",
+    "domain": "liveramp.com"
+  },
+  {
+    "name": "Lowe'S",
+    "filename": "lowe's.json",
+    "logo": "https://logo.clearbit.com/lowes.com",
+    "domain": "lowes.com"
+  },
+  {
+    "name": "Lti",
+    "filename": "lti.json",
+    "logo": "https://logo.clearbit.com/l-tike.com",
+    "domain": "l-tike.com"
+  },
+  {
+    "name": "Lucid",
+    "filename": "lucid.json",
+    "logo": "https://logo.clearbit.com/lucidchart.com",
+    "domain": "lucidchart.com"
+  },
+  {
+    "name": "Luxoft",
+    "filename": "luxoft.json",
+    "logo": "https://logo.clearbit.com/luxoft.com",
+    "domain": "luxoft.com"
+  },
+  {
+    "name": "Lyft",
+    "filename": "lyft.json",
+    "logo": "https://logo.clearbit.com/lyft.com",
+    "domain": "lyft.com"
+  },
+  {
+    "name": "Machine Zone",
+    "filename": "machine-zone.json",
+    "logo": "https://logo.clearbit.com/mz.com",
+    "domain": "mz.com"
+  },
+  {
+    "name": "Makemytrip",
+    "filename": "makemytrip.json",
+    "logo": "https://logo.clearbit.com/makemytrip.com",
+    "domain": "makemytrip.com"
+  },
+  {
+    "name": "Mapbox",
+    "filename": "mapbox.json",
+    "logo": "https://logo.clearbit.com/mapbox.com",
+    "domain": "mapbox.com"
+  },
+  {
+    "name": "Maq Software",
+    "filename": "maq-software.json",
+    "logo": "https://logo.clearbit.com/maqsoftware.com",
+    "domain": "maqsoftware.com"
+  },
+  {
+    "name": "Mastercard",
+    "filename": "mastercard.json",
+    "logo": "https://logo.clearbit.com/mastercard.com.au",
+    "domain": "mastercard.com.au"
+  },
+  {
+    "name": "Mathworks",
+    "filename": "mathworks.json",
+    "logo": "https://logo.clearbit.com/mathworks.com",
+    "domain": "mathworks.com"
+  },
+  {
+    "name": "Mckinsey",
+    "filename": "mckinsey.json",
+    "logo": "https://logo.clearbit.com/mckinsey.com",
+    "domain": "mckinsey.com"
+  },
+  {
+    "name": "Media.Net",
+    "filename": "media.net.json",
+    "logo": "https://logo.clearbit.com/media.net",
+    "domain": "media.net"
+  },
+  {
+    "name": "Meesho",
+    "filename": "meesho.json",
+    "logo": "https://logo.clearbit.com/meesho.com",
+    "domain": "meesho.com"
+  },
+  {
+    "name": "Mercari",
+    "filename": "mercari.json",
+    "logo": "https://logo.clearbit.com/mercari.com",
+    "domain": "mercari.com"
+  },
+  {
+    "name": "Meta",
+    "filename": "meta.json",
+    "logo": "https://logo.clearbit.com/metacritic.com",
+    "domain": "metacritic.com"
+  },
+  {
+    "name": "Microsoft",
+    "filename": "microsoft.json",
+    "logo": "https://logo.clearbit.com/office.com",
+    "domain": "office.com"
+  },
+  {
+    "name": "Microstrategy",
+    "filename": "microstrategy.json",
+    "logo": "https://logo.clearbit.com/microstrategy.com",
+    "domain": "microstrategy.com"
+  },
+  {
+    "name": "Millennium",
+    "filename": "millennium.json",
+    "logo": "https://logo.clearbit.com/meevo.com",
+    "domain": "meevo.com"
+  },
+  {
+    "name": "Mindtickle",
+    "filename": "mindtickle.json",
+    "logo": "https://logo.clearbit.com/mindtickle.com",
+    "domain": "mindtickle.com"
+  },
+  {
+    "name": "Mindtree",
+    "filename": "mindtree.json",
+    "logo": "https://logo.clearbit.com/mindtreesystems.com.au",
+    "domain": "mindtreesystems.com.au"
+  },
+  {
+    "name": "Miro",
+    "filename": "miro.json",
+    "logo": "https://logo.clearbit.com/miro.com",
+    "domain": "miro.com"
+  },
+  {
+    "name": "Mitsogo",
+    "filename": "mitsogo.json",
+    "logo": "https://logo.clearbit.com/mitsogo.com",
+    "domain": "mitsogo.com"
+  },
+  {
+    "name": "Mixpanel",
+    "filename": "mixpanel.json",
+    "logo": "https://logo.clearbit.com/mixpanel.com",
+    "domain": "mixpanel.com"
+  },
+  {
+    "name": "Mobileye",
+    "filename": "mobileye.json",
+    "logo": "https://logo.clearbit.com/mobileye.com",
+    "domain": "mobileye.com"
+  },
+  {
+    "name": "Moengage",
+    "filename": "moengage.json",
+    "logo": "https://logo.clearbit.com/moengage.com",
+    "domain": "moengage.com"
+  },
+  {
+    "name": "Moloco",
+    "filename": "moloco.json",
+    "logo": "https://logo.clearbit.com/moloco.com",
+    "domain": "moloco.com"
+  },
+  {
+    "name": "Mongodb",
+    "filename": "mongodb.json",
+    "logo": "https://logo.clearbit.com/mongodb.com",
+    "domain": "mongodb.com"
+  },
+  {
+    "name": "Morgan Stanley",
+    "filename": "morgan-stanley.json",
+    "logo": "https://logo.clearbit.com/morganstanley.com",
+    "domain": "morganstanley.com"
+  },
+  {
+    "name": "Mountblue",
+    "filename": "mountblue.json",
+    "logo": "https://logo.clearbit.com/mountblue.io",
+    "domain": "mountblue.io"
+  },
+  {
+    "name": "Moveworks",
+    "filename": "moveworks.json",
+    "logo": "https://logo.clearbit.com/moveworks.com",
+    "domain": "moveworks.com"
+  },
+  {
+    "name": "Msci",
+    "filename": "msci.json",
+    "logo": "https://logo.clearbit.com/mscdirect.com",
+    "domain": "mscdirect.com"
+  },
+  {
+    "name": "Myntra",
+    "filename": "myntra.json",
+    "logo": "https://logo.clearbit.com/myntra.com",
+    "domain": "myntra.com"
+  },
+  {
+    "name": "Nagarro",
+    "filename": "nagarro.json",
+    "logo": "https://logo.clearbit.com/nagarro.com",
+    "domain": "nagarro.com"
+  },
+  {
+    "name": "National Instruments",
+    "filename": "national-instruments.json",
+    "logo": "https://logo.clearbit.com/ni.com",
+    "domain": "ni.com"
+  },
+  {
+    "name": "National Payments Corporation Of India",
+    "filename": "national-payments-corporation-of-india.json",
+    "logo": "https://logo.clearbit.com/null",
+    "domain": null
+  },
+  {
+    "name": "Navan",
+    "filename": "navan.json",
+    "logo": "https://logo.clearbit.com/navanafurniture.com",
+    "domain": "navanafurniture.com"
+  },
+  {
+    "name": "Navi",
+    "filename": "navi.json",
+    "logo": "https://logo.clearbit.com/navient.com",
+    "domain": "navient.com"
+  },
+  {
+    "name": "Ncr",
+    "filename": "ncr.json",
+    "logo": "https://logo.clearbit.com/ncr.com",
+    "domain": "ncr.com"
+  },
+  {
+    "name": "Netapp",
+    "filename": "netapp.json",
+    "logo": "https://logo.clearbit.com/netapp.com",
+    "domain": "netapp.com"
+  },
+  {
+    "name": "Netease",
+    "filename": "netease.json",
+    "logo": "https://logo.clearbit.com/163.com",
+    "domain": "163.com"
+  },
+  {
+    "name": "Netflix",
+    "filename": "netflix.json",
+    "logo": "https://logo.clearbit.com/netflix.com",
+    "domain": "netflix.com"
+  },
+  {
+    "name": "Netskope",
+    "filename": "netskope.json",
+    "logo": "https://logo.clearbit.com/netskope.com",
+    "domain": "netskope.com"
+  },
+  {
+    "name": "Netsuite",
+    "filename": "netsuite.json",
+    "logo": "https://logo.clearbit.com/netsuite.com",
+    "domain": "netsuite.com"
+  },
+  {
+    "name": "Nextdoor",
+    "filename": "nextdoor.json",
+    "logo": "https://logo.clearbit.com/nextdoor.com",
+    "domain": "nextdoor.com"
+  },
+  {
+    "name": "Niantic",
+    "filename": "niantic.json",
+    "logo": "https://logo.clearbit.com/nianticlabs.com",
+    "domain": "nianticlabs.com"
+  },
+  {
+    "name": "Nielsen",
+    "filename": "nielsen.json",
+    "logo": "https://logo.clearbit.com/nielsen.com",
+    "domain": "nielsen.com"
+  },
+  {
+    "name": "Nike",
+    "filename": "nike.json",
+    "logo": "https://logo.clearbit.com/nike.com",
+    "domain": "nike.com"
+  },
+  {
+    "name": "Ninjacart",
+    "filename": "ninjacart.json",
+    "logo": "https://logo.clearbit.com/ninjacart.in",
+    "domain": "ninjacart.in"
+  },
+  {
+    "name": "Nokia",
+    "filename": "nokia.json",
+    "logo": "https://logo.clearbit.com/nokia.com",
+    "domain": "nokia.com"
+  },
+  {
+    "name": "Nordstrom",
+    "filename": "nordstrom.json",
+    "logo": "https://logo.clearbit.com/nordstrom.com",
+    "domain": "nordstrom.com"
+  },
+  {
+    "name": "Notion",
+    "filename": "notion.json",
+    "logo": "https://logo.clearbit.com/notion.so",
+    "domain": "notion.so"
+  },
+  {
+    "name": "Nuro",
+    "filename": "nuro.json",
+    "logo": "https://logo.clearbit.com/nuro.jp",
+    "domain": "nuro.jp"
+  },
+  {
+    "name": "Nutanix",
+    "filename": "nutanix.json",
+    "logo": "https://logo.clearbit.com/nutanix.com",
+    "domain": "nutanix.com"
+  },
+  {
+    "name": "Nvidia",
+    "filename": "nvidia.json",
+    "logo": "https://logo.clearbit.com/nvidia.com",
+    "domain": "nvidia.com"
+  },
+  {
+    "name": "Nykaa",
+    "filename": "nykaa.json",
+    "logo": "https://logo.clearbit.com/nykaa.com",
+    "domain": "nykaa.com"
+  },
+  {
+    "name": "Odoo",
+    "filename": "odoo.json",
+    "logo": "https://logo.clearbit.com/odoo.com",
+    "domain": "odoo.com"
+  },
+  {
+    "name": "Okta",
+    "filename": "okta.json",
+    "logo": "https://logo.clearbit.com/okta.com",
+    "domain": "okta.com"
+  },
+  {
+    "name": "Okx",
+    "filename": "okx.json",
+    "logo": "https://logo.clearbit.com/okx.com",
+    "domain": "okx.com"
+  },
+  {
+    "name": "Ola Cabs",
+    "filename": "ola-cabs.json",
+    "logo": "https://logo.clearbit.com/olacabs.com",
+    "domain": "olacabs.com"
+  },
+  {
+    "name": "Openai",
+    "filename": "openai.json",
+    "logo": "https://logo.clearbit.com/openai.com",
+    "domain": "openai.com"
+  },
+  {
+    "name": "Opendoor",
+    "filename": "opendoor.json",
+    "logo": "https://logo.clearbit.com/opendoor.com",
+    "domain": "opendoor.com"
+  },
+  {
+    "name": "Opentext",
+    "filename": "opentext.json",
+    "logo": "https://logo.clearbit.com/opentext.com",
+    "domain": "opentext.com"
+  },
+  {
+    "name": "Optiver",
+    "filename": "optiver.json",
+    "logo": "https://logo.clearbit.com/optiver.com",
+    "domain": "optiver.com"
+  },
+  {
+    "name": "Optum",
+    "filename": "optum.json",
+    "logo": "https://logo.clearbit.com/optum.com",
+    "domain": "optum.com"
+  },
+  {
+    "name": "Oracle",
+    "filename": "oracle.json",
+    "logo": "https://logo.clearbit.com/oracle.com",
+    "domain": "oracle.com"
+  },
+  {
+    "name": "Otter.Ai",
+    "filename": "otter.ai.json",
+    "logo": "https://logo.clearbit.com/otter.ai",
+    "domain": "otter.ai"
+  },
+  {
+    "name": "Oyo",
+    "filename": "oyo.json",
+    "logo": "https://logo.clearbit.com/oyorooms.com",
+    "domain": "oyorooms.com"
+  },
+  {
+    "name": "Ozon",
+    "filename": "ozon.json",
+    "logo": "https://logo.clearbit.com/ozon.ru",
+    "domain": "ozon.ru"
+  },
+  {
+    "name": "Palantir Technologies",
+    "filename": "palantir-technologies.json",
+    "logo": "https://logo.clearbit.com/palantir.com",
+    "domain": "palantir.com"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "filename": "palo-alto-networks.json",
+    "logo": "https://logo.clearbit.com/paloaltonetworks.com",
+    "domain": "paloaltonetworks.com"
+  },
+  {
+    "name": "Patreon",
+    "filename": "patreon.json",
+    "logo": "https://logo.clearbit.com/patreon.com",
+    "domain": "patreon.com"
+  },
+  {
+    "name": "Paycom",
+    "filename": "paycom.json",
+    "logo": "https://logo.clearbit.com/paycomet.com",
+    "domain": "paycomet.com"
+  },
+  {
+    "name": "Paypal",
+    "filename": "paypal.json",
+    "logo": "https://logo.clearbit.com/paypal.com",
+    "domain": "paypal.com"
+  },
+  {
+    "name": "Paypay",
+    "filename": "paypay.json",
+    "logo": "https://logo.clearbit.com/paypay.ne.jp",
+    "domain": "paypay.ne.jp"
+  },
+  {
+    "name": "Paytm",
+    "filename": "paytm.json",
+    "logo": "https://logo.clearbit.com/paytm.com",
+    "domain": "paytm.com"
+  },
+  {
+    "name": "Payu",
+    "filename": "payu.json",
+    "logo": "https://logo.clearbit.com/payubiz.in",
+    "domain": "payubiz.in"
+  },
+  {
+    "name": "Peak6",
+    "filename": "peak6.json",
+    "logo": "https://logo.clearbit.com/peakdesign.com",
+    "domain": "peakdesign.com"
+  },
+  {
+    "name": "Peloton",
+    "filename": "peloton.json",
+    "logo": "https://logo.clearbit.com/onepeloton.com",
+    "domain": "onepeloton.com"
+  },
+  {
+    "name": "Persistent Systems",
+    "filename": "persistent-systems.json",
+    "logo": "https://logo.clearbit.com/persistent.com",
+    "domain": "persistent.com"
+  },
+  {
+    "name": "Phonepe",
+    "filename": "phonepe.json",
+    "logo": "https://logo.clearbit.com/phonepe.com",
+    "domain": "phonepe.com"
+  },
+  {
+    "name": "Pinterest",
+    "filename": "pinterest.json",
+    "logo": "https://logo.clearbit.com/pinterest.com",
+    "domain": "pinterest.com"
+  },
+  {
+    "name": "Pocket Gems",
+    "filename": "pocket-gems.json",
+    "logo": "https://logo.clearbit.com/pocketgems.com",
+    "domain": "pocketgems.com"
+  },
+  {
+    "name": "Point72",
+    "filename": "point72.json",
+    "logo": "https://logo.clearbit.com/1point3acres.com",
+    "domain": "1point3acres.com"
+  },
+  {
+    "name": "Pony.Ai",
+    "filename": "pony.ai.json",
+    "logo": "https://logo.clearbit.com/pony.ai",
+    "domain": "pony.ai"
+  },
+  {
+    "name": "Pornhub",
+    "filename": "pornhub.json",
+    "logo": "https://logo.clearbit.com/null",
+    "domain": null
+  },
+  {
+    "name": "Poshmark",
+    "filename": "poshmark.json",
+    "logo": "https://logo.clearbit.com/poshmark.com",
+    "domain": "poshmark.com"
+  },
+  {
+    "name": "Postmates",
+    "filename": "postmates.json",
+    "logo": "https://logo.clearbit.com/postmates.com",
+    "domain": "postmates.com"
+  },
+  {
+    "name": "Publicis Sapient",
+    "filename": "publicis-sapient.json",
+    "logo": "https://logo.clearbit.com/publicissapient.com",
+    "domain": "publicissapient.com"
+  },
+  {
+    "name": "Pubmatic",
+    "filename": "pubmatic.json",
+    "logo": "https://logo.clearbit.com/pubmatic.com",
+    "domain": "pubmatic.com"
+  },
+  {
+    "name": "Pure Storage",
+    "filename": "pure-storage.json",
+    "logo": "https://logo.clearbit.com/purestorage.com",
+    "domain": "purestorage.com"
+  },
+  {
+    "name": "Pwc",
+    "filename": "pwc.json",
+    "logo": "https://logo.clearbit.com/pwc.com",
+    "domain": "pwc.com"
+  },
+  {
+    "name": "Qburst",
+    "filename": "qburst.json",
+    "logo": "https://logo.clearbit.com/qburst.com",
+    "domain": "qburst.com"
+  },
+  {
+    "name": "Qualcomm",
+    "filename": "qualcomm.json",
+    "logo": "https://logo.clearbit.com/qualcomm.com",
+    "domain": "qualcomm.com"
+  },
+  {
+    "name": "Qualtrics",
+    "filename": "qualtrics.json",
+    "logo": "https://logo.clearbit.com/qualtrics.com",
+    "domain": "qualtrics.com"
+  },
+  {
+    "name": "Quora",
+    "filename": "quora.json",
+    "logo": "https://logo.clearbit.com/quora.com",
+    "domain": "quora.com"
+  },
+  {
+    "name": "Rakuten",
+    "filename": "rakuten.json",
+    "logo": "https://logo.clearbit.com/rakuten.com",
+    "domain": "rakuten.com"
+  },
+  {
+    "name": "Razorpay",
+    "filename": "razorpay.json",
+    "logo": "https://logo.clearbit.com/razorpay.com",
+    "domain": "razorpay.com"
+  },
+  {
+    "name": "Rbc",
+    "filename": "rbc.json",
+    "logo": "https://logo.clearbit.com/rbc.ru",
+    "domain": "rbc.ru"
+  },
+  {
+    "name": "Redbus",
+    "filename": "redbus.json",
+    "logo": "https://logo.clearbit.com/redbus.in",
+    "domain": "redbus.in"
+  },
+  {
+    "name": "Reddit",
+    "filename": "reddit.json",
+    "logo": "https://logo.clearbit.com/reddit.com",
+    "domain": "reddit.com"
+  },
+  {
+    "name": "Remitly",
+    "filename": "remitly.json",
+    "logo": "https://logo.clearbit.com/remitly.com",
+    "domain": "remitly.com"
+  },
+  {
+    "name": "Revolut",
+    "filename": "revolut.json",
+    "logo": "https://logo.clearbit.com/revolutionehr.com",
+    "domain": "revolutionehr.com"
+  },
+  {
+    "name": "Riot Games",
+    "filename": "riot-games.json",
+    "logo": "https://logo.clearbit.com/riotgames.com",
+    "domain": "riotgames.com"
+  },
+  {
+    "name": "Ripple",
+    "filename": "ripple.json",
+    "logo": "https://logo.clearbit.com/ripplematch.com",
+    "domain": "ripplematch.com"
+  },
+  {
+    "name": "Rippling",
+    "filename": "rippling.json",
+    "logo": "https://logo.clearbit.com/rippling.com",
+    "domain": "rippling.com"
+  },
+  {
+    "name": "Rivian",
+    "filename": "rivian.json",
+    "logo": "https://logo.clearbit.com/rivian.com",
+    "domain": "rivian.com"
+  },
+  {
+    "name": "Robinhood",
+    "filename": "robinhood.json",
+    "logo": "https://logo.clearbit.com/robinhood.com",
+    "domain": "robinhood.com"
+  },
+  {
+    "name": "Roblox",
+    "filename": "roblox.json",
+    "logo": "https://logo.clearbit.com/roblox.com",
+    "domain": "roblox.com"
+  },
+  {
+    "name": "Roche",
+    "filename": "roche.json",
+    "logo": "https://logo.clearbit.com/rochester.edu",
+    "domain": "rochester.edu"
+  },
+  {
+    "name": "Rokt",
+    "filename": "rokt.json",
+    "logo": "https://logo.clearbit.com/rokt.com",
+    "domain": "rokt.com"
+  },
+  {
+    "name": "Roku",
+    "filename": "roku.json",
+    "logo": "https://logo.clearbit.com/roku.com",
+    "domain": "roku.com"
+  },
+  {
+    "name": "Rubrik",
+    "filename": "rubrik.json",
+    "logo": "https://logo.clearbit.com/rubrik.com",
+    "domain": "rubrik.com"
+  },
+  {
+    "name": "Salesforce",
+    "filename": "salesforce.json",
+    "logo": "https://logo.clearbit.com/salesforce.com",
+    "domain": "salesforce.com"
+  },
+  {
+    "name": "Samsara",
+    "filename": "samsara.json",
+    "logo": "https://logo.clearbit.com/samsara.com",
+    "domain": "samsara.com"
+  },
+  {
+    "name": "Samsung",
+    "filename": "samsung.json",
+    "logo": "https://logo.clearbit.com/samsung.com",
+    "domain": "samsung.com"
+  },
+  {
+    "name": "Sap",
+    "filename": "sap.json",
+    "logo": "https://logo.clearbit.com/sap.com",
+    "domain": "sap.com"
+  },
+  {
+    "name": "Scale Ai",
+    "filename": "scale-ai.json",
+    "logo": "https://logo.clearbit.com/scale.com",
+    "domain": "scale.com"
+  },
+  {
+    "name": "Sentry",
+    "filename": "sentry.json",
+    "logo": "https://logo.clearbit.com/sentry.io",
+    "domain": "sentry.io"
+  },
+  {
+    "name": "Servicenow",
+    "filename": "servicenow.json",
+    "logo": "https://logo.clearbit.com/servicenow.com",
+    "domain": "servicenow.com"
+  },
+  {
+    "name": "Sharechat",
+    "filename": "sharechat.json",
+    "logo": "https://logo.clearbit.com/sharechat.com",
+    "domain": "sharechat.com"
+  },
+  {
+    "name": "Shopee",
+    "filename": "shopee.json",
+    "logo": "https://logo.clearbit.com/shopee.tw",
+    "domain": "shopee.tw"
+  },
+  {
+    "name": "Shopify",
+    "filename": "shopify.json",
+    "logo": "https://logo.clearbit.com/shopify.com",
+    "domain": "shopify.com"
+  },
+  {
+    "name": "Siemens",
+    "filename": "siemens.json",
+    "logo": "https://logo.clearbit.com/siemens.com",
+    "domain": "siemens.com"
+  },
+  {
+    "name": "Sig",
+    "filename": "sig.json",
+    "logo": "https://logo.clearbit.com/signupgenius.com",
+    "domain": "signupgenius.com"
+  },
+  {
+    "name": "Sigmoid",
+    "filename": "sigmoid.json",
+    "logo": "https://logo.clearbit.com/sigmoid.com",
+    "domain": "sigmoid.com"
+  },
+  {
+    "name": "Slice",
+    "filename": "slice.json",
+    "logo": "https://logo.clearbit.com/slicelife.com",
+    "domain": "slicelife.com"
+  },
+  {
+    "name": "Smartnews",
+    "filename": "smartnews.json",
+    "logo": "https://logo.clearbit.com/smartnews.com",
+    "domain": "smartnews.com"
+  },
+  {
+    "name": "Smartsheet",
+    "filename": "smartsheet.json",
+    "logo": "https://logo.clearbit.com/smartsheet.com",
+    "domain": "smartsheet.com"
+  },
+  {
+    "name": "Snap",
+    "filename": "snap.json",
+    "logo": "https://logo.clearbit.com/snapchat.com",
+    "domain": "snapchat.com"
+  },
+  {
+    "name": "Snapdeal",
+    "filename": "snapdeal.json",
+    "logo": "https://logo.clearbit.com/snapdeal.com",
+    "domain": "snapdeal.com"
+  },
+  {
+    "name": "Snowflake",
+    "filename": "snowflake.json",
+    "logo": "https://logo.clearbit.com/snowflake.com",
+    "domain": "snowflake.com"
+  },
+  {
+    "name": "Societe Generale",
+    "filename": "societe-generale.json",
+    "logo": "https://logo.clearbit.com/societegenerale.com",
+    "domain": "societegenerale.com"
+  },
+  {
+    "name": "Sofi",
+    "filename": "sofi.json",
+    "logo": "https://logo.clearbit.com/sofi.com",
+    "domain": "sofi.com"
+  },
+  {
+    "name": "Softwire",
+    "filename": "softwire.json",
+    "logo": "https://logo.clearbit.com/softwire.com",
+    "domain": "softwire.com"
+  },
+  {
+    "name": "Sony",
+    "filename": "sony.json",
+    "logo": "https://logo.clearbit.com/sony.com",
+    "domain": "sony.com"
+  },
+  {
+    "name": "Soti",
+    "filename": "soti.json",
+    "logo": "https://logo.clearbit.com/soti.net",
+    "domain": "soti.net"
+  },
+  {
+    "name": "Soundhound",
+    "filename": "soundhound.json",
+    "logo": "https://logo.clearbit.com/midomi.com",
+    "domain": "midomi.com"
+  },
+  {
+    "name": "Splunk",
+    "filename": "splunk.json",
+    "logo": "https://logo.clearbit.com/splunk.com",
+    "domain": "splunk.com"
+  },
+  {
+    "name": "Spotify",
+    "filename": "spotify.json",
+    "logo": "https://logo.clearbit.com/spotify.com",
+    "domain": "spotify.com"
+  },
+  {
+    "name": "Sprinklr",
+    "filename": "sprinklr.json",
+    "logo": "https://logo.clearbit.com/sprinklr.com",
+    "domain": "sprinklr.com"
+  },
+  {
+    "name": "Squarepoint Capital",
+    "filename": "squarepoint-capital.json",
+    "logo": "https://logo.clearbit.com/squarepoint-capital.com",
+    "domain": "squarepoint-capital.com"
+  },
+  {
+    "name": "Squarespace",
+    "filename": "squarespace.json",
+    "logo": "https://logo.clearbit.com/squarespace.com",
+    "domain": "squarespace.com"
+  },
+  {
+    "name": "Stackadapt",
+    "filename": "stackadapt.json",
+    "logo": "https://logo.clearbit.com/stackadapt.com",
+    "domain": "stackadapt.com"
+  },
+  {
+    "name": "Stackline",
+    "filename": "stackline.json",
+    "logo": "https://logo.clearbit.com/stackline.com",
+    "domain": "stackline.com"
+  },
+  {
+    "name": "Stripe",
+    "filename": "stripe.json",
+    "logo": "https://logo.clearbit.com/stripe.com",
+    "domain": "stripe.com"
+  },
+  {
+    "name": "Sumo Logic",
+    "filename": "sumo-logic.json",
+    "logo": "https://logo.clearbit.com/sumologic.com",
+    "domain": "sumologic.com"
+  },
+  {
+    "name": "Swiggy",
+    "filename": "swiggy.json",
+    "logo": "https://logo.clearbit.com/swiggy.com",
+    "domain": "swiggy.com"
+  },
+  {
+    "name": "Synopsys",
+    "filename": "synopsys.json",
+    "logo": "https://logo.clearbit.com/synopsys.com",
+    "domain": "synopsys.com"
+  },
+  {
+    "name": "Tanium",
+    "filename": "tanium.json",
+    "logo": "https://logo.clearbit.com/tanium.com",
+    "domain": "tanium.com"
+  },
+  {
+    "name": "Target",
+    "filename": "target.json",
+    "logo": "https://logo.clearbit.com/target.com",
+    "domain": "target.com"
+  },
+  {
+    "name": "Tcs",
+    "filename": "tcs.json",
+    "logo": "https://logo.clearbit.com/tcs.com",
+    "domain": "tcs.com"
+  },
+  {
+    "name": "Tech Mahindra",
+    "filename": "tech-mahindra.json",
+    "logo": "https://logo.clearbit.com/techmahindra.com",
+    "domain": "techmahindra.com"
+  },
+  {
+    "name": "Tejas Networks",
+    "filename": "tejas-networks.json",
+    "logo": "https://logo.clearbit.com/tejasnetworks.com",
+    "domain": "tejasnetworks.com"
+  },
+  {
+    "name": "Tekion",
+    "filename": "tekion.json",
+    "logo": "https://logo.clearbit.com/tekion.com",
+    "domain": "tekion.com"
+  },
+  {
+    "name": "Tencent",
+    "filename": "tencent.json",
+    "logo": "https://logo.clearbit.com/tencent.com",
+    "domain": "tencent.com"
+  },
+  {
+    "name": "Teradata",
+    "filename": "teradata.json",
+    "logo": "https://logo.clearbit.com/teradata.com",
+    "domain": "teradata.com"
+  },
+  {
+    "name": "Tesco",
+    "filename": "tesco.json",
+    "logo": "https://logo.clearbit.com/tesco.com",
+    "domain": "tesco.com"
+  },
+  {
+    "name": "Tesla",
+    "filename": "tesla.json",
+    "logo": "https://logo.clearbit.com/tesla.com",
+    "domain": "tesla.com"
+  },
+  {
+    "name": "Texas Instruments",
+    "filename": "texas-instruments.json",
+    "logo": "https://logo.clearbit.com/ti.com",
+    "domain": "ti.com"
+  },
+  {
+    "name": "The Trade Desk",
+    "filename": "the-trade-desk.json",
+    "logo": "https://logo.clearbit.com/thetradedesk.com",
+    "domain": "thetradedesk.com"
+  },
+  {
+    "name": "Thomson Reuters",
+    "filename": "thomson-reuters.json",
+    "logo": "https://logo.clearbit.com/thomsonreuters.com",
+    "domain": "thomsonreuters.com"
+  },
+  {
+    "name": "Thoughtspot",
+    "filename": "thoughtspot.json",
+    "logo": "https://logo.clearbit.com/thoughtspot.com",
+    "domain": "thoughtspot.com"
+  },
+  {
+    "name": "Thoughtworks",
+    "filename": "thoughtworks.json",
+    "logo": "https://logo.clearbit.com/thoughtworks.com",
+    "domain": "thoughtworks.com"
+  },
+  {
+    "name": "Thousandeyes",
+    "filename": "thousandeyes.json",
+    "logo": "https://logo.clearbit.com/thousandeyes.com",
+    "domain": "thousandeyes.com"
+  },
+  {
+    "name": "Tiger Analytics",
+    "filename": "tiger-analytics.json",
+    "logo": "https://logo.clearbit.com/tigeranalytics.com",
+    "domain": "tigeranalytics.com"
+  },
+  {
+    "name": "Tiktok",
+    "filename": "tiktok.json",
+    "logo": "https://logo.clearbit.com/tiktok.com",
+    "domain": "tiktok.com"
+  },
+  {
+    "name": "Tinder",
+    "filename": "tinder.json",
+    "logo": "https://logo.clearbit.com/tinder.com",
+    "domain": "tinder.com"
+  },
+  {
+    "name": "Tinkoff",
+    "filename": "tinkoff.json",
+    "logo": "https://logo.clearbit.com/tinkoff.ru",
+    "domain": "tinkoff.ru"
+  },
+  {
+    "name": "Toast",
+    "filename": "toast.json",
+    "logo": "https://logo.clearbit.com/toasttab.com",
+    "domain": "toasttab.com"
+  },
+  {
+    "name": "Toptal",
+    "filename": "toptal.json",
+    "logo": "https://logo.clearbit.com/toptal.com",
+    "domain": "toptal.com"
+  },
+  {
+    "name": "Tower Research Capital",
+    "filename": "tower-research-capital.json",
+    "logo": "https://logo.clearbit.com/tower-research.com",
+    "domain": "tower-research.com"
+  },
+  {
+    "name": "Trexquant",
+    "filename": "trexquant.json",
+    "logo": "https://logo.clearbit.com/trexquant.com",
+    "domain": "trexquant.com"
+  },
+  {
+    "name": "Trilogy",
+    "filename": "trilogy.json",
+    "logo": "https://logo.clearbit.com/trilogyhs.com",
+    "domain": "trilogyhs.com"
+  },
+  {
+    "name": "Tripadvisor",
+    "filename": "tripadvisor.json",
+    "logo": "https://logo.clearbit.com/tripadvisor.com",
+    "domain": "tripadvisor.com"
+  },
+  {
+    "name": "Turing",
+    "filename": "turing.json",
+    "logo": "https://logo.clearbit.com/turing.com",
+    "domain": "turing.com"
+  },
+  {
+    "name": "Turo",
+    "filename": "turo.json",
+    "logo": "https://logo.clearbit.com/turo.com",
+    "domain": "turo.com"
+  },
+  {
+    "name": "Turvo",
+    "filename": "turvo.json",
+    "logo": "https://logo.clearbit.com/turvo.com",
+    "domain": "turvo.com"
+  },
+  {
+    "name": "Tusimple",
+    "filename": "tusimple.json",
+    "logo": "https://logo.clearbit.com/tusimple.com",
+    "domain": "tusimple.com"
+  },
+  {
+    "name": "Twilio",
+    "filename": "twilio.json",
+    "logo": "https://logo.clearbit.com/twilio.com",
+    "domain": "twilio.com"
+  },
+  {
+    "name": "Twitch",
+    "filename": "twitch.json",
+    "logo": "https://logo.clearbit.com/twitch.tv",
+    "domain": "twitch.tv"
+  },
+  {
+    "name": "Two Sigma",
+    "filename": "two-sigma.json",
+    "logo": "https://logo.clearbit.com/twosigma.com",
+    "domain": "twosigma.com"
+  },
+  {
+    "name": "Uber",
+    "filename": "uber.json",
+    "logo": "https://logo.clearbit.com/uber.com",
+    "domain": "uber.com"
+  },
+  {
+    "name": "Ubs",
+    "filename": "ubs.json",
+    "logo": "https://logo.clearbit.com/ubs.com",
+    "domain": "ubs.com"
+  },
+  {
+    "name": "Uipath",
+    "filename": "uipath.json",
+    "logo": "https://logo.clearbit.com/uipath.com",
+    "domain": "uipath.com"
+  },
+  {
+    "name": "Ukg",
+    "filename": "ukg.json",
+    "logo": "https://logo.clearbit.com/ukg.com",
+    "domain": "ukg.com"
+  },
+  {
+    "name": "Unity",
+    "filename": "unity.json",
+    "logo": "https://logo.clearbit.com/unity.cn",
+    "domain": "unity.cn"
+  },
+  {
+    "name": "Upstart",
+    "filename": "upstart.json",
+    "logo": "https://logo.clearbit.com/upstart.com",
+    "domain": "upstart.com"
+  },
+  {
+    "name": "Urban Company",
+    "filename": "urban-company.json",
+    "logo": "https://logo.clearbit.com/urbancompany.com",
+    "domain": "urbancompany.com"
+  },
+  {
+    "name": "Usaa",
+    "filename": "usaa.json",
+    "logo": "https://logo.clearbit.com/usaa.com",
+    "domain": "usaa.com"
+  },
+  {
+    "name": "Valve",
+    "filename": "valve.json",
+    "logo": "https://logo.clearbit.com/dota2.com",
+    "domain": "dota2.com"
+  },
+  {
+    "name": "Vanguard",
+    "filename": "vanguard.json",
+    "logo": "https://logo.clearbit.com/vanguard.com",
+    "domain": "vanguard.com"
+  },
+  {
+    "name": "Veeva Systems",
+    "filename": "veeva-systems.json",
+    "logo": "https://logo.clearbit.com/veeva.com",
+    "domain": "veeva.com"
+  },
+  {
+    "name": "Verily",
+    "filename": "verily.json",
+    "logo": "https://logo.clearbit.com/verilymag.com",
+    "domain": "verilymag.com"
+  },
+  {
+    "name": "Veritas",
+    "filename": "veritas.json",
+    "logo": "https://logo.clearbit.com/veritaspress.com",
+    "domain": "veritaspress.com"
+  },
+  {
+    "name": "Verkada",
+    "filename": "verkada.json",
+    "logo": "https://logo.clearbit.com/verkada.com",
+    "domain": "verkada.com"
+  },
+  {
+    "name": "Vimeo",
+    "filename": "vimeo.json",
+    "logo": "https://logo.clearbit.com/vimeo.com",
+    "domain": "vimeo.com"
+  },
+  {
+    "name": "Virtu Financial",
+    "filename": "virtu-financial.json",
+    "logo": "https://logo.clearbit.com/virtu.com",
+    "domain": "virtu.com"
+  },
+  {
+    "name": "Virtusa",
+    "filename": "virtusa.json",
+    "logo": "https://logo.clearbit.com/virtusa.com",
+    "domain": "virtusa.com"
+  },
+  {
+    "name": "Visa",
+    "filename": "visa.json",
+    "logo": "https://logo.clearbit.com/visa.com",
+    "domain": "visa.com"
+  },
+  {
+    "name": "Vk",
+    "filename": "vk.json",
+    "logo": "https://logo.clearbit.com/vk.com",
+    "domain": "vk.com"
+  },
+  {
+    "name": "Vmware",
+    "filename": "vmware.json",
+    "logo": "https://logo.clearbit.com/vmware.com",
+    "domain": "vmware.com"
+  },
+  {
+    "name": "Walmart Labs",
+    "filename": "walmart-labs.json",
+    "logo": "https://logo.clearbit.com/null",
+    "domain": null
+  },
+  {
+    "name": "Warnermedia",
+    "filename": "warnermedia.json",
+    "logo": "https://logo.clearbit.com/warner-media.de",
+    "domain": "warner-media.de"
+  },
+  {
+    "name": "Watchguard",
+    "filename": "watchguard.json",
+    "logo": "https://logo.clearbit.com/watchguard.com",
+    "domain": "watchguard.com"
+  },
+  {
+    "name": "Wayfair",
+    "filename": "wayfair.json",
+    "logo": "https://logo.clearbit.com/wayfair.com",
+    "domain": "wayfair.com"
+  },
+  {
+    "name": "Waymo",
+    "filename": "waymo.json",
+    "logo": "https://logo.clearbit.com/waymo.com",
+    "domain": "waymo.com"
+  },
+  {
+    "name": "Wealthfront",
+    "filename": "wealthfront.json",
+    "logo": "https://logo.clearbit.com/wealthfront.com",
+    "domain": "wealthfront.com"
+  },
+  {
+    "name": "Wells Fargo",
+    "filename": "wells-fargo.json",
+    "logo": "https://logo.clearbit.com/wellsfargo.com",
+    "domain": "wellsfargo.com"
+  },
+  {
+    "name": "Weride",
+    "filename": "weride.json",
+    "logo": "https://logo.clearbit.com/weride.ai",
+    "domain": "weride.ai"
+  },
+  {
+    "name": "Western Digital",
+    "filename": "western-digital.json",
+    "logo": "https://logo.clearbit.com/westerndigital.com",
+    "domain": "westerndigital.com"
+  },
+  {
+    "name": "Whatnot",
+    "filename": "whatnot.json",
+    "logo": "https://logo.clearbit.com/whatnot.com",
+    "domain": "whatnot.com"
+  },
+  {
+    "name": "Winzo",
+    "filename": "winzo.json",
+    "logo": "https://logo.clearbit.com/winzogames.com",
+    "domain": "winzogames.com"
+  },
+  {
+    "name": "Wipro",
+    "filename": "wipro.json",
+    "logo": "https://logo.clearbit.com/healthplan.com",
+    "domain": "healthplan.com"
+  },
+  {
+    "name": "Wise",
+    "filename": "wise.json",
+    "logo": "https://logo.clearbit.com/wise.com",
+    "domain": "wise.com"
+  },
+  {
+    "name": "Wish",
+    "filename": "wish.json",
+    "logo": "https://logo.clearbit.com/wish.com",
+    "domain": "wish.com"
+  },
+  {
+    "name": "Wissen Technology",
+    "filename": "wissen-technology.json",
+    "logo": "https://logo.clearbit.com/wissen.com",
+    "domain": "wissen.com"
+  },
+  {
+    "name": "Wix",
+    "filename": "wix.json",
+    "logo": "https://logo.clearbit.com/wix.com",
+    "domain": "wix.com"
+  },
+  {
+    "name": "Workday",
+    "filename": "workday.json",
+    "logo": "https://logo.clearbit.com/workday.com",
+    "domain": "workday.com"
+  },
+  {
+    "name": "Works Applications",
+    "filename": "works-applications.json",
+    "logo": "https://logo.clearbit.com/worksap.co.jp",
+    "domain": "worksap.co.jp"
+  },
+  {
+    "name": "Worldquant",
+    "filename": "worldquant.json",
+    "logo": "https://logo.clearbit.com/wqu.edu",
+    "domain": "wqu.edu"
+  },
+  {
+    "name": "X",
+    "filename": "x.json",
+    "logo": "https://logo.clearbit.com/x.com",
+    "domain": "x.com"
+  },
+  {
+    "name": "Yahoo",
+    "filename": "yahoo.json",
+    "logo": "https://logo.clearbit.com/yahoo.com",
+    "domain": "yahoo.com"
+  },
+  {
+    "name": "Yandex",
+    "filename": "yandex.json",
+    "logo": "https://logo.clearbit.com/yandex.ru",
+    "domain": "yandex.ru"
+  },
+  {
+    "name": "Yelp",
+    "filename": "yelp.json",
+    "logo": "https://logo.clearbit.com/yelp.com",
+    "domain": "yelp.com"
+  },
+  {
+    "name": "Yext",
+    "filename": "yext.json",
+    "logo": "https://logo.clearbit.com/yext.com",
+    "domain": "yext.com"
+  },
+  {
+    "name": "Zalando",
+    "filename": "zalando.json",
+    "logo": "https://logo.clearbit.com/zalando.de",
+    "domain": "zalando.de"
+  },
+  {
+    "name": "Zendesk",
+    "filename": "zendesk.json",
+    "logo": "https://logo.clearbit.com/zendesk.com",
+    "domain": "zendesk.com"
+  },
+  {
+    "name": "Zenefits",
+    "filename": "zenefits.json",
+    "logo": "https://logo.clearbit.com/null",
+    "domain": null
+  },
+  {
+    "name": "Zepto",
+    "filename": "zepto.json",
+    "logo": "https://logo.clearbit.com/zeptonow.com",
+    "domain": "zeptonow.com"
+  },
+  {
+    "name": "Zeta Suite",
+    "filename": "zeta-suite.json",
+    "logo": "https://logo.clearbit.com/null",
+    "domain": null
+  },
+  {
+    "name": "Zeta",
+    "filename": "zeta.json",
+    "logo": "https://logo.clearbit.com/zetaglobal.com",
+    "domain": "zetaglobal.com"
+  },
+  {
+    "name": "Zillow",
+    "filename": "zillow.json",
+    "logo": "https://logo.clearbit.com/zillow.com",
+    "domain": "zillow.com"
+  },
+  {
+    "name": "Ziprecruiter",
+    "filename": "ziprecruiter.json",
+    "logo": "https://logo.clearbit.com/ziprecruiter.com",
+    "domain": "ziprecruiter.com"
+  },
+  {
+    "name": "Zluri",
+    "filename": "zluri.json",
+    "logo": "https://logo.clearbit.com/zluri.com",
+    "domain": "zluri.com"
+  },
+  {
+    "name": "Zoho",
+    "filename": "zoho.json",
+    "logo": "https://logo.clearbit.com/zohocorp.com",
+    "domain": "zohocorp.com"
+  },
+  {
+    "name": "Zomato",
+    "filename": "zomato.json",
+    "logo": "https://logo.clearbit.com/zomato.com",
+    "domain": "zomato.com"
+  },
+  {
+    "name": "Zoom",
+    "filename": "zoom.json",
+    "logo": "https://logo.clearbit.com/zoom.us",
+    "domain": "zoom.us"
+  },
+  {
+    "name": "Zoox",
+    "filename": "zoox.json",
+    "logo": "https://logo.clearbit.com/zoox.com",
+    "domain": "zoox.com"
+  },
+  {
+    "name": "Zopsmart",
+    "filename": "zopsmart.json",
+    "logo": "https://logo.clearbit.com/zopsmart.com",
+    "domain": "zopsmart.com"
+  },
+  {
+    "name": "Zs Associates",
+    "filename": "zs-associates.json",
+    "logo": "https://logo.clearbit.com/null",
+    "domain": null
+  },
+  {
+    "name": "Zscaler",
+    "filename": "zscaler.json",
+    "logo": "https://logo.clearbit.com/zscaler.com",
+    "domain": "zscaler.com"
+  },
+  {
+    "name": "Zynga",
+    "filename": "zynga.json",
+    "logo": "https://logo.clearbit.com/zynga.com",
+    "domain": "zynga.com"
+  }
+]

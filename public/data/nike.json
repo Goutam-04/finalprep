@@ -1,0 +1,82 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Happy Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5788841058627339",
+    "Link": "https://leetcode.com/problems/happy-number",
+    "Topics": "Hash Table, Math, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "92.4",
+    "Acceptance Rate": "0.36717084524588584",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Diagonal Traverse",
+    "Frequency": "92.4",
+    "Acceptance Rate": "0.6294572528614665",
+    "Link": "https://leetcode.com/problems/diagonal-traverse",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "92.4",
+    "Acceptance Rate": "0.42160753442271615",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "92.4",
+    "Acceptance Rate": "0.519740686280635",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Design Graph With Shortest Path Calculator",
+    "Frequency": "92.4",
+    "Acceptance Rate": "0.6404214101849639",
+    "Link": "https://leetcode.com/problems/design-graph-with-shortest-path-calculator",
+    "Topics": "Graph, Design, Heap (Priority Queue), Shortest Path"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Min Stack",
+    "Frequency": "92.4",
+    "Acceptance Rate": "0.5623493541273908",
+    "Link": "https://leetcode.com/problems/min-stack",
+    "Topics": "Stack, Design"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Can Place Flowers",
+    "Frequency": "92.4",
+    "Acceptance Rate": "0.28868096273731314",
+    "Link": "https://leetcode.com/problems/can-place-flowers",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Next Permutation",
+    "Frequency": "92.4",
+    "Acceptance Rate": "0.4279404323428119",
+    "Link": "https://leetcode.com/problems/next-permutation",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Best Time to Buy and Sell Stock II",
+    "Frequency": "81.7",
+    "Acceptance Rate": "0.6926646209892735",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  }
+]

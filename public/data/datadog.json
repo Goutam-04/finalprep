@@ -1,0 +1,162 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Coin Change",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.46233585646111",
+    "Link": "https://leetcode.com/problems/coin-change",
+    "Topics": "Array, Dynamic Programming, Breadth-First Search"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Most Common Word",
+    "Frequency": "92.2",
+    "Acceptance Rate": "0.4453854603380217",
+    "Link": "https://leetcode.com/problems/most-common-word",
+    "Topics": "Array, Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Maximum Depth of N-ary Tree",
+    "Frequency": "91.2",
+    "Acceptance Rate": "0.7284923780106118",
+    "Link": "https://leetcode.com/problems/maximum-depth-of-n-ary-tree",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Circular Queue",
+    "Frequency": "87.5",
+    "Acceptance Rate": "0.5247922912146648",
+    "Link": "https://leetcode.com/problems/design-circular-queue",
+    "Topics": "Array, Linked List, Design, Queue"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Word Abbreviation",
+    "Frequency": "84.7",
+    "Acceptance Rate": "0.36790113910408523",
+    "Link": "https://leetcode.com/problems/valid-word-abbreviation",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Meeting Scheduler",
+    "Frequency": "81.3",
+    "Acceptance Rate": "0.5525455394675385",
+    "Link": "https://leetcode.com/problems/meeting-scheduler",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Vacation Days",
+    "Frequency": "69.2",
+    "Acceptance Rate": "0.46312653591134606",
+    "Link": "https://leetcode.com/problems/maximum-vacation-days",
+    "Topics": "Array, Dynamic Programming, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Sliding Window Median",
+    "Frequency": "69.2",
+    "Acceptance Rate": "0.3863729124859699",
+    "Link": "https://leetcode.com/problems/sliding-window-median",
+    "Topics": "Array, Hash Table, Sliding Window, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "People Whose List of Favorite Companies Is Not a Subset of Another List",
+    "Frequency": "69.2",
+    "Acceptance Rate": "0.5917243245332612",
+    "Link": "https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list",
+    "Topics": "Array, Hash Table, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Add and Search Words Data Structure",
+    "Frequency": "65.6",
+    "Acceptance Rate": "0.46875597745854397",
+    "Link": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "Topics": "String, Depth-First Search, Design, Trie"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Binary Tree Maximum Path Sum",
+    "Frequency": "65.6",
+    "Acceptance Rate": "0.41118363864632185",
+    "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber",
+    "Frequency": "65.6",
+    "Acceptance Rate": "0.5218920912921238",
+    "Link": "https://leetcode.com/problems/house-robber",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Check If It Is a Straight Line",
+    "Frequency": "55.4",
+    "Acceptance Rate": "0.3966494545444349",
+    "Link": "https://leetcode.com/problems/check-if-it-is-a-straight-line",
+    "Topics": "Array, Math, Geometry"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber II",
+    "Frequency": "55.4",
+    "Acceptance Rate": "0.4340099281397676",
+    "Link": "https://leetcode.com/problems/house-robber-ii",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Binary Search Tree to Greater Sum Tree",
+    "Frequency": "47.3",
+    "Acceptance Rate": "0.8824200945419901",
+    "Link": "https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree",
+    "Topics": "Tree, Depth-First Search, Binary Search Tree, Binary Tree"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Greatest Common Divisor of Strings",
+    "Frequency": "47.3",
+    "Acceptance Rate": "0.526227885473252",
+    "Link": "https://leetcode.com/problems/greatest-common-divisor-of-strings",
+    "Topics": "Math, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find Words That Can Be Formed by Characters",
+    "Frequency": "47.3",
+    "Acceptance Rate": "0.7100410693826198",
+    "Link": "https://leetcode.com/problems/find-words-that-can-be-formed-by-characters",
+    "Topics": "Array, Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Odd String Difference",
+    "Frequency": "47.3",
+    "Acceptance Rate": "0.6092648216264838",
+    "Link": "https://leetcode.com/problems/odd-string-difference",
+    "Topics": "Array, Hash Table, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Unique Number of Occurrences",
+    "Frequency": "47.3",
+    "Acceptance Rate": "0.7821071522522868",
+    "Link": "https://leetcode.com/problems/unique-number-of-occurrences",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Path Sum",
+    "Frequency": "47.3",
+    "Acceptance Rate": "0.5278749305334531",
+    "Link": "https://leetcode.com/problems/path-sum",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+  }
+]

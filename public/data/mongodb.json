@@ -1,0 +1,106 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Word Break",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4813171092735824",
+    "Link": "https://leetcode.com/problems/word-break",
+    "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Interval",
+    "Frequency": "93.9",
+    "Acceptance Rate": "0.4327301373204747",
+    "Link": "https://leetcode.com/problems/insert-interval",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Web Crawler Multithreaded",
+    "Frequency": "93.9",
+    "Acceptance Rate": "0.49972857433670353",
+    "Link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "Topics": "Depth-First Search, Breadth-First Search, Concurrency"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Two Binary Trees",
+    "Frequency": "93.9",
+    "Acceptance Rate": "0.7866254279643137",
+    "Link": "https://leetcode.com/problems/merge-two-binary-trees",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Text Justification",
+    "Frequency": "93.9",
+    "Acceptance Rate": "0.4781196879999857",
+    "Link": "https://leetcode.com/problems/text-justification",
+    "Topics": "Array, String, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Intersection of Two Arrays",
+    "Frequency": "93.9",
+    "Acceptance Rate": "0.7630321086879367",
+    "Link": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "Topics": "Array, Hash Table, Two Pointers, Binary Search, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "86.0",
+    "Acceptance Rate": "0.4493691542889953",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Stock Price Fluctuation ",
+    "Frequency": "86.0",
+    "Acceptance Rate": "0.4798714104015216",
+    "Link": "https://leetcode.com/problems/stock-price-fluctuation",
+    "Topics": "Hash Table, Design, Heap (Priority Queue), Data Stream, Ordered Set"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Merge k Sorted Lists",
+    "Frequency": "86.0",
+    "Acceptance Rate": "0.5644316709792734",
+    "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Valid Sudoku",
+    "Frequency": "75.0",
+    "Acceptance Rate": "0.6206535329300849",
+    "Link": "https://leetcode.com/problems/valid-sudoku",
+    "Topics": "Array, Hash Table, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search in Rotated Sorted Array",
+    "Frequency": "75.0",
+    "Acceptance Rate": "0.42648704966434975",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Hit Counter",
+    "Frequency": "75.0",
+    "Acceptance Rate": "0.6913369047413036",
+    "Link": "https://leetcode.com/problems/design-hit-counter",
+    "Topics": "Array, Binary Search, Design, Queue, Data Stream"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Sliding Window Maximum",
+    "Frequency": "75.0",
+    "Acceptance Rate": "0.47465426842013714",
+    "Link": "https://leetcode.com/problems/sliding-window-maximum",
+    "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+  }
+]

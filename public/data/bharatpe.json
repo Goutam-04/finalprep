@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximal Square",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4855626277154477",
+    "Link": "https://leetcode.com/problems/maximal-square",
+    "Topics": "Array, Dynamic Programming, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Car Fleet",
+    "Frequency": "93.4",
+    "Acceptance Rate": "0.532789807292678",
+    "Link": "https://leetcode.com/problems/car-fleet",
+    "Topics": "Array, Stack, Sorting, Monotonic Stack"
+  }
+]

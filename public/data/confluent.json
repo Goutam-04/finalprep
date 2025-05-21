@@ -1,0 +1,98 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4493689575646951",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "93.2",
+    "Acceptance Rate": "0.4929497378781388",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Valid Sudoku",
+    "Frequency": "85.0",
+    "Acceptance Rate": "0.6206527269276307",
+    "Link": "https://leetcode.com/problems/valid-sudoku",
+    "Topics": "Array, Hash Table, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Time to Eat All Grains",
+    "Frequency": "85.0",
+    "Acceptance Rate": "0.3929612194575207",
+    "Link": "https://leetcode.com/problems/minimum-time-to-eat-all-grains",
+    "Topics": "Array, Two Pointers, Binary Search, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Sudoku Solver",
+    "Frequency": "77.7",
+    "Acceptance Rate": "0.6375743194940422",
+    "Link": "https://leetcode.com/problems/sudoku-solver",
+    "Topics": "Array, Hash Table, Backtracking, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Regular Expression Matching",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.29179851227810405",
+    "Link": "https://leetcode.com/problems/regular-expression-matching",
+    "Topics": "String, Dynamic Programming, Recursion"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Wildcard Matching",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.2968682734448992",
+    "Link": "https://leetcode.com/problems/wildcard-matching",
+    "Topics": "String, Dynamic Programming, Greedy, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Debounce",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.9180619878874243",
+    "Link": "https://leetcode.com/problems/debounce",
+    "Topics": ""
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Authentication Manager",
+    "Frequency": "66.4",
+    "Acceptance Rate": "0.5766618911174786",
+    "Link": "https://leetcode.com/problems/design-authentication-manager",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Count Subarrays With Median K",
+    "Frequency": "52.4",
+    "Acceptance Rate": "0.45181409295352326",
+    "Link": "https://leetcode.com/problems/count-subarrays-with-median-k",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Atoms",
+    "Frequency": "52.4",
+    "Acceptance Rate": "0.6500320140187703",
+    "Link": "https://leetcode.com/problems/number-of-atoms",
+    "Topics": "Hash Table, String, Stack, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Combination Sum",
+    "Frequency": "52.4",
+    "Acceptance Rate": "0.7439597067235959",
+    "Link": "https://leetcode.com/problems/combination-sum",
+    "Topics": "Array, Backtracking"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Strictly Increasing Subarrays",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7124655319958163",
+    "Link": "https://leetcode.com/problems/count-strictly-increasing-subarrays",
+    "Topics": "Array, Math, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Knight Dialer",
+    "Frequency": "86.5",
+    "Acceptance Rate": "0.6106986920732594",
+    "Link": "https://leetcode.com/problems/knight-dialer",
+    "Topics": "Dynamic Programming"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Earnings From Taxi",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.44754597633829213",
+    "Link": "https://leetcode.com/problems/maximum-earnings-from-taxi",
+    "Topics": "Array, Hash Table, Binary Search, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Asteroid Collision",
+    "Frequency": "76.1",
+    "Acceptance Rate": "0.45328712344638405",
+    "Link": "https://leetcode.com/problems/asteroid-collision",
+    "Topics": "Array, Stack, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.6481316777791186",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotting Oranges",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.5635860950173812",
+    "Link": "https://leetcode.com/problems/rotting-oranges",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.36840861293334987",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "First Missing Positive",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.4093511759364199",
+    "Link": "https://leetcode.com/problems/first-missing-positive",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Largest Rectangle in Histogram",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.4706838369357344",
+    "Link": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "Topics": "Array, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Deepest Leaves Sum",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.8631824817518248",
+    "Link": "https://leetcode.com/problems/deepest-leaves-sum",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Repeated Substring Pattern",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.4678533339422481",
+    "Link": "https://leetcode.com/problems/repeated-substring-pattern",
+    "Topics": "String, String Matching"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Largest Number",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.4111652360031932",
+    "Link": "https://leetcode.com/problems/largest-number",
+    "Topics": "Array, String, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "69.3",
+    "Acceptance Rate": "0.44937446577045614",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Time to Collect All Apples in a Tree",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.6291153225878306",
+    "Link": "https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree",
+    "Topics": "Hash Table, Tree, Depth-First Search, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Lowest Common Ancestor of a Binary Tree",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.6636689267182578",
+    "Link": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "Topics": "Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.7072452410134928",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximal Square",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.48555316324032183",
+    "Link": "https://leetcode.com/problems/maximal-square",
+    "Topics": "Array, Dynamic Programming, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Wiggle Sort",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.6816623283367741",
+    "Link": "https://leetcode.com/problems/wiggle-sort",
+    "Topics": "Array, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Flatten Binary Tree to Linked List",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.6820582362128902",
+    "Link": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "Topics": "Linked List, Stack, Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Target Sum",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.5058080616185305",
+    "Link": "https://leetcode.com/problems/target-sum",
+    "Topics": "Array, Dynamic Programming, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Moves to Equal Array Elements II",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.6088080498598216",
+    "Link": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii",
+    "Topics": "Array, Math, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.5554739559865289",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Container With Most Water",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.5757789647616767",
+    "Link": "https://leetcode.com/problems/container-with-most-water",
+    "Topics": "Array, Two Pointers, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.5506628893616212",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

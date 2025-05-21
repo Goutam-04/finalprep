@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Reformat Date",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6726669010508224",
+    "Link": "https://leetcode.com/problems/reformat-date",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "First Missing Positive",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.40935856761709116",
+    "Link": "https://leetcode.com/problems/first-missing-positive",
+    "Topics": "Array, Hash Table"
+  }
+]

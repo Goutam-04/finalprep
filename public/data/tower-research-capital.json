@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Unique Binary Search Trees",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6234004666534154",
+    "Link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "Topics": "Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Bricks Falling When Hit",
+    "Frequency": "71.4",
+    "Acceptance Rate": "0.3561171679463794",
+    "Link": "https://leetcode.com/problems/bricks-falling-when-hit",
+    "Topics": "Array, Union Find, Matrix"
+  }
+]

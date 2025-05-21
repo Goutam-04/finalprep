@@ -1,0 +1,74 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Median of Two Sorted Arrays",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4348892006091102",
+    "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "Topics": "Array, Binary Search, Divide and Conquer"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "79.3",
+    "Acceptance Rate": "0.3671677099893229",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "79.3",
+    "Acceptance Rate": "0.4526967644633389",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "79.3",
+    "Acceptance Rate": "0.5197366686296397",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Extra Characters in a String",
+    "Frequency": "79.3",
+    "Acceptance Rate": "0.5702468559087076",
+    "Link": "https://leetcode.com/problems/extra-characters-in-a-string",
+    "Topics": "Array, Hash Table, String, Dynamic Programming, Trie"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Check if Number Has Equal Digit Count and Digit Value",
+    "Frequency": "79.3",
+    "Acceptance Rate": "0.7234718655381571",
+    "Link": "https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Reverse Nodes in k-Group",
+    "Frequency": "79.3",
+    "Acceptance Rate": "0.6268124619622749",
+    "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Split Array Largest Sum",
+    "Frequency": "79.3",
+    "Acceptance Rate": "0.5776947383018345",
+    "Link": "https://leetcode.com/problems/split-array-largest-sum",
+    "Topics": "Array, Binary Search, Dynamic Programming, Greedy, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search in Rotated Sorted Array",
+    "Frequency": "79.3",
+    "Acceptance Rate": "0.426492690497375",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "Topics": "Array, Binary Search"
+  }
+]

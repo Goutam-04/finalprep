@@ -1,0 +1,114 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Happy Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5788842378169438",
+    "Link": "https://leetcode.com/problems/happy-number",
+    "Topics": "Hash Table, Math, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Jump Game",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.39330183320045736",
+    "Link": "https://leetcode.com/problems/jump-game",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find Original Array From Doubled Array",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.40443956204093184",
+    "Link": "https://leetcode.com/problems/find-original-array-from-doubled-array",
+    "Topics": "Array, Hash Table, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Guess the Word",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.37768112417047595",
+    "Link": "https://leetcode.com/problems/guess-the-word",
+    "Topics": "Array, Math, String, Interactive, Game Theory"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest String Chain",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.6185677253845411",
+    "Link": "https://leetcode.com/problems/longest-string-chain",
+    "Topics": "Array, Hash Table, Two Pointers, String, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Area Rectangle II",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.5555405815167953",
+    "Link": "https://leetcode.com/problems/minimum-area-rectangle-ii",
+    "Topics": "Array, Math, Geometry"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find All Possible Recipes from Given Supplies",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.5643003882819123",
+    "Link": "https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies",
+    "Topics": "Array, Hash Table, String, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.7072449171207925",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Knight Moves",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.41263789574574067",
+    "Link": "https://leetcode.com/problems/minimum-knight-moves",
+    "Topics": "Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Kth Largest Element in an Array",
+    "Frequency": "92.3",
+    "Acceptance Rate": "0.6783420872313958",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Needed to Inform All Employees",
+    "Frequency": "81.4",
+    "Acceptance Rate": "0.6020706978191427",
+    "Link": "https://leetcode.com/problems/time-needed-to-inform-all-employees",
+    "Topics": "Tree, Depth-First Search, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Common Subsequence",
+    "Frequency": "81.4",
+    "Acceptance Rate": "0.5815534203445897",
+    "Link": "https://leetcode.com/problems/longest-common-subsequence",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Video Stitching",
+    "Frequency": "81.4",
+    "Acceptance Rate": "0.5192293550996396",
+    "Link": "https://leetcode.com/problems/video-stitching",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Area Rectangle",
+    "Frequency": "81.4",
+    "Acceptance Rate": "0.5494556595901864",
+    "Link": "https://leetcode.com/problems/minimum-area-rectangle",
+    "Topics": "Array, Hash Table, Math, Geometry, Sorting"
+  }
+]

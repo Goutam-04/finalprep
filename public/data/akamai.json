@@ -1,0 +1,82 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "N-Repeated Element in Size 2N Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7739476084973282",
+    "Link": "https://leetcode.com/problems/n-repeated-element-in-size-2n-array",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "78.9",
+    "Acceptance Rate": "0.5506636524503761",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Remove Duplicates from Sorted Array",
+    "Frequency": "72.3",
+    "Acceptance Rate": "0.600499099265986",
+    "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "63.0",
+    "Acceptance Rate": "0.5554744039605964",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Median of Two Sorted Arrays",
+    "Frequency": "63.0",
+    "Acceptance Rate": "0.43488921752586585",
+    "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "Topics": "Array, Binary Search, Divide and Conquer"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Add Two Numbers II",
+    "Frequency": "63.0",
+    "Acceptance Rate": "0.6167871382757926",
+    "Link": "https://leetcode.com/problems/add-two-numbers-ii",
+    "Topics": "Linked List, Math, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Min Stack",
+    "Frequency": "63.0",
+    "Acceptance Rate": "0.5623449535472753",
+    "Link": "https://leetcode.com/problems/min-stack",
+    "Topics": "Stack, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Construct Binary Search Tree from Preorder Traversal",
+    "Frequency": "63.0",
+    "Acceptance Rate": "0.8313863124525372",
+    "Link": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal",
+    "Topics": "Array, Stack, Tree, Binary Search Tree, Monotonic Stack, Binary Tree"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Palindrome",
+    "Frequency": "63.0",
+    "Acceptance Rate": "0.555162360009031",
+    "Link": "https://leetcode.com/problems/longest-palindrome",
+    "Topics": "Hash Table, String, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Pairs of Songs With Total Durations Divisible by 60",
+    "Frequency": "63.0",
+    "Acceptance Rate": "0.5322423846815729",
+    "Link": "https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60",
+    "Topics": "Array, Hash Table, Counting"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Container With Most Water",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5758006504646022",
+    "Link": "https://leetcode.com/problems/container-with-most-water",
+    "Topics": "Array, Two Pointers, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.550674068797012",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Burst Balloons",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6099490165506488",
+    "Link": "https://leetcode.com/problems/burst-balloons",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

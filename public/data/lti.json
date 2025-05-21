@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum White Tiles Covered by a Carpet",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3483252561741089",
+    "Link": "https://leetcode.com/problems/maximum-white-tiles-covered-by-a-carpet",
+    "Topics": "Array, Binary Search, Greedy, Sliding Window, Sorting, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reverse Integer",
+    "Frequency": "88.9",
+    "Acceptance Rate": "0.3013973413525038",
+    "Link": "https://leetcode.com/problems/reverse-integer",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Closest Subsequence Sum",
+    "Frequency": "88.9",
+    "Acceptance Rate": "0.4138800570112926",
+    "Link": "https://leetcode.com/problems/closest-subsequence-sum",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Bit Manipulation, Sorting, Bitmask"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Zero Request Servers",
+    "Frequency": "88.9",
+    "Acceptance Rate": "0.3299015386919247",
+    "Link": "https://leetcode.com/problems/count-zero-request-servers",
+    "Topics": "Array, Hash Table, Sliding Window, Sorting"
+  }
+]

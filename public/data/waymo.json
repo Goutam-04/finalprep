@@ -1,0 +1,74 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Max Points on a Line",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.28776474860230267",
+    "Link": "https://leetcode.com/problems/max-points-on-a-line",
+    "Topics": "Array, Hash Table, Math, Geometry"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "77.7",
+    "Acceptance Rate": "0.6206910054049053",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Shortest Distance from All Buildings",
+    "Frequency": "71.3",
+    "Acceptance Rate": "0.4424767564124379",
+    "Link": "https://leetcode.com/problems/shortest-distance-from-all-buildings",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Knight Moves",
+    "Frequency": "71.3",
+    "Acceptance Rate": "0.41261960578782236",
+    "Link": "https://leetcode.com/problems/minimum-knight-moves",
+    "Topics": "Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Possible Bipartition",
+    "Frequency": "62.4",
+    "Acceptance Rate": "0.5140137251528344",
+    "Link": "https://leetcode.com/problems/possible-bipartition",
+    "Topics": "Depth-First Search, Breadth-First Search, Union Find, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Valid Sudoku",
+    "Frequency": "62.4",
+    "Acceptance Rate": "0.6206527269276307",
+    "Link": "https://leetcode.com/problems/valid-sudoku",
+    "Topics": "Array, Hash Table, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Divide Array in Sets of K Consecutive Numbers",
+    "Frequency": "62.4",
+    "Acceptance Rate": "0.5861106993880619",
+    "Link": "https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers",
+    "Topics": "Array, Hash Table, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Tic-Tac-Toe",
+    "Frequency": "62.4",
+    "Acceptance Rate": "0.5855436941051776",
+    "Link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "Topics": "Array, Hash Table, Design, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find Peak Element",
+    "Frequency": "62.4",
+    "Acceptance Rate": "0.46464960285720514",
+    "Link": "https://leetcode.com/problems/find-peak-element",
+    "Topics": "Array, Binary Search"
+  }
+]

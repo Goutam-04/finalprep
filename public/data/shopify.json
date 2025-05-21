@@ -1,0 +1,66 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Walking Robot Simulation",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.58186435130401",
+    "Link": "https://leetcode.com/problems/walking-robot-simulation",
+    "Topics": "Array, Hash Table, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "86.1",
+    "Acceptance Rate": "0.4493687102806401",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Design In-Memory File System",
+    "Frequency": "61.7",
+    "Acceptance Rate": "0.4812197356366968",
+    "Link": "https://leetcode.com/problems/design-in-memory-file-system",
+    "Topics": "Hash Table, String, Design, Trie, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Encode and Decode TinyURL",
+    "Frequency": "61.7",
+    "Acceptance Rate": "0.8631488423640845",
+    "Link": "https://leetcode.com/problems/encode-and-decode-tinyurl",
+    "Topics": "Hash Table, String, Design, Hash Function"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Design a Text Editor",
+    "Frequency": "54.1",
+    "Acceptance Rate": "0.46934753191739714",
+    "Link": "https://leetcode.com/problems/design-a-text-editor",
+    "Topics": "Linked List, String, Stack, Design, Simulation, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find Users With Valid E-Mails",
+    "Frequency": "54.1",
+    "Acceptance Rate": "0.44445460928025876",
+    "Link": "https://leetcode.com/problems/find-users-with-valid-e-mails",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Tic-Tac-Toe",
+    "Frequency": "54.1",
+    "Acceptance Rate": "0.5855436941051776",
+    "Link": "https://leetcode.com/problems/design-tic-tac-toe",
+    "Topics": "Array, Hash Table, Design, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Walls and Gates",
+    "Frequency": "54.1",
+    "Acceptance Rate": "0.6281712271656695",
+    "Link": "https://leetcode.com/problems/walls-and-gates",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  }
+]

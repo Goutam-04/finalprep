@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Strong Password Checker",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.1452557888743964",
+    "Link": "https://leetcode.com/problems/strong-password-checker",
+    "Topics": "String, Greedy, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Words in a String III",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8361730663738817",
+    "Link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+    "Topics": "Two Pointers, String"
+  }
+]

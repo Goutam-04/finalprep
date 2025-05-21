@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Vowels of a String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5779186517911088",
+    "Link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.421613123726081",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  }
+]

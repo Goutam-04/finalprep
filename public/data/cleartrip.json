@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Word Break",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.481324287670611",
+    "Link": "https://leetcode.com/problems/word-break",
+    "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Destination City",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7943150029397884",
+    "Link": "https://leetcode.com/problems/destination-city",
+    "Topics": "Array, Hash Table, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5219017150547425",
+    "Link": "https://leetcode.com/problems/house-robber",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Cost to Make at Least One Valid Path in a Grid",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7068307350085773",
+    "Link": "https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid",
+    "Topics": "Array, Breadth-First Search, Graph, Heap (Priority Queue), Matrix, Shortest Path"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rabbits in Forest",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5830575093090609",
+    "Link": "https://leetcode.com/problems/rabbits-in-forest",
+    "Topics": "Array, Hash Table, Math, Greedy"
+  }
+]

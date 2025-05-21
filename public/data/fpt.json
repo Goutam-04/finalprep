@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find Three Consecutive Integers That Sum to a Given Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6457578121415133",
+    "Link": "https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number",
+    "Topics": "Math, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "66.9",
+    "Acceptance Rate": "0.5554795266247659",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  }
+]

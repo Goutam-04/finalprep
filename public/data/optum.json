@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Prefix of Word",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8640420953963486",
+    "Link": "https://leetcode.com/problems/reverse-prefix-of-word",
+    "Topics": "Two Pointers, String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Bank Account Summary",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5190364603018621",
+    "Link": "https://leetcode.com/problems/bank-account-summary",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "64.4",
+    "Acceptance Rate": "0.36717084019523455",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Common Subsequence",
+    "Frequency": "64.4",
+    "Acceptance Rate": "0.5815534203445897",
+    "Link": "https://leetcode.com/problems/longest-common-subsequence",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Sort Colors",
+    "Frequency": "64.4",
+    "Acceptance Rate": "0.6683404460614937",
+    "Link": "https://leetcode.com/problems/sort-colors",
+    "Topics": "Array, Two Pointers, Sorting"
+  }
+]

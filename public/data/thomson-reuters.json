@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Of All Vowels in Order",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5030002709922187",
+    "Link": "https://leetcode.com/problems/longest-substring-of-all-vowels-in-order",
+    "Topics": "String, Sliding Window"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Time to Type Word Using Special Typewriter",
+    "Frequency": "98.1",
+    "Acceptance Rate": "0.773513869653494",
+    "Link": "https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter",
+    "Topics": "String, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Roman to Integer",
+    "Frequency": "65.3",
+    "Acceptance Rate": "0.6462303353788541",
+    "Link": "https://leetcode.com/problems/roman-to-integer",
+    "Topics": "Hash Table, Math, String"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "The Number of Good Subsets",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3581362486984977",
+    "Link": "https://leetcode.com/problems/the-number-of-good-subsets",
+    "Topics": "Array, Math, Dynamic Programming, Bit Manipulation, Bitmask"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Groups of Strings",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.26545965193841214",
+    "Link": "https://leetcode.com/problems/groups-of-strings",
+    "Topics": "String, Bit Manipulation, Union Find"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find the Original Typed String I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5656146475260927",
+    "Link": "https://leetcode.com/problems/find-the-original-typed-string-i",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Operations to Make Array Values Equal to K",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7347088558820561",
+    "Link": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "64.9",
+    "Acceptance Rate": "0.5197404654471568",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  }
+]

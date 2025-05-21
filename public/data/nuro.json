@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subrectangle Queries",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8592360952815136",
+    "Link": "https://leetcode.com/problems/subrectangle-queries",
+    "Topics": "Array, Design, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Number of Visible Points",
+    "Frequency": "92.2",
+    "Acceptance Rate": "0.3759000782150834",
+    "Link": "https://leetcode.com/problems/maximum-number-of-visible-points",
+    "Topics": "Array, Math, Geometry, Sliding Window, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Shortest Path in a Grid with Obstacles Elimination",
+    "Frequency": "73.8",
+    "Acceptance Rate": "0.45533039748181586",
+    "Link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Evaluate Division",
+    "Frequency": "73.8",
+    "Acceptance Rate": "0.6298827098701412",
+    "Link": "https://leetcode.com/problems/evaluate-division",
+    "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Interleaving String",
+    "Frequency": "65.0",
+    "Acceptance Rate": "0.42013563858904246",
+    "Link": "https://leetcode.com/problems/interleaving-string",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Moving Average from Data Stream",
+    "Frequency": "65.0",
+    "Acceptance Rate": "0.7985287539142104",
+    "Link": "https://leetcode.com/problems/moving-average-from-data-stream",
+    "Topics": "Array, Design, Queue, Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Interval List Intersections",
+    "Frequency": "65.0",
+    "Acceptance Rate": "0.7260170588639645",
+    "Link": "https://leetcode.com/problems/interval-list-intersections",
+    "Topics": "Array, Two Pointers, Line Sweep"
+  }
+]

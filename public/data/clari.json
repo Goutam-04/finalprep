@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Create Binary Tree From Descriptions",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8163022801568723",
+    "Link": "https://leetcode.com/problems/create-binary-tree-from-descriptions",
+    "Topics": "Array, Hash Table, Tree, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Employees of the Same Salary",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6654503552909545",
+    "Link": "https://leetcode.com/problems/group-employees-of-the-same-salary",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Unique Binary Search Trees",
+    "Frequency": "85.7",
+    "Acceptance Rate": "0.62340485720106",
+    "Link": "https://leetcode.com/problems/unique-binary-search-trees",
+    "Topics": "Math, Dynamic Programming, Tree, Binary Search Tree, Binary Tree"
+  }
+]

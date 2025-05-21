@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Moves to Spread Stones Over Grid",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4414550150667241",
+    "Link": "https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid",
+    "Topics": "Array, Dynamic Programming, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Operations to Sort a Binary Tree by Level",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7427955588206756",
+    "Link": "https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level",
+    "Topics": "Tree, Breadth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Construct the Longest New String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5368514553819523",
+    "Link": "https://leetcode.com/problems/construct-the-longest-new-string",
+    "Topics": "Math, Dynamic Programming, Greedy, Brainteaser"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Get Watched Videos by Your Friends",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.4951549624214159",
+    "Link": "https://leetcode.com/problems/get-watched-videos-by-your-friends",
+    "Topics": "Array, Hash Table, Breadth-First Search, Graph, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Kth Largest Element in an Array",
+    "Frequency": "89.4",
+    "Acceptance Rate": "0.6783445693842913",
+    "Link": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "Topics": "Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect"
+  }
+]

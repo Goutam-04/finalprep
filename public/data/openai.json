@@ -1,0 +1,90 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design SQL",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.706932883784638",
+    "Link": "https://leetcode.com/problems/design-sql",
+    "Topics": "Array, Hash Table, String, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Flatten Nested List Iterator",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.6516974806734883",
+    "Link": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "Topics": "Stack, Tree, Depth-First Search, Design, Queue, Iterator"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Design Excel Sum Formula",
+    "Frequency": "77.1",
+    "Acceptance Rate": "0.43163697901219483",
+    "Link": "https://leetcode.com/problems/design-excel-sum-formula",
+    "Topics": "Array, Hash Table, String, Graph, Design, Topological Sort, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Web Crawler Multithreaded",
+    "Frequency": "69.0",
+    "Acceptance Rate": "0.49972857433670353",
+    "Link": "https://leetcode.com/problems/web-crawler-multithreaded",
+    "Topics": "Depth-First Search, Breadth-First Search, Concurrency"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "69.0",
+    "Acceptance Rate": "0.49294801402067745",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Simplify Path",
+    "Frequency": "55.3",
+    "Acceptance Rate": "0.4744201101792895",
+    "Link": "https://leetcode.com/problems/simplify-path",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Flood Fill",
+    "Frequency": "55.3",
+    "Acceptance Rate": "0.6619568628320184",
+    "Link": "https://leetcode.com/problems/flood-fill",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Encode and Decode Strings",
+    "Frequency": "55.3",
+    "Acceptance Rate": "0.4943988268654046",
+    "Link": "https://leetcode.com/problems/encode-and-decode-strings",
+    "Topics": "Array, String, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Memory Allocator",
+    "Frequency": "55.3",
+    "Acceptance Rate": "0.4825474586650337",
+    "Link": "https://leetcode.com/problems/design-memory-allocator",
+    "Topics": "Array, Hash Table, Design, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Largest Local Values in a Matrix",
+    "Frequency": "55.3",
+    "Acceptance Rate": "0.877645839086474",
+    "Link": "https://leetcode.com/problems/largest-local-values-in-a-matrix",
+    "Topics": "Array, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Asteroid Collision",
+    "Frequency": "55.3",
+    "Acceptance Rate": "0.4532791828136865",
+    "Link": "https://leetcode.com/problems/asteroid-collision",
+    "Topics": "Array, Stack, Simulation"
+  }
+]

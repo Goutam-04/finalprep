@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Find Edges in Shortest Paths",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.45410831279677827",
+    "Link": "https://leetcode.com/problems/find-edges-in-shortest-paths",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximize Greatness of an Array",
+    "Frequency": "85.4",
+    "Acceptance Rate": "0.5817020965204347",
+    "Link": "https://leetcode.com/problems/maximize-greatness-of-an-array",
+    "Topics": "Array, Two Pointers, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximum Profit in Job Scheduling",
+    "Frequency": "80.7",
+    "Acceptance Rate": "0.5438699929429222",
+    "Link": "https://leetcode.com/problems/maximum-profit-in-job-scheduling",
+    "Topics": "Array, Binary Search, Dynamic Programming, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Longest Increasing Path in a Matrix",
+    "Frequency": "74.6",
+    "Acceptance Rate": "0.5517958911542431",
+    "Link": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "Topics": "Array, Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Topological Sort, Memoization, Matrix"
+  }
+]

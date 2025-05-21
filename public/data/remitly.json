@@ -1,0 +1,50 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Isomorphic Strings",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.46684575340591733",
+    "Link": "https://leetcode.com/problems/isomorphic-strings",
+    "Topics": "Hash Table, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Task Scheduler II",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.5390729680012718",
+    "Link": "https://leetcode.com/problems/task-scheduler-ii",
+    "Topics": "Array, Hash Table, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Design Search Autocomplete System",
+    "Frequency": "61.9",
+    "Acceptance Rate": "0.4934825051680576",
+    "Link": "https://leetcode.com/problems/design-search-autocomplete-system",
+    "Topics": "String, Depth-First Search, Design, Trie, Sorting, Heap (Priority Queue), Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Task Scheduler",
+    "Frequency": "61.9",
+    "Acceptance Rate": "0.6133061720508846",
+    "Link": "https://leetcode.com/problems/task-scheduler",
+    "Topics": "Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "61.9",
+    "Acceptance Rate": "0.5506646277032219",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Random Pick with Weight",
+    "Frequency": "61.9",
+    "Acceptance Rate": "0.4815827095122897",
+    "Link": "https://leetcode.com/problems/random-pick-with-weight",
+    "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+  }
+]

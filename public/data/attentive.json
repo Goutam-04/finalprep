@@ -1,0 +1,74 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Remove All Adjacent Duplicates in String II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5942563367817787",
+    "Link": "https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Parse Lisp Expression",
+    "Frequency": "94.1",
+    "Acceptance Rate": "0.5255875060922633",
+    "Link": "https://leetcode.com/problems/parse-lisp-expression",
+    "Topics": "Hash Table, String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Palindrome II",
+    "Frequency": "74.4",
+    "Acceptance Rate": "0.4285883545680861",
+    "Link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "Topics": "Two Pointers, String, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find Pivot Index",
+    "Frequency": "64.6",
+    "Acceptance Rate": "0.6035906694515136",
+    "Link": "https://leetcode.com/problems/find-pivot-index",
+    "Topics": "Array, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Valid Sudoku",
+    "Frequency": "56.9",
+    "Acceptance Rate": "0.6206625429952581",
+    "Link": "https://leetcode.com/problems/valid-sudoku",
+    "Topics": "Array, Hash Table, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Integer to English Words",
+    "Frequency": "56.9",
+    "Acceptance Rate": "0.34308107539074045",
+    "Link": "https://leetcode.com/problems/integer-to-english-words",
+    "Topics": "Math, String, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Evaluate Reverse Polish Notation",
+    "Frequency": "56.9",
+    "Acceptance Rate": "0.5463245587039589",
+    "Link": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "Topics": "Array, Math, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Top K Frequent Words",
+    "Frequency": "56.9",
+    "Acceptance Rate": "0.5915610610814556",
+    "Link": "https://leetcode.com/problems/top-k-frequent-words",
+    "Topics": "Array, Hash Table, String, Trie, Sorting, Heap (Priority Queue), Bucket Sort, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find First and Last Position of Element in Sorted Array",
+    "Frequency": "56.9",
+    "Acceptance Rate": "0.46569313119259836",
+    "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "Topics": "Array, Binary Search"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Sorted Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5267886508592632",
+    "Link": "https://leetcode.com/problems/merge-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Two Sorted Lists",
+    "Frequency": "93.0",
+    "Acceptance Rate": "0.666531571236899",
+    "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Number of Occurrences of a Substring",
+    "Frequency": "84.8",
+    "Acceptance Rate": "0.5322898215792554",
+    "Link": "https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "84.8",
+    "Acceptance Rate": "0.49193463605661203",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "82.1",
+    "Acceptance Rate": "0.5554659777682821",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Meeting Rooms II",
+    "Frequency": "70.9",
+    "Acceptance Rate": "0.5207967692162988",
+    "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Top K Frequent Elements",
+    "Frequency": "57.0",
+    "Acceptance Rate": "0.6438811234016775",
+    "Link": "https://leetcode.com/problems/top-k-frequent-elements",
+    "Topics": "Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Merge k Sorted Lists",
+    "Frequency": "57.0",
+    "Acceptance Rate": "0.564431471816618",
+    "Link": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "Topics": "Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Find the K-Sum of an Array",
+    "Frequency": "57.0",
+    "Acceptance Rate": "0.3948763250883392",
+    "Link": "https://leetcode.com/problems/find-the-k-sum-of-an-array",
+    "Topics": "Array, Sorting, Heap (Priority Queue)"
+  }
+]

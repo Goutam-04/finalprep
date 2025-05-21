@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Score After Flipping Matrix",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8022567270786725",
+    "Link": "https://leetcode.com/problems/score-after-flipping-matrix",
+    "Topics": "Array, Greedy, Bit Manipulation, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find the Index of the First Occurrence in a String",
+    "Frequency": "68.5",
+    "Acceptance Rate": "0.44794735203896946",
+    "Link": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "Topics": "Two Pointers, String, String Matching"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.49295127040315484",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Check if Every Row and Column Contains All Numbers",
+    "Frequency": "93.6",
+    "Acceptance Rate": "0.5270101298315",
+    "Link": "https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers",
+    "Topics": "Array, Hash Table, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Wildcard Matching",
+    "Frequency": "66.6",
+    "Acceptance Rate": "0.2968719353647827",
+    "Link": "https://leetcode.com/problems/wildcard-matching",
+    "Topics": "String, Dynamic Programming, Greedy, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find First and Last Position of Element in Sorted Array",
+    "Frequency": "66.6",
+    "Acceptance Rate": "0.46567853270018555",
+    "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Valid Sudoku",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.6206574872314563",
+    "Link": "https://leetcode.com/problems/valid-sudoku",
+    "Topics": "Array, Hash Table, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Best Time to Buy and Sell Stock II",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.6926593042216683",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.49194185482980296",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Best Time to Buy and Sell Stock with Cooldown",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.6012200634775616",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Non-overlapping Intervals",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.5528522697003806",
+    "Link": "https://leetcode.com/problems/non-overlapping-intervals",
+    "Topics": "Array, Dynamic Programming, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Basic Calculator II",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.4562853124604245",
+    "Link": "https://leetcode.com/problems/basic-calculator-ii",
+    "Topics": "Math, String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Search Insert Position",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.4876169750574182",
+    "Link": "https://leetcode.com/problems/search-insert-position",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.5506629375861852",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.4493745627680997",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Number of Events That Can Be Attended",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.3287339454105094",
+    "Link": "https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended",
+    "Topics": "Array, Greedy, Sorting, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Arrows to Burst Balloons",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.6027425927059754",
+    "Link": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+    "Topics": "Array, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Valid Number",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.21411045978264054",
+    "Link": "https://leetcode.com/problems/valid-number",
+    "Topics": "String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Squares of a Sorted Array",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.7317577187108149",
+    "Link": "https://leetcode.com/problems/squares-of-a-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Word Search II",
+    "Frequency": "58.2",
+    "Acceptance Rate": "0.37200259759413307",
+    "Link": "https://leetcode.com/problems/word-search-ii",
+    "Topics": "Array, String, Backtracking, Trie, Matrix"
+  }
+]

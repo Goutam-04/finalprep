@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.648143519759729",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Deletions to Make String Balanced",
+    "Frequency": "90.1",
+    "Acceptance Rate": "0.6558381927544883",
+    "Link": "https://leetcode.com/problems/minimum-deletions-to-make-string-balanced",
+    "Topics": "String, Dynamic Programming, Stack"
+  }
+]

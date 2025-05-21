@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Redistribute Characters to Make All Strings Equal",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6677880833551839",
+    "Link": "https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal",
+    "Topics": "Hash Table, String, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode Ways",
+    "Frequency": "68.5",
+    "Acceptance Rate": "0.36381909395810824",
+    "Link": "https://leetcode.com/problems/decode-ways",
+    "Topics": "String, Dynamic Programming"
+  }
+]

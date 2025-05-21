@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Three Equal Parts",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.40623610218905964",
+    "Link": "https://leetcode.com/problems/three-equal-parts",
+    "Topics": "Array, Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "66.6",
+    "Acceptance Rate": "0.6207108798296079",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Binary Tree Maximum Path Sum",
+    "Frequency": "66.6",
+    "Acceptance Rate": "0.41118375845968513",
+    "Link": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+  }
+]

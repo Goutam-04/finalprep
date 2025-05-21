@@ -1,0 +1,42 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Scramble String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42023065909839596",
+    "Link": "https://leetcode.com/problems/scramble-string",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Spiral Matrix",
+    "Frequency": "72.2",
+    "Acceptance Rate": "0.5357609966476942",
+    "Link": "https://leetcode.com/problems/spiral-matrix",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Majority Element II",
+    "Frequency": "58.9",
+    "Acceptance Rate": "0.5410231928050302",
+    "Link": "https://leetcode.com/problems/majority-element-ii",
+    "Topics": "Array, Hash Table, Sorting, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Great Partitions",
+    "Frequency": "58.9",
+    "Acceptance Rate": "0.3224659498207885",
+    "Link": "https://leetcode.com/problems/number-of-great-partitions",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Size Subarray Sum",
+    "Frequency": "58.9",
+    "Acceptance Rate": "0.4915420384911291",
+    "Link": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+  }
+]

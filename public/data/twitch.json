@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Create a Session Bar Chart",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7499926068312878",
+    "Link": "https://leetcode.com/problems/create-a-session-bar-chart",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design a File Sharing System",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.41646317447814096",
+    "Link": "https://leetcode.com/problems/design-a-file-sharing-system",
+    "Topics": "Hash Table, Design, Sorting, Heap (Priority Queue), Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Toss Strange Coins",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5814568496020109",
+    "Link": "https://leetcode.com/problems/toss-strange-coins",
+    "Topics": "Array, Math, Dynamic Programming, Probability and Statistics"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "92.1",
+    "Acceptance Rate": "0.44937461875552304",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Vowels of a String",
+    "Frequency": "64.5",
+    "Acceptance Rate": "0.5778978195520282",
+    "Link": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Letter Combinations of a Phone Number",
+    "Frequency": "64.5",
+    "Acceptance Rate": "0.6359966758586124",
+    "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "Topics": "Hash Table, String, Backtracking"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Unique Email Addresses",
+    "Frequency": "64.5",
+    "Acceptance Rate": "0.6754582517979648",
+    "Link": "https://leetcode.com/problems/unique-email-addresses",
+    "Topics": "Array, Hash Table, String"
+  }
+]

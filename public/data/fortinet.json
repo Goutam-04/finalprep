@@ -1,0 +1,34 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Percentage of Users Attended a Contest",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5873640244037295",
+    "Link": "https://leetcode.com/problems/percentage-of-users-attended-a-contest",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Number of Ways to Paint N × 3 Grid",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6426256765239816",
+    "Link": "https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid",
+    "Topics": "Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Palindrome II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.42857469863187075",
+    "Link": "https://leetcode.com/problems/valid-palindrome-ii",
+    "Topics": "Two Pointers, String, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Construct String With Repeat Limit",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7088902885669629",
+    "Link": "https://leetcode.com/problems/construct-string-with-repeat-limit",
+    "Topics": "Hash Table, String, Greedy, Heap (Priority Queue), Counting"
+  }
+]

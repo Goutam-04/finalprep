@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3684131018822081",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Container With Most Water",
+    "Frequency": "88.7",
+    "Acceptance Rate": "0.575788344158309",
+    "Link": "https://leetcode.com/problems/container-with-most-water",
+    "Topics": "Array, Two Pointers, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Middle of the Linked List",
+    "Frequency": "88.7",
+    "Acceptance Rate": "0.8039955703123735",
+    "Link": "https://leetcode.com/problems/middle-of-the-linked-list",
+    "Topics": "Linked List, Two Pointers"
+  }
+]

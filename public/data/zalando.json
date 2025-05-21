@@ -1,0 +1,50 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "String Without AAA or BBB",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4446987589990828",
+    "Link": "https://leetcode.com/problems/string-without-aaa-or-bbb",
+    "Topics": "String, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "70.3",
+    "Acceptance Rate": "0.4493736227611539",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Lemonade Change",
+    "Frequency": "70.3",
+    "Acceptance Rate": "0.5836849990430116",
+    "Link": "https://leetcode.com/problems/lemonade-change",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Construct the Longest New String",
+    "Frequency": "62.2",
+    "Acceptance Rate": "0.5368514553819523",
+    "Link": "https://leetcode.com/problems/construct-the-longest-new-string",
+    "Topics": "Math, Dynamic Programming, Greedy, Brainteaser"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Merge Intervals",
+    "Frequency": "62.2",
+    "Acceptance Rate": "0.49194310616534465",
+    "Link": "https://leetcode.com/problems/merge-intervals",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Largest Number",
+    "Frequency": "62.2",
+    "Acceptance Rate": "0.41116635823456",
+    "Link": "https://leetcode.com/problems/largest-number",
+    "Topics": "Array, String, Greedy, Sorting"
+  }
+]

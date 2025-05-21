@@ -1,0 +1,90 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Longest Cycle in a Graph",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4977053784580817",
+    "Link": "https://leetcode.com/problems/longest-cycle-in-a-graph",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Operations on Tree",
+    "Frequency": "98.8",
+    "Acceptance Rate": "0.4310063386402663",
+    "Link": "https://leetcode.com/problems/operations-on-tree",
+    "Topics": "Array, Hash Table, Tree, Depth-First Search, Breadth-First Search, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find Closest Node to Given Two Nodes",
+    "Frequency": "94.7",
+    "Acceptance Rate": "0.4574914587265349",
+    "Link": "https://leetcode.com/problems/find-closest-node-to-given-two-nodes",
+    "Topics": "Depth-First Search, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Node With Highest Edge Score",
+    "Frequency": "89.6",
+    "Acceptance Rate": "0.48375163831012136",
+    "Link": "https://leetcode.com/problems/node-with-highest-edge-score",
+    "Topics": "Hash Table, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Subsequence With Decreasing Adjacent Difference",
+    "Frequency": "87.6",
+    "Acceptance Rate": "0.14288104400200768",
+    "Link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Set Matrix Zeroes",
+    "Frequency": "68.2",
+    "Acceptance Rate": "0.5949912786987535",
+    "Link": "https://leetcode.com/problems/set-matrix-zeroes",
+    "Topics": "Array, Hash Table, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "62.1",
+    "Acceptance Rate": "0.3671675308569984",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Largest Color Value in a Directed Graph",
+    "Frequency": "62.1",
+    "Acceptance Rate": "0.49462645693484286",
+    "Link": "https://leetcode.com/problems/largest-color-value-in-a-directed-graph",
+    "Topics": "Hash Table, Dynamic Programming, Graph, Topological Sort, Memoization, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Shortest Path in a Weighted Tree",
+    "Frequency": "62.1",
+    "Acceptance Rate": "0.3079837618403248",
+    "Link": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+    "Topics": "Array, Tree, Depth-First Search, Binary Indexed Tree, Segment Tree"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Sliding Window Maximum",
+    "Frequency": "62.1",
+    "Acceptance Rate": "0.47465451933076624",
+    "Link": "https://leetcode.com/problems/sliding-window-maximum",
+    "Topics": "Array, Queue, Sliding Window, Heap (Priority Queue), Monotonic Queue"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Word Ladder",
+    "Frequency": "53.5",
+    "Acceptance Rate": "0.42457086006791406",
+    "Link": "https://leetcode.com/problems/word-ladder",
+    "Topics": "Hash Table, String, Breadth-First Search"
+  }
+]

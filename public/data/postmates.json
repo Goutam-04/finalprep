@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Determine if Two Strings Are Close",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5409780967843003",
+    "Link": "https://leetcode.com/problems/determine-if-two-strings-are-close",
+    "Topics": "Hash Table, String, Sorting, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Most Beautiful Item for Each Query",
+    "Frequency": "98.1",
+    "Acceptance Rate": "0.6204537270435722",
+    "Link": "https://leetcode.com/problems/most-beautiful-item-for-each-query",
+    "Topics": "Array, Binary Search, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find the K-Beauty of a Number",
+    "Frequency": "98.1",
+    "Acceptance Rate": "0.6151964619553132",
+    "Link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number",
+    "Topics": "Math, String, Sliding Window"
+  }
+]

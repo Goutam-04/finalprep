@@ -1,0 +1,170 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Count Visited Nodes in a Directed Graph",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.28728733459357275",
+    "Link": "https://leetcode.com/problems/count-visited-nodes-in-a-directed-graph",
+    "Topics": "Dynamic Programming, Graph, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts",
+    "Frequency": "97.7",
+    "Acceptance Rate": "0.4120133113872737",
+    "Link": "https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts",
+    "Topics": "Array, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Sum of Distances",
+    "Frequency": "97.7",
+    "Acceptance Rate": "0.31112896329217254",
+    "Link": "https://leetcode.com/problems/sum-of-distances",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimize Length of Array Using Operations",
+    "Frequency": "97.7",
+    "Acceptance Rate": "0.34712867777383904",
+    "Link": "https://leetcode.com/problems/minimize-length-of-array-using-operations",
+    "Topics": "Array, Math, Greedy, Number Theory"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "75.5",
+    "Acceptance Rate": "0.7072454860503709",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Number of Taps to Open to Water a Garden",
+    "Frequency": "75.5",
+    "Acceptance Rate": "0.5070426000850666",
+    "Link": "https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden",
+    "Topics": "Array, Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Palindromic Substrings",
+    "Frequency": "68.5",
+    "Acceptance Rate": "0.7152194271882422",
+    "Link": "https://leetcode.com/problems/palindromic-substrings",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Number of Groups to Create a Valid Assignment",
+    "Frequency": "68.5",
+    "Acceptance Rate": "0.2395079098177825",
+    "Link": "https://leetcode.com/problems/minimum-number-of-groups-to-create-a-valid-assignment",
+    "Topics": "Array, Hash Table, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "68.5",
+    "Acceptance Rate": "0.5506642072140499",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Gas Station",
+    "Frequency": "68.5",
+    "Acceptance Rate": "0.46224686361382356",
+    "Link": "https://leetcode.com/problems/gas-station",
+    "Topics": "Array, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Count Vowel Substrings of a String",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.7110984185913682",
+    "Link": "https://leetcode.com/problems/count-vowel-substrings-of-a-string",
+    "Topics": "Hash Table, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Car Fleet",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.5327844022801751",
+    "Link": "https://leetcode.com/problems/car-fleet",
+    "Topics": "Array, Stack, Sorting, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Total Cost to Hire K Workers",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.4303827366949161",
+    "Link": "https://leetcode.com/problems/total-cost-to-hire-k-workers",
+    "Topics": "Array, Two Pointers, Heap (Priority Queue), Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.3684092387288798",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Find the Count of Monotonic Pairs II",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.2276899625542632",
+    "Link": "https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii",
+    "Topics": "Array, Math, Dynamic Programming, Combinatorics, Prefix Sum"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.5554745954435731",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Move Zeroes",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.627215990242175",
+    "Link": "https://leetcode.com/problems/move-zeroes",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.3671676890399629",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Reverse Words in a String III",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.836186802302634",
+    "Link": "https://leetcode.com/problems/reverse-words-in-a-string-iii",
+    "Topics": "Two Pointers, String"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Roman to Integer",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.6462161601302041",
+    "Link": "https://leetcode.com/problems/roman-to-integer",
+    "Topics": "Hash Table, Math, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "58.7",
+    "Acceptance Rate": "0.3564903132518386",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  }
+]

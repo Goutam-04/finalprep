@@ -1,0 +1,74 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Bit Flips to Convert Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8751840488026665",
+    "Link": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number",
+    "Topics": "Bit Manipulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "84.6",
+    "Acceptance Rate": "0.7072439108700075",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "79.7",
+    "Acceptance Rate": "0.4216082708943754",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Palindrome Number",
+    "Frequency": "73.3",
+    "Acceptance Rate": "0.5904066390914808",
+    "Link": "https://leetcode.com/problems/palindrome-number",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Anagram",
+    "Frequency": "64.3",
+    "Acceptance Rate": "0.6647232986261942",
+    "Link": "https://leetcode.com/problems/valid-anagram",
+    "Topics": "Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "64.3",
+    "Acceptance Rate": "0.5197412482924266",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "64.3",
+    "Acceptance Rate": "0.5554847421954018",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "64.3",
+    "Acceptance Rate": "0.36717421395494343",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "64.3",
+    "Acceptance Rate": "0.3564954114127489",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  }
+]

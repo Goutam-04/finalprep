@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Largest Palindromic Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3635785830244739",
+    "Link": "https://leetcode.com/problems/largest-palindromic-number",
+    "Topics": "Hash Table, String, Greedy, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5506747314313574",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  }
+]

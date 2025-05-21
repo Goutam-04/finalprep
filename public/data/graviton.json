@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Keys and Rooms",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7452804676367494",
+    "Link": "https://leetcode.com/problems/keys-and-rooms",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Course Schedule",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4894742243322533",
+    "Link": "https://leetcode.com/problems/course-schedule",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Largest Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4111775652169898",
+    "Link": "https://leetcode.com/problems/largest-number",
+    "Topics": "Array, String, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode Ways",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.36382225198512425",
+    "Link": "https://leetcode.com/problems/decode-ways",
+    "Topics": "String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "01 Matrix",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5113439389037772",
+    "Link": "https://leetcode.com/problems/01-matrix",
+    "Topics": "Array, Dynamic Programming, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Binary Tree Cameras",
+    "Frequency": "89.5",
+    "Acceptance Rate": "0.4709273754782547",
+    "Link": "https://leetcode.com/problems/binary-tree-cameras",
+    "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Collect Coins in a Tree",
+    "Frequency": "89.5",
+    "Acceptance Rate": "0.35694970254191455",
+    "Link": "https://leetcode.com/problems/collect-coins-in-a-tree",
+    "Topics": "Array, Tree, Graph, Topological Sort"
+  }
+]

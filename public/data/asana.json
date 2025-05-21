@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Product of Array Except Self",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6762141812591115",
+    "Link": "https://leetcode.com/problems/product-of-array-except-self",
+    "Topics": "Array, Prefix Sum"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Maximum Repeating Substring",
+    "Frequency": "82.9",
+    "Acceptance Rate": "0.394765693364581",
+    "Link": "https://leetcode.com/problems/maximum-repeating-substring",
+    "Topics": "String, Dynamic Programming, String Matching"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "K Closest Points to Origin",
+    "Frequency": "78.9",
+    "Acceptance Rate": "0.6780176874416978",
+    "Link": "https://leetcode.com/problems/k-closest-points-to-origin",
+    "Topics": "Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
+  }
+]

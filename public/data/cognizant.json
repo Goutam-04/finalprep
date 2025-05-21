@@ -1,0 +1,202 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Smallest Value of the Rearranged Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5258541661504919",
+    "Link": "https://leetcode.com/problems/smallest-value-of-the-rearranged-number",
+    "Topics": "Math, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Count Subarrays of Length Three With a Condition",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6201812776317159",
+    "Link": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Palindrome Number",
+    "Frequency": "97.4",
+    "Acceptance Rate": "0.5903957286868953",
+    "Link": "https://leetcode.com/problems/palindrome-number",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Fibonacci Number",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.7278209180605181",
+    "Link": "https://leetcode.com/problems/fibonacci-number",
+    "Topics": "Math, Dynamic Programming, Recursion, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "77.0",
+    "Acceptance Rate": "0.3564897700095908",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "77.0",
+    "Acceptance Rate": "0.5554744580805819",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Managers with at Least 5 Direct Reports",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.48959741317135635",
+    "Link": "https://leetcode.com/problems/managers-with-at-least-5-direct-reports",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.5197366644495418",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.45269682963005076",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reverse Integer",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.3013921879450723",
+    "Link": "https://leetcode.com/problems/reverse-integer",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Remove Duplicates from Sorted Array",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.6004991582475047",
+    "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Anagram",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.6647155797472684",
+    "Link": "https://leetcode.com/problems/valid-anagram",
+    "Topics": "Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.42160305272611676",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Product Sales Analysis I",
+    "Frequency": "69.8",
+    "Acceptance Rate": "0.8440857157076737",
+    "Link": "https://leetcode.com/problems/product-sales-analysis-i",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Sorted Array",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.5267947800139087",
+    "Link": "https://leetcode.com/problems/merge-sorted-array",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Fizz Buzz",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.742199820926551",
+    "Link": "https://leetcode.com/problems/fizz-buzz",
+    "Topics": "Math, String, Simulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Students and Examinations",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.6044330775788577",
+    "Link": "https://leetcode.com/problems/students-and-examinations",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Primes",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.34629420278926015",
+    "Link": "https://leetcode.com/problems/count-primes",
+    "Topics": "Array, Math, Enumeration, Number Theory"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Consecutive Numbers",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.4586052897003019",
+    "Link": "https://leetcode.com/problems/consecutive-numbers",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.3684087881714738",
+    "Link": "https://leetcode.com/problems/3sum",
+    "Topics": "Array, Two Pointers, Sorting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Move Zeroes",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.6272159557786989",
+    "Link": "https://leetcode.com/problems/move-zeroes",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Binary Search",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.5939933815907438",
+    "Link": "https://leetcode.com/problems/binary-search",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Two Sorted Lists",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.666536285244076",
+    "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Happy Number",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.5788772763892253",
+    "Link": "https://leetcode.com/problems/happy-number",
+    "Topics": "Hash Table, Math, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Substring Without Repeating Characters",
+    "Frequency": "59.7",
+    "Acceptance Rate": "0.36716784915615297",
+    "Link": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "Topics": "Hash Table, String, Sliding Window"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Maximize the Number of Partitions After Operations",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.2732809962100704",
+    "Link": "https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations",
+    "Topics": "String, Dynamic Programming, Bit Manipulation, Bitmask"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Water Bottles",
+    "Frequency": "67.9",
+    "Acceptance Rate": "0.7067725700501122",
+    "Link": "https://leetcode.com/problems/water-bottles",
+    "Topics": "Math, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Parsing A Boolean Expression",
+    "Frequency": "67.9",
+    "Acceptance Rate": "0.6993171114183845",
+    "Link": "https://leetcode.com/problems/parsing-a-boolean-expression",
+    "Topics": "String, Stack, Recursion"
+  }
+]

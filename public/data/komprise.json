@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Time Needed to Buy Tickets",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.7056578362885816",
+    "Link": "https://leetcode.com/problems/time-needed-to-buy-tickets",
+    "Topics": "Array, Queue, Simulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Candy",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.44662778302519224",
+    "Link": "https://leetcode.com/problems/candy",
+    "Topics": "Array, Greedy"
+  }
+]

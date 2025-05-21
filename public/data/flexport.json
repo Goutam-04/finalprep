@@ -1,0 +1,82 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6097578788426532",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Clone Graph",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6195441700895804",
+    "Link": "https://leetcode.com/problems/clone-graph",
+    "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Graph"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "97.9",
+    "Acceptance Rate": "0.4929500374808134",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Letter Combinations of a Phone Number",
+    "Frequency": "86.7",
+    "Acceptance Rate": "0.6359981466498627",
+    "Link": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "Topics": "Hash Table, String, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "My Calendar I",
+    "Frequency": "82.7",
+    "Acceptance Rate": "0.581322019665365",
+    "Link": "https://leetcode.com/problems/my-calendar-i",
+    "Topics": "Array, Binary Search, Design, Segment Tree, Ordered Set"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Zero Request Servers",
+    "Frequency": "62.5",
+    "Acceptance Rate": "0.3299011532125206",
+    "Link": "https://leetcode.com/problems/count-zero-request-servers",
+    "Topics": "Array, Hash Table, Sliding Window, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Increasing Subsequence",
+    "Frequency": "62.5",
+    "Acceptance Rate": "0.5755318120845838",
+    "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "Topics": "Array, Binary Search, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subarray Product Less Than K",
+    "Frequency": "62.5",
+    "Acceptance Rate": "0.5272590227230999",
+    "Link": "https://leetcode.com/problems/subarray-product-less-than-k",
+    "Topics": "Array, Binary Search, Sliding Window, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Bag of Tokens",
+    "Frequency": "62.5",
+    "Acceptance Rate": "0.5914190342033966",
+    "Link": "https://leetcode.com/problems/bag-of-tokens",
+    "Topics": "Array, Two Pointers, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Validate IP Address",
+    "Frequency": "62.5",
+    "Acceptance Rate": "0.2776768443697236",
+    "Link": "https://leetcode.com/problems/validate-ip-address",
+    "Topics": "String"
+  }
+]

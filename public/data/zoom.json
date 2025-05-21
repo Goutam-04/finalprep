@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "User Activity for the Past 30 Days I",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.49402369292150994",
+    "Link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-i",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "User Activity for the Past 30 Days II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.35716709860545476",
+    "Link": "https://leetcode.com/problems/user-activity-for-the-past-30-days-ii",
+    "Topics": "Database"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Container With Most Water",
+    "Frequency": "66.1",
+    "Acceptance Rate": "0.575789100702394",
+    "Link": "https://leetcode.com/problems/container-with-most-water",
+    "Topics": "Array, Two Pointers, Greedy"
+  }
+]

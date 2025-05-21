@@ -1,0 +1,50 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Happy Number",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5788769131845695",
+    "Link": "https://leetcode.com/problems/happy-number",
+    "Topics": "Hash Table, Math, Two Pointers"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Check If It Is a Good Array",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.610261602678018",
+    "Link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "Topics": "Array, Math, Number Theory"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Best Time to Buy and Sell Stock IV",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.46625141343951443",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Subtree of Another Tree",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.4978457088785793",
+    "Link": "https://leetcode.com/problems/subtree-of-another-tree",
+    "Topics": "Tree, Depth-First Search, String Matching, Binary Tree, Hash Function"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Largest Combination With Bitwise AND Greater Than Zero",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.8090602508296341",
+    "Link": "https://leetcode.com/problems/largest-combination-with-bitwise-and-greater-than-zero",
+    "Topics": "Array, Hash Table, Bit Manipulation, Counting"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Permutation Sequence",
+    "Frequency": "89.2",
+    "Acceptance Rate": "0.4967104123558739",
+    "Link": "https://leetcode.com/problems/permutation-sequence",
+    "Topics": "Math, Recursion"
+  }
+]

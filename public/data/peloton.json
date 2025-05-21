@@ -1,0 +1,26 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3571537616023449",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "95.0",
+    "Acceptance Rate": "0.5492725966366376",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subdomain Visit Count",
+    "Frequency": "79.6",
+    "Acceptance Rate": "0.7679151600697672",
+    "Link": "https://leetcode.com/problems/subdomain-visit-count",
+    "Topics": "Array, Hash Table, String, Counting"
+  }
+]

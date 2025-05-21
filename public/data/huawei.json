@@ -1,0 +1,122 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Minimum Number of Visited Cells in a Grid",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.22720092553451843",
+    "Link": "https://leetcode.com/problems/minimum-number-of-visited-cells-in-a-grid",
+    "Topics": "Array, Dynamic Programming, Stack, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Binary String After Change",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4696754250386398",
+    "Link": "https://leetcode.com/problems/maximum-binary-string-after-change",
+    "Topics": "String, Greedy"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "91.4",
+    "Acceptance Rate": "0.555465565970498",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Parentheses",
+    "Frequency": "87.7",
+    "Acceptance Rate": "0.42160015941980655",
+    "Link": "https://leetcode.com/problems/valid-parentheses",
+    "Topics": "String, Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "83.3",
+    "Acceptance Rate": "0.6097522527320367",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Islands",
+    "Frequency": "78.0",
+    "Acceptance Rate": "0.6206908170020644",
+    "Link": "https://leetcode.com/problems/number-of-islands",
+    "Topics": "Array, Depth-First Search, Breadth-First Search, Union Find, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Generate Parentheses",
+    "Frequency": "78.0",
+    "Acceptance Rate": "0.7691565117509477",
+    "Link": "https://leetcode.com/problems/generate-parentheses",
+    "Topics": "String, Dynamic Programming, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Combination Sum",
+    "Frequency": "71.1",
+    "Acceptance Rate": "0.7439595474365003",
+    "Link": "https://leetcode.com/problems/combination-sum",
+    "Topics": "Array, Backtracking"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Two Sorted Lists",
+    "Frequency": "71.1",
+    "Acceptance Rate": "0.6665309288868871",
+    "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "71.1",
+    "Acceptance Rate": "0.3564848001477494",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "24 Game",
+    "Frequency": "61.4",
+    "Acceptance Rate": "0.499071388446238",
+    "Link": "https://leetcode.com/problems/24-game",
+    "Topics": "Array, Math, Backtracking"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Largest Number",
+    "Frequency": "61.4",
+    "Acceptance Rate": "0.4111627482773768",
+    "Link": "https://leetcode.com/problems/largest-number",
+    "Topics": "Array, String, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Subarray",
+    "Frequency": "61.4",
+    "Acceptance Rate": "0.5197306552485458",
+    "Link": "https://leetcode.com/problems/maximum-subarray",
+    "Topics": "Array, Divide and Conquer, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Daily Temperatures",
+    "Frequency": "61.4",
+    "Acceptance Rate": "0.6721547781903459",
+    "Link": "https://leetcode.com/problems/daily-temperatures",
+    "Topics": "Array, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Missing Number",
+    "Frequency": "61.4",
+    "Acceptance Rate": "0.697909904718978",
+    "Link": "https://leetcode.com/problems/missing-number",
+    "Topics": "Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+  }
+]

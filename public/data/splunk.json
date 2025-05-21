@@ -1,0 +1,130 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Meeting Rooms II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5207967900258659",
+    "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Group Anagrams",
+    "Frequency": "91.5",
+    "Acceptance Rate": "0.707241806015576",
+    "Link": "https://leetcode.com/problems/group-anagrams",
+    "Topics": "Array, Hash Table, String, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Koko Eating Bananas",
+    "Frequency": "91.5",
+    "Acceptance Rate": "0.49042398144325666",
+    "Link": "https://leetcode.com/problems/koko-eating-bananas",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Distinct Islands",
+    "Frequency": "91.5",
+    "Acceptance Rate": "0.6214587948858077",
+    "Link": "https://leetcode.com/problems/number-of-distinct-islands",
+    "Topics": "Hash Table, Depth-First Search, Breadth-First Search, Union Find, Hash Function"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Increasing Subsequence",
+    "Frequency": "91.5",
+    "Acceptance Rate": "0.5755260771902924",
+    "Link": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "Topics": "Array, Binary Search, Dynamic Programming"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Find Median from Data Stream",
+    "Frequency": "91.5",
+    "Acceptance Rate": "0.5311618528382884",
+    "Link": "https://leetcode.com/problems/find-median-from-data-stream",
+    "Topics": "Two Pointers, Design, Sorting, Heap (Priority Queue), Data Stream"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find First and Last Position of Element in Sorted Array",
+    "Frequency": "91.5",
+    "Acceptance Rate": "0.46567404875345964",
+    "Link": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Decode String",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.6097517480133998",
+    "Link": "https://leetcode.com/problems/decode-string",
+    "Topics": "String, Stack, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Meeting Rooms",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.5889721284470837",
+    "Link": "https://leetcode.com/problems/meeting-rooms",
+    "Topics": "Array, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.4493688509975474",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design Browser History",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.7768681905112771",
+    "Link": "https://leetcode.com/problems/design-browser-history",
+    "Topics": "Array, Linked List, Stack, Design, Doubly-Linked List, Data Stream"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.6481244165846847",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Height Trees",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.41944748533732273",
+    "Link": "https://leetcode.com/problems/minimum-height-trees",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Min Stack",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.5623418053717341",
+    "Link": "https://leetcode.com/problems/min-stack",
+    "Topics": "Stack, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find All Anagrams in a String",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.5206897316100869",
+    "Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Permutations",
+    "Frequency": "79.4",
+    "Acceptance Rate": "0.8048468429200547",
+    "Link": "https://leetcode.com/problems/permutations",
+    "Topics": "Array, Backtracking"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Count Equal and Divisible Pairs in an Array",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.8407574013190431",
+    "Link": "https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Task Scheduler",
+    "Frequency": "66.9",
+    "Acceptance Rate": "0.6133118757161519",
+    "Link": "https://leetcode.com/problems/task-scheduler",
+    "Topics": "Array, Hash Table, Greedy, Sorting, Heap (Priority Queue), Counting"
+  }
+]

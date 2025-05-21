@@ -1,0 +1,146 @@
+[
+  {
+    "Difficulty": "HARD",
+    "Title": "Construct Target Array With Multiple Sums",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3624834404142907",
+    "Link": "https://leetcode.com/problems/construct-target-array-with-multiple-sums",
+    "Topics": "Array, Heap (Priority Queue)"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Encode Number",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.7011798905608755",
+    "Link": "https://leetcode.com/problems/encode-number",
+    "Topics": "Math, String, Bit Manipulation"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find Numbers with Even Number of Digits",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.7935464085551694",
+    "Link": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits",
+    "Topics": "Array, Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Finding Pairs With a Certain Sum",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.4893885493630089",
+    "Link": "https://leetcode.com/problems/finding-pairs-with-a-certain-sum",
+    "Topics": "Array, Hash Table, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Get Biggest Three Rhombus Sums in a Grid",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.49076343320947635",
+    "Link": "https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid",
+    "Topics": "Array, Math, Sorting, Heap (Priority Queue), Matrix, Prefix Sum"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Substrings of Size Three with Distinct Characters",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.75298323253641",
+    "Link": "https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters",
+    "Topics": "Hash Table, String, Sliding Window, Counting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "3Sum With Multiplicity",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.4576165921664447",
+    "Link": "https://leetcode.com/problems/3sum-with-multiplicity",
+    "Topics": "Array, Hash Table, Two Pointers, Sorting, Counting"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "1-bit and 2-bit Characters",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.4511423881159342",
+    "Link": "https://leetcode.com/problems/1-bit-and-2-bit-characters",
+    "Topics": "Array"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Find the K-Beauty of a Number",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.6151901236194728",
+    "Link": "https://leetcode.com/problems/find-the-k-beauty-of-a-number",
+    "Topics": "Math, String, Sliding Window"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Subtract the Product and Sum of Digits of an Integer",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.8666741370206181",
+    "Link": "https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer",
+    "Topics": "Math"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Exam Room",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.42768424133674393",
+    "Link": "https://leetcode.com/problems/exam-room",
+    "Topics": "Design, Heap (Priority Queue), Ordered Set"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Range Frequency Queries",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.3948352174173097",
+    "Link": "https://leetcode.com/problems/range-frequency-queries",
+    "Topics": "Array, Hash Table, Binary Search, Design, Segment Tree"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Maximum Number of Words You Can Type",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.7455814147829358",
+    "Link": "https://leetcode.com/problems/maximum-number-of-words-you-can-type",
+    "Topics": "Hash Table, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Sort the Matrix Diagonally",
+    "Frequency": "87.2",
+    "Acceptance Rate": "0.8296039070769345",
+    "Link": "https://leetcode.com/problems/sort-the-matrix-diagonally",
+    "Topics": "Array, Sorting, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Number of Subarrays with Bounded Maximum",
+    "Frequency": "52.3",
+    "Acceptance Rate": "0.5376070700203943",
+    "Link": "https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Subarray Sum Equals K",
+    "Frequency": "52.3",
+    "Acceptance Rate": "0.45283098881029005",
+    "Link": "https://leetcode.com/problems/subarray-sum-equals-k",
+    "Topics": "Array, Hash Table, Prefix Sum"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Binary Tree Cameras",
+    "Frequency": "52.3",
+    "Acceptance Rate": "0.4709016069720294",
+    "Link": "https://leetcode.com/problems/binary-tree-cameras",
+    "Topics": "Dynamic Programming, Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Insert Delete GetRandom O(1)",
+    "Frequency": "52.3",
+    "Acceptance Rate": "0.5492725495540371",
+    "Link": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "Topics": "Array, Hash Table, Math, Design, Randomized"
+  }
+]

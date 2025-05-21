@@ -1,0 +1,90 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.45270755103186394",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Perfect Squares",
+    "Frequency": "87.1",
+    "Acceptance Rate": "0.5558381099484108",
+    "Link": "https://leetcode.com/problems/perfect-squares",
+    "Topics": "Math, Dynamic Programming, Breadth-First Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Reverse Linked List II",
+    "Frequency": "83.2",
+    "Acceptance Rate": "0.4941913960755684",
+    "Link": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "Topics": "Linked List"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Remove Duplicates from Sorted List",
+    "Frequency": "78.4",
+    "Acceptance Rate": "0.5469456400282603",
+    "Link": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "Topics": "Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find All Anagrams in a String",
+    "Frequency": "78.4",
+    "Acceptance Rate": "0.5206988106940118",
+    "Link": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "Topics": "Hash Table, String, Sliding Window"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Binary Tree Paths",
+    "Frequency": "72.3",
+    "Acceptance Rate": "0.6627121021543166",
+    "Link": "https://leetcode.com/problems/binary-tree-paths",
+    "Topics": "String, Backtracking, Tree, Depth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Binary Tree Level Order Traversal II",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.6578312189621539",
+    "Link": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii",
+    "Topics": "Tree, Breadth-First Search, Binary Tree"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Permutation in String",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.47076070041968593",
+    "Link": "https://leetcode.com/problems/permutation-in-string",
+    "Topics": "Hash Table, Two Pointers, String, Sliding Window"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Random Pick with Weight",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.4815923072470801",
+    "Link": "https://leetcode.com/problems/random-pick-with-weight",
+    "Topics": "Array, Math, Binary Search, Prefix Sum, Randomized"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Merge Two Sorted Lists",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.6665503793504542",
+    "Link": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Missing Number",
+    "Frequency": "63.6",
+    "Acceptance Rate": "0.6979348551982857",
+    "Link": "https://leetcode.com/problems/missing-number",
+    "Topics": "Array, Hash Table, Math, Binary Search, Bit Manipulation, Sorting"
+  }
+]

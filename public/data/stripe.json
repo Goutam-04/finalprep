@@ -1,0 +1,50 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Penalty for a Shop",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6755553117972908",
+    "Link": "https://leetcode.com/problems/minimum-penalty-for-a-shop",
+    "Topics": "String, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Evaluate Division",
+    "Frequency": "67.2",
+    "Acceptance Rate": "0.6298750931546463",
+    "Link": "https://leetcode.com/problems/evaluate-division",
+    "Topics": "Array, String, Depth-First Search, Breadth-First Search, Union Find, Graph, Shortest Path"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Cheapest Flights Within K Stops",
+    "Frequency": "55.6",
+    "Acceptance Rate": "0.4025037239463752",
+    "Link": "https://leetcode.com/problems/cheapest-flights-within-k-stops",
+    "Topics": "Dynamic Programming, Depth-First Search, Breadth-First Search, Graph, Heap (Priority Queue), Shortest Path"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Optimal Account Balancing",
+    "Frequency": "50.7",
+    "Acceptance Rate": "0.49840544071313303",
+    "Link": "https://leetcode.com/problems/optimal-account-balancing",
+    "Topics": "Array, Dynamic Programming, Backtracking, Bit Manipulation, Bitmask"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Brace Expansion",
+    "Frequency": "50.7",
+    "Acceptance Rate": "0.6667840228958216",
+    "Link": "https://leetcode.com/problems/brace-expansion",
+    "Topics": "String, Backtracking, Breadth-First Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Parallel Courses III",
+    "Frequency": "43.9",
+    "Acceptance Rate": "0.667584907798204",
+    "Link": "https://leetcode.com/problems/parallel-courses-iii",
+    "Topics": "Array, Dynamic Programming, Graph, Topological Sort"
+  }
+]

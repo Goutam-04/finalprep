@@ -1,0 +1,162 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find Palindrome With Fixed Length",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.37353682026966956",
+    "Link": "https://leetcode.com/problems/find-palindrome-with-fixed-length",
+    "Topics": "Array, Math"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Make Array Non-decreasing or Non-increasing",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6535100495193709",
+    "Link": "https://leetcode.com/problems/make-array-non-decreasing-or-non-increasing",
+    "Topics": "Dynamic Programming, Greedy"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Break a Palindrome",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.515233243150124",
+    "Link": "https://leetcode.com/problems/break-a-palindrome",
+    "Topics": "String, Greedy"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Median of Two Sorted Arrays",
+    "Frequency": "87.5",
+    "Acceptance Rate": "0.4348818897740088",
+    "Link": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "Topics": "Array, Binary Search, Divide and Conquer"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Best Time to Buy and Sell Stock",
+    "Frequency": "83.1",
+    "Acceptance Rate": "0.5506580887942565",
+    "Link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Time Based Key-Value Store",
+    "Frequency": "77.6",
+    "Acceptance Rate": "0.4929493069148724",
+    "Link": "https://leetcode.com/problems/time-based-key-value-store",
+    "Topics": "Hash Table, String, Binary Search, Design"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Two Sum",
+    "Frequency": "77.6",
+    "Acceptance Rate": "0.5554657646082751",
+    "Link": "https://leetcode.com/problems/two-sum",
+    "Topics": "Array, Hash Table"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "77.6",
+    "Acceptance Rate": "0.44936920484949744",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Course Schedule",
+    "Frequency": "70.6",
+    "Acceptance Rate": "0.4894560094340342",
+    "Link": "https://leetcode.com/problems/course-schedule",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Search in Rotated Sorted Array",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.4264871508687405",
+    "Link": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Next Permutation",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.4279308002456824",
+    "Link": "https://leetcode.com/problems/next-permutation",
+    "Topics": "Array, Two Pointers"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Reverse Nodes in k-Group",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.6268016427726403",
+    "Link": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "Topics": "Linked List, Recursion"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.45269172845615185",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Integer to Roman",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.6832938458342389",
+    "Link": "https://leetcode.com/problems/integer-to-roman",
+    "Topics": "Hash Table, Math, String"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Koko Eating Bananas",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.49042441139883475",
+    "Link": "https://leetcode.com/problems/koko-eating-bananas",
+    "Topics": "Array, Binary Search"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Longest Palindromic Substring",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.35648496794254336",
+    "Link": "https://leetcode.com/problems/longest-palindromic-substring",
+    "Topics": "Two Pointers, String, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Course Schedule II",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.5312891499617015",
+    "Link": "https://leetcode.com/problems/course-schedule-ii",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Copy List with Random Pointer",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.6016390030501881",
+    "Link": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "Topics": "Hash Table, Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Rotting Oranges",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.5635839838317913",
+    "Link": "https://leetcode.com/problems/rotting-oranges",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Intersection of Two Linked Lists",
+    "Frequency": "60.8",
+    "Acceptance Rate": "0.6078132548997087",
+    "Link": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "Topics": "Hash Table, Linked List, Two Pointers"
+  }
+]

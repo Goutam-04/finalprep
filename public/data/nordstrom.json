@@ -1,0 +1,82 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Palindrome Permutation",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.684701932673986",
+    "Link": "https://leetcode.com/problems/palindrome-permutation",
+    "Topics": "Hash Table, String, Bit Manipulation"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Integer to English Words",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.3430781962945464",
+    "Link": "https://leetcode.com/problems/integer-to-english-words",
+    "Topics": "Math, String, Recursion"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5219007296350657",
+    "Link": "https://leetcode.com/problems/house-robber",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "House Robber II",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.43401667083901235",
+    "Link": "https://leetcode.com/problems/house-robber-ii",
+    "Topics": "Array, Dynamic Programming"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Spiral Matrix",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.5357518563962169",
+    "Link": "https://leetcode.com/problems/spiral-matrix",
+    "Topics": "Array, Matrix, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Course Schedule",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.489465450363248",
+    "Link": "https://leetcode.com/problems/course-schedule",
+    "Topics": "Depth-First Search, Breadth-First Search, Graph, Topological Sort"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Word Break",
+    "Frequency": "88.1",
+    "Acceptance Rate": "0.48132181326211076",
+    "Link": "https://leetcode.com/problems/word-break",
+    "Topics": "Array, Hash Table, String, Dynamic Programming, Trie, Memoization"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "88.1",
+    "Acceptance Rate": "0.4493770541198735",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Meeting Rooms II",
+    "Frequency": "88.1",
+    "Acceptance Rate": "0.5207984174932236",
+    "Link": "https://leetcode.com/problems/meeting-rooms-ii",
+    "Topics": "Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Display Table of Food Orders in a Restaurant",
+    "Frequency": "88.1",
+    "Acceptance Rate": "0.7560333183250788",
+    "Link": "https://leetcode.com/problems/display-table-of-food-orders-in-a-restaurant",
+    "Topics": "Array, Hash Table, String, Sorting, Ordered Set"
+  }
+]

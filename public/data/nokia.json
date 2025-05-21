@@ -1,0 +1,58 @@
+[
+  {
+    "Difficulty": "EASY",
+    "Title": "Minimum Cost of Buying Candies With Discount",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.6200190988801111",
+    "Link": "https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount",
+    "Topics": "Array, Greedy, Sorting"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "LRU Cache",
+    "Frequency": "88.3",
+    "Acceptance Rate": "0.4493757468072909",
+    "Link": "https://leetcode.com/problems/lru-cache",
+    "Topics": "Hash Table, Linked List, Design, Doubly-Linked List"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Check If It Is a Good Array",
+    "Frequency": "88.3",
+    "Acceptance Rate": "0.6102696559561939",
+    "Link": "https://leetcode.com/problems/check-if-it-is-a-good-array",
+    "Topics": "Array, Math, Number Theory"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Trapping Rain Water",
+    "Frequency": "88.3",
+    "Acceptance Rate": "0.6481357462500736",
+    "Link": "https://leetcode.com/problems/trapping-rain-water",
+    "Topics": "Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Count Primes",
+    "Frequency": "88.3",
+    "Acceptance Rate": "0.34629721228324095",
+    "Link": "https://leetcode.com/problems/count-primes",
+    "Topics": "Array, Math, Enumeration, Number Theory"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Longest Common Prefix",
+    "Frequency": "88.3",
+    "Acceptance Rate": "0.4527010558025284",
+    "Link": "https://leetcode.com/problems/longest-common-prefix",
+    "Topics": "String, Trie"
+  },
+  {
+    "Difficulty": "EASY",
+    "Title": "Valid Anagram",
+    "Frequency": "88.3",
+    "Acceptance Rate": "0.6647191546658888",
+    "Link": "https://leetcode.com/problems/valid-anagram",
+    "Topics": "Hash Table, String, Sorting"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Find the Safest Path in a Grid",
+    "Frequency": "100.0",
+    "Acceptance Rate": "0.4833405938646169",
+    "Link": "https://leetcode.com/problems/find-the-safest-path-in-a-grid",
+    "Topics": "Array, Binary Search, Breadth-First Search, Union Find, Heap (Priority Queue), Matrix"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Time Taken to Cross the Door",
+    "Frequency": "88.5",
+    "Acceptance Rate": "0.49200526336775785",
+    "Link": "https://leetcode.com/problems/time-taken-to-cross-the-door",
+    "Topics": "Array, Queue, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Asteroid Collision",
+    "Frequency": "75.3",
+    "Acceptance Rate": "0.45328579738027064",
+    "Link": "https://leetcode.com/problems/asteroid-collision",
+    "Topics": "Array, Stack, Simulation"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Design a Stack With Increment Operation",
+    "Frequency": "67.6",
+    "Acceptance Rate": "0.8012215676785207",
+    "Link": "https://leetcode.com/problems/design-a-stack-with-increment-operation",
+    "Topics": "Array, Stack, Design"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Maximum Side Length of a Square with Sum Less than or Equal to Threshold",
+    "Frequency": "67.6",
+    "Acceptance Rate": "0.5346304506908872",
+    "Link": "https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold",
+    "Topics": "Array, Binary Search, Matrix, Prefix Sum"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Minimum Knight Moves",
+    "Frequency": "54.4",
+    "Acceptance Rate": "0.4126333234181787",
+    "Link": "https://leetcode.com/problems/minimum-knight-moves",
+    "Topics": "Breadth-First Search"
+  },
+  {
+    "Difficulty": "HARD",
+    "Title": "Shortest Path in a Grid with Obstacles Elimination",
+    "Frequency": "54.4",
+    "Acceptance Rate": "0.45533143404147614",
+    "Link": "https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination",
+    "Topics": "Array, Breadth-First Search, Matrix"
+  },
+  {
+    "Difficulty": "MEDIUM",
+    "Title": "Min Stack",
+    "Frequency": "54.4",
+    "Acceptance Rate": "0.5623446287656361",
+    "Link": "https://leetcode.com/problems/min-stack",
+    "Topics": "Stack, Design"
+  }
+]
