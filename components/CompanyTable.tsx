@@ -46,66 +46,77 @@ export default function CompanyTable({ data }: { data: Question[] }) {
     const d = difficulty.toLowerCase();
     const color =
       d === "easy"
-        ? "bg-green-500"
+        ? "bg-green-600 text-white"
         : d === "medium"
-        ? "bg-orange-500"
-        : "bg-red-500";
+          ? "bg-yellow-500 text-black"
+          : "bg-red-500 text-white";
     return { label: d.charAt(0).toUpperCase() + d.slice(1), color };
   };
 
   return (
-    <Table className="text-sm border border-gray-600">
-      <TableHeader className="bg-gray-800 text-white">
-        <TableRow>
-          <TableHead className="w-8" />
-          <TableHead>Title</TableHead>
-          <TableHead>Difficulty</TableHead>
-          <TableHead>Frequency</TableHead>
-          {/* <TableHead>Acceptance Rate</TableHead> */}
-          <TableHead>Topics</TableHead>
-          <TableHead>Leetcode</TableHead>
-        </TableRow>
-      </TableHeader>
-      <TableBody>
-        {data.map((q, idx) => {
-          const { label, color } = getDifficultyStyle(q.Difficulty);
-          return (
-            <TableRow key={idx} className="hover:bg-gray-700">
-              <TableCell>
-                <Checkbox
-                  checked={localCache[q.Title] || false}
-                  onCheckedChange={(checked: boolean) =>
-                    handleCheck(q.Title, Boolean(checked))
-                  }
-                />
-              </TableCell>
-              <TableCell>{q.Title}</TableCell>
-              <TableCell>
-                <div className="flex items-center gap-2">
-                  <span className={`w-3 h-3 rounded-full ${color}`} />
-                  {label}
-                </div>
-              </TableCell>
-              <TableCell>{q.Frequency}</TableCell>
-              {/* <TableCell>
-                {(parseFloat(q["Acceptance Rate"]) * 100).toFixed(2)}%
-              </TableCell> */}
-              <TableCell>{q.Topics}</TableCell>
-              <TableCell>
-                <a
-                  href={q.Link}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-1 text-blue-400 hover:underline"
-                >
-                  <Image src="/leetcode.png" alt="Leetcode" width={18} height={18} />
-                  Link
-                </a>
-              </TableCell>
-            </TableRow>
-          );
-        })}
-      </TableBody>
-    </Table>
+    <div className="overflow-x-auto rounded-xl border border-gray-700 backdrop-blur-md shadow-2xl">
+      <Table className="min-w-full text-sm text-center text-gray-200">
+        <TableHeader className="bg-[#14213D] text-white h-14">
+          <TableRow>
+            <TableHead className="w-10 text-center" />
+            <TableHead className="text-center">Title</TableHead>
+            <TableHead className="text-center">Difficulty</TableHead>
+            <TableHead className="text-center">Frequency</TableHead>
+            <TableHead className="text-center">Leetcode</TableHead>
+            <TableHead className="text-center">Topics</TableHead>
+          </TableRow>
+        </TableHeader>
+        <TableBody>
+          {data.map((q, idx) => {
+            const { label, color } = getDifficultyStyle(q.Difficulty);
+            return (
+              <TableRow
+                key={idx}
+                className="hover:bg-[#223148]/60 transition-all duration-200 border-b border-[#2a2a2a] backdrop-blur-sm"
+              >
+                <TableCell>
+                  <Checkbox
+                    checked={localCache[q.Title] || false}
+                    onCheckedChange={(checked: boolean) =>
+                      handleCheck(q.Title, Boolean(checked))
+                    }
+                  />
+                </TableCell>
+                <TableCell className="font-medium text-gray-100">{q.Title}</TableCell>
+                <TableCell>
+                  <span className={`px-2 py-1 text-xs rounded-full font-semibold ${color}`}>
+                    {label}
+                  </span>
+                </TableCell>
+                <TableCell>{q.Frequency}</TableCell>
+                <TableCell>
+                  <div className="inline-flex items-center bg-[#FEE715]/10 px-3 py-1 rounded-full hover:scale-105 transition-transform duration-200">
+                    <a
+                      href={q.Link}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center gap-2 text-[#FEE715] font-medium hover:underline"
+                    >
+                      <Image
+                        src="/images/leetcode.png"
+                        alt="Leetcode"
+                        width={18}
+                        height={18}
+                      />
+                      Link
+                    </a>
+                  </div>
+                </TableCell>
+                <TableCell>
+                  <span className="text-xs text-gray-300 bg-white/5 px-2 py-1 rounded-full">
+                    {q.Topics}
+                  </span>
+                </TableCell>
+              </TableRow>
+            );
+          })}
+        </TableBody>
+      </Table>
+    </div>
   );
 }

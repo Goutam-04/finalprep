@@ -22,8 +22,12 @@ export default function CompanyPage({ params }: Props) {
 
   return (
     <div className="p-6">
-      <h1 className="text-2xl font-bold mb-6 capitalize">{company} DSA Questions</h1>
-      <CompanyTable data={questions} />
-    </div>
+    <h1 className="relative text-2xl font-bold mb-6 capitalize">
+      <span className="absolute left-0 top-1/2 -translate-y-1/2 w-1 h-6 bg-yellow-400 rounded-sm -ml-4 hidden sm:inline-block" />
+      {company} DSA Questions
+    </h1>
+    <CompanyTable data={questions} />
+  </div>
+  
   );
 }
