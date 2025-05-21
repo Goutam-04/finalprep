@@ -1322,7 +1322,7 @@
   {
     "name": "Lendingkart Technologies",
     "filename": "lendingkart-technologies.json",
-    "logo": "https://logo.clearbit.com/null",
+    "logo": "/logos/lendingkart.png",
     "domain": null
   },
   {
@@ -1574,7 +1574,7 @@
   {
     "name": "National Payments Corporation Of India",
     "filename": "national-payments-corporation-of-india.json",
-    "logo": "https://logo.clearbit.com/null",
+    "logo": "/logos/npci.png",
     "domain": null
   },
   {
@@ -1874,7 +1874,7 @@
   {
     "name": "Pornhub",
     "filename": "pornhub.json",
-    "logo": "https://logo.clearbit.com/null",
+    "logo": "/logos/pornhub.png",
     "domain": null
   },
   {
@@ -2576,7 +2576,7 @@
   {
     "name": "Walmart Labs",
     "filename": "walmart-labs.json",
-    "logo": "https://logo.clearbit.com/null",
+    "logo": "/logos/walmart.png",
     "domain": null
   },
   {
@@ -2732,7 +2732,7 @@
   {
     "name": "Zenefits",
     "filename": "zenefits.json",
-    "logo": "https://logo.clearbit.com/null",
+    "logo": "/logos/zenefits.png",
     "domain": null
   },
   {
@@ -2744,7 +2744,7 @@
   {
     "name": "Zeta Suite",
     "filename": "zeta-suite.json",
-    "logo": "https://logo.clearbit.com/null",
+    "logo": "/logos/zeta.png",
     "domain": null
   },
   {
@@ -2804,7 +2804,7 @@
   {
     "name": "Zs Associates",
     "filename": "zs-associates.json",
-    "logo": "https://logo.clearbit.com/null",
+    "logo": "/logos/zsassociates.png",
     "domain": null
   },
   {
