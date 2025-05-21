@@ -29,7 +29,7 @@ export default function CompanyCard({ name, logoUrl, onClick }: Props) {
         <TooltipTrigger asChild>
           <div
             onClick={onClick}
-            className="cursor-pointer p-4 rounded-xl w-full flex flex-col items-center justify-center bg-[#1a1a1a] transition-all duration-300 transform hover:scale-105 hover:shadow-[0_0_20px_rgba(255,255,255,0.1)] hover:border hover:border-[#FEE715]"
+            className="cursor-pointer p-4 rounded-xl w-full flex flex-col items-center justify-center bg-[#101820] transition-all duration-300 transform hover:scale-105 hover:shadow-[0_0_20px_rgba(255,255,255,0.1)] hover:border hover:border-[#FEE715]"
           >
             <div className="w-12 h-12 flex items-center justify-center mb-2">
               <Image
@@ -40,10 +40,10 @@ export default function CompanyCard({ name, logoUrl, onClick }: Props) {
                 className="object-contain max-h-full"
               />
             </div>
-            <p className="text-sm sm:text-base text-center text-[#E0E0E0]">{name}</p>
+            <p className="text-lg sm:text-base text-center text-[#E0E0E0]">{name}</p>
           </div>
         </TooltipTrigger>
-        <TooltipContent>
+        <TooltipContent className="bg-[#1d2b38] text-[#E0E0E0]">
           <p className="text-sm text-gray-300">{tooltipData[name] || "Popular DSA questions inside!"}</p>
         </TooltipContent>
       </Tooltip>

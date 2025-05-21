@@ -23,18 +23,18 @@ const cards = [
   {
     title: "Apply Filters",
     icon: <Filter className="w-8 h-8 text-yellow-400" />,
-    desc: "Search Across 100+ Companies",
+    desc: "Search across 100+ companies with ease.",
   },
 ];
 
 export default function Sections() {
   return (
-    <section className="bg-[#101820] text-[#E0E0E0] px-6 py-20 space-y-20 overflow-hidden">
+    <section className="bg-[#101820] text-[#E0E0E0] px-4 md:px-6 py-20 space-y-32 overflow-hidden">
 
       {/* How It Works */}
-      <div className="max-w-5xl mx-auto text-center">
-        <h2 className="text-3xl font-bold mb-10 text-white">How It Works</h2>
-        <div className="grid md:grid-cols-3 gap-6">
+      <div className="max-w-6xl mx-auto text-center">
+        <h2 className="text-3xl md:text-4xl font-bold mb-12 text-white">How It Works</h2>
+        <div className="grid gap-8 sm:grid-cols-1 md:grid-cols-3">
           {cards.map((card, index) => (
             <motion.div
               key={index}
@@ -43,12 +43,12 @@ export default function Sections() {
               transition={{ duration: 0.4, delay: index * 0.2 }}
               viewport={{ once: true }}
             >
-              <Card className="bg-[#1A1A1A] text-left hover:shadow-lg transition duration-300 h-full">
-                <CardHeader className="flex items-center justify-center space-y-4">
+              <Card className="bg-[#17232e] text-left hover:shadow-xl transition duration-300 h-full rounded-xl">
+                <CardHeader className="flex flex-col items-center space-y-4 pt-6">
                   {card.icon}
-                  <CardTitle className="text-xl text-white">{card.title}</CardTitle>
+                  <CardTitle className="text-xl font-semibold text-white text-center">{card.title}</CardTitle>
                 </CardHeader>
-                <CardContent className="text-[#CCCCCC] text-sm px-6 pb-6">
+                <CardContent className="text-[#CCCCCC] text-sm  pb-6 text-center">
                   {card.desc}
                 </CardContent>
               </Card>
@@ -57,25 +57,23 @@ export default function Sections() {
         </div>
       </div>
 
-      
-
       {/* About */}
       <motion.div
-        className="max-w-4xl mx-auto text-center"
+        className="max-w-3xl mx-auto text-center"
         initial={{ opacity: 0 }}
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.6 }}
         viewport={{ once: true }}
       >
-    
-        <h2 className="text-3xl font-bold mb-4 text-white typewriter">About This Project</h2>
-        <p className="text-[#CCCCCC] text-lg mb-4">
+        <h2 className="text-3xl md:text-4xl font-bold mb-6 text-white">About This Project</h2>
+        <p className="text-[#CCCCCC] text-base md:text-lg mb-4">
           Built using open-source LeetCode data to help students and professionals prepare more effectively.
         </p>
-        <p className="text-[#AAAAAA]">
-          Created by <span className="font-semibold">[Your Name]</span> &nbsp;|&nbsp;
-          <a href="#" className="text-[#FEE715] hover:underline">GitHub ↗</a> &nbsp;|&nbsp;
-          <a href="#" className="text-[#FEE715] hover:underline">LinkedIn ↗</a>
+        <p className="text-[#AAAAAA] text-sm md:text-base">
+          Created by <span className="font-semibold text-white">Goutam</span> &nbsp;|&nbsp;
+          <a href="https://github.com/Goutam-04" className="text-[#FEE715]  hover:underline" target="_blank" rel="noopener noreferrer">GitHub</a> &nbsp;|&nbsp;
+          <a href="https://x.com/Goutam_004" className="text-[#FEE715] hover:underline" target="_blank" rel="noopener noreferrer">X </a> &nbsp;|&nbsp;
+          <a href="https://www.linkedin.com/in/goutam-kumar-nayak" className="text-[#FEE715] hover:underline" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </p>
       </motion.div>
 
