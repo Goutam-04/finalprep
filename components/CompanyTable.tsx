@@ -12,13 +12,13 @@ import {
   TableRow,
 } from "@/components/ui/table";
 
-interface Question {
+export interface Question {
   Title: string;
   Difficulty: string;
   Frequency: number;
-  "Acceptance Rate": number;
-  Topics: string;
+  AcceptanceRate: number;
   Link: string;
+  Topics: string;
 }
 
 export default function CompanyTable({ data }: { data: Question[] }) {

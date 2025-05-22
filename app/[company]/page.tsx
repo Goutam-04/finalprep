@@ -7,17 +7,20 @@ interface Question {
   Title: string;
   Difficulty: string;
   Frequency: number;
-  "Acceptance Rate": number;
   Topics: string;
   Link: string;
+  AcceptanceRate: number;
 }
 
-export default function CompanyPage({
+// Define the type as a Promise this is breaking in next 15 update  
+export type CompanyParams = Promise<{ company: string }>;
+
+export default async function CompanyPage({
   params,
 }: {
-  params: { company: string };
+  params: CompanyParams;
 }) {
-  const { company } = params;
+  const { company } = await params;
 
   const filePath = path.join(process.cwd(), "public", "data", `${company}.json`);
   let questions: Question[] = [];

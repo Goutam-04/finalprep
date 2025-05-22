@@ -25,7 +25,6 @@ export default function TopCompanies() {
     const slug = companyName.toLowerCase().replace(/\s+/g, "-");
     router.push(`/${slug}`);
   };
-
   return (
     <section className="bg-[#101820] text-[#E0E0E0] py-16 px-0 pt-0">
       <div className="max-w-5xl mx-auto text-center">
