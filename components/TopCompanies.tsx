@@ -3,19 +3,21 @@ import { useRouter } from "next/navigation";
 import CompanyCard from "./CompanyCard";
 
 const companies = [
-    { name: "Amazon", logoUrl: "https://logo.clearbit.com/amazon.com" },
-    { name: "Google", logoUrl: "https://logo.clearbit.com/google.com" },
-    { name: "Microsoft", logoUrl: "https://logo.clearbit.com/microsoft.com" },
-    { name: "Netflix", logoUrl: "https://logo.clearbit.com/netflix.com" },
-    { name: "Meta", logoUrl: "https://logo.clearbit.com/meta.com" },
-    { name: "Adobe", logoUrl: "https://logo.clearbit.com/adobe.com" },
-    { name: "Tesla", logoUrl: "https://logo.clearbit.com/tesla.com" },
-    { name: "SpaceX", logoUrl: "https://logo.clearbit.com/spacex.com" },
-    { name: "NVIDIA", logoUrl: "https://logo.clearbit.com/nvidia.com" },
-    { name: "Stripe", logoUrl: "https://logo.clearbit.com/stripe.com" },
-    { name: "Github", logoUrl: "https://logo.clearbit.com/Github.com" },
-    { name: "Snapchat", logoUrl: "https://logo.clearbit.com/snapchat.com" },
-  ];
+  { name: "Amazon", logoUrl: "https://logo.clearbit.com/amazon.com" },
+  { name: "Google", logoUrl: "https://logo.clearbit.com/google.com" },
+  { name: "Microsoft", logoUrl: "https://logo.clearbit.com/microsoft.com" },
+  { name: "Netflix", logoUrl: "https://logo.clearbit.com/netflix.com" },
+  { name: "Meta", logoUrl: "https://logo.clearbit.com/meta.com" },
+  { name: "Adobe", logoUrl: "https://logo.clearbit.com/adobe.com" },
+  { name: "Tesla", logoUrl: "https://logo.clearbit.com/tesla.com" },
+  { name: "SpaceX", logoUrl: "https://logo.clearbit.com/spacex.com" },
+  { name: "Accenture", logoUrl: "https://logo.clearbit.com/accenture.com" },
+  { name: "Flipkart", logoUrl: "https://logo.clearbit.com/flipkart.com" },
+  { name: "Samsung", logoUrl: "https://logo.clearbit.com/samsung.com" },
+  { name: "Airbnb", logoUrl: "https://logo.clearbit.com/airbnb.com" }
+];
+
+
   
 
 export default function TopCompanies() {

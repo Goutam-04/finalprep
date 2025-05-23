@@ -8,19 +8,21 @@ type Props = {
 };
 
 const tooltipData: Record<string, string> = {
-  Google: "Most asked: 2Sum, LRU Cache…",
   Amazon: "Most asked: Merge Intervals, Sliding Window Max…",
+  Google: "Most asked: 2Sum, LRU Cache…",
   Microsoft: "Most asked: Course Schedule, Clone Graph…",
-  Meta: "Most asked: Word Ladder, Trapping Rain Water…",
   Netflix: "Most asked: Subarrays with K Different Integers…",
+  Meta: "Most asked: Word Ladder, Trapping Rain Water…",
   Adobe: "Most asked: Longest Palindromic Substring…",
   Tesla: "Most asked: Median of Two Sorted Arrays…",
   SpaceX: "Most asked: Rocket Launch Simulation (Graph)…",
-  NVIDIA: "Most asked: DP + Graph Hybrid Problems…",
-  Stripe: "Most asked: Interval Problems, Design LRU…",
-  Github: "Most asked: Git Tree Parsing, DFS/Graph Qs…",
-  Snapchat: "Most asked: Flood Fill, Graph Traversal…",
+  Accenture: "Most asked: Greedy Algorithms, Matrix Traversal…",
+  Flipkart: "Most asked: HashMap & Sliding Window Qs…",
+  Samsung: "Most asked: DP on Grids, Pathfinding…",
+  Airbnb: "Most asked: Backtracking, Interval Problems…",
 };
+
+
 
 export default function CompanyCard({ name, logoUrl, onClick }: Props) {
   return (

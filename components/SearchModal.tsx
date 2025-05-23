@@ -1,6 +1,7 @@
 "use client";
 import { useEffect, useState, useRef } from "react";
-import { Dialog, DialogContent, DialogTitle } from "@/components/ui/dialog";
+import { Dialog, DialogContent, DialogTitle, DialogOverlay } from "@/components/ui/dialog";
+
 import { Input } from "@/components/ui/input";
 import Image from "next/image";
 import { useRouter } from "next/navigation";
@@ -97,9 +98,11 @@ export function SearchModal() {
 
   return (
     <Dialog open={open} onOpenChange={setOpen}>
+      <DialogOverlay className="fixed inset-0 bg-white/1 backdrop-blur-sm z-40" />
       <DialogContent
         className="max-w-xl w-full bg-[#101820] text-[#E0E0E0] rounded-lg shadow-xl p-6 border border-[#253547]"
       >
+
         <DialogTitle className="mb-4 text-xl font-semibold">
           Search companies
         </DialogTitle>
